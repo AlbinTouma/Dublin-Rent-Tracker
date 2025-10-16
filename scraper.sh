@@ -4,7 +4,7 @@ set -e
 echo "Running scraper"
 
 page=1
-url="https://www.daft.ie/property-for-rent/dublin?page=$page"
+url="https://www.daft.ie/sharing/dublin?page=$page"
 
 
 curl 'https://www.daft.ie/property-for-rent/dublin?page=1' \
@@ -24,4 +24,15 @@ curl 'https://www.daft.ie/property-for-rent/dublin?page=1' \
   -H 'upgrade-insecure-requests: 1' \
   -H 'user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36' \
   |grep -Pzo '(?s)(?<=<script id="__NEXT_DATA__" type="application/json" crossorigin="anonymous">).*?(?=</script>)'  |
-  jq '.props.pageProps.listings[0] | delpaths([["listing", "image"], ["listing", "subUnits"]])'
+  jq '[
+  .props.pageProps.listings[] | delpaths([
+  ["listing", "image"], 
+  ["listing", "prs"], 
+  ["listing", "media"], 
+  ["listing", "seller", "profileImage"], 
+  ["listing", "seller", "profileRoundedImage"], 
+  ["listing", "seller", "squareLogo"], 
+  ["listing", "seller", "standardLogo"], 
+  ["listing", "pageBranding"]
+  ])
+  ]'
