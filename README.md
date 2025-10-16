@@ -1,0 +1,1 @@
+Rents have become a major burden for young people in Ireland. It's not uncommon for someone to pay up to 55% of their salary on a small single bed in the capital. This repo archives rent price in Dublin by collecting the lastest listings on Daft.ie, the most popular websites in Ireland.
