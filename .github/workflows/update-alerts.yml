@@ -16,8 +16,11 @@ jobs:
       
       - name: Install jq
         run: sudo apt-get install -y jq
+
+      - name: Install sqlite_utils
+        run: pip install sqlite-utils
       
-      - name: Get weather data
+      - name: Get listings data
         run: bash ./get_listings.sh
       
       - name: Push changes
