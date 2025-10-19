@@ -105,3 +105,5 @@ echo "Merging data and writing to output.json"
 jq -s 'add | unique_by(.listing.id)' "$OUTPUT_FILE" "$TEMP_FILE" > "$OUTPUT_FILE.tmp"
 mv "$OUTPUT_FILE.tmp" "$OUTPUT_FILE"
 echo "Scraping completed"
+
+sqlite-utils insert daft.db sharing output.json --pk=id
