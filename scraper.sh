@@ -79,13 +79,13 @@ while true;
 do
   echo "Scraping page $PAGE"
 
-  if [ "$PAGE" -gt 1 ]; then
-    echo ""$PAGE" is greater so exit" 
+  new_listings="$(get_daft "$PAGE")"
+
+  if [ -z "$new_listings" ] || [ "$new_listings" = "[]" ]; then
+    echo "No listings found or end reached."
     break
   fi
 
-
-  new_listings="$(get_daft "$PAGE")"
   existing_ids=$(jq -r '.[].listing.id' "$OUTPUT_FILE" | sort -u)
 
   if check_id "$new_listings" "$existing_ids" "$TEMP_FILE"; then
