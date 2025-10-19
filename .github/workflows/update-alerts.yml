@@ -1,4 +1,4 @@
-name: "Update Weather Alerts Daily"
+name: "Update Daft Daily Listings"
 
 on:
   schedule:
