@@ -36,15 +36,15 @@ get_daft(){
     -H 'user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36' \
     |grep -Pzo '(?s)(?<=<script id="__NEXT_DATA__" type="application/json" crossorigin="anonymous">).*?(?=</script>)'  |
     jq '[
-    .props.pageProps.listings[] | delpaths([
-    ["listing", "image"], 
-    ["listing", "prs"], 
-    ["listing", "media"], 
-    ["listing", "seller", "profileImage"], 
-    ["listing", "seller", "profileRoundedImage"], 
-    ["listing", "seller", "squareLogo"], 
-    ["listing", "seller", "standardLogo"], 
-    ["listing", "pageBranding"]
+    .props.pageProps.listings[].listing | delpaths([
+    ["image"], 
+    ["prs"], 
+    ["media"], 
+    ["seller", "profileImage"], 
+    ["seller", "profileRoundedImage"], 
+    ["seller", "squareLogo"], 
+    ["seller", "standardLogo"], 
+    ["pageBranding"]
     ])
     ]' 
 
@@ -58,12 +58,12 @@ check_id(){
   local all_exist=true
 
   while read -r listing; do
-    id=$(echo "$listing" | jq -r '.listing.id')
+    id=$(echo "$listing" | jq -r '.id')
     
     if grep -Fxq "$id" <<< "$existing_ids"; then
       echo "id exists $id"
     else
-      echo "$listing" | jq '{title: .listing.title, id: .listing.id}'
+      echo "$listing" | jq '{title: .title, id: .id}'
       jq -c ". + [$listing]" "$TEMP_FILE" > "$TEMP_FILE.tmp"
       mv "$TEMP_FILE.tmp" "$TEMP_FILE"
       all_exist=false
@@ -86,7 +86,7 @@ do
     break
   fi
 
-  existing_ids=$(jq -r '.[].listing.id' "$OUTPUT_FILE" | sort -u)
+  existing_ids=$(jq -r '.[].id' "$OUTPUT_FILE" | sort -u)
 
   if check_id "$new_listings" "$existing_ids" "$TEMP_FILE"; then
     echo "All IDs on page already exist. Stopping early".
@@ -102,8 +102,8 @@ do
 done
 
 echo "Merging data and writing to output.json"
-jq -s 'add | unique_by(.listing.id)' "$OUTPUT_FILE" "$TEMP_FILE" > "$OUTPUT_FILE.tmp"
+jq -s 'add | unique_by(.id)' "$OUTPUT_FILE" "$TEMP_FILE" > "$OUTPUT_FILE.tmp"
 mv "$OUTPUT_FILE.tmp" "$OUTPUT_FILE"
 echo "Scraping completed"
 
-sqlite-utils insert daft.db sharing output.json --pk=id
+sqlite-utils insert daft.db sharing output.json --pk=id --flatten
