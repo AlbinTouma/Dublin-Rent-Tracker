@@ -1,58 +1,6 @@
 [
   {
     "listing": {
-      "id": 6035838,
-      "title": "Mayor Square, Mayor Street Lower, IFSC, Dublin 1, Dublin 1",
-      "seoTitle": "Mayor Square, Mayor Street Lower, IFSC, Dublin 1, Dublin 1",
-      "sections": [
-        "Property",
-        "Private Rental Sector",
-        "Apartments"
-      ],
-      "saleType": [
-        "To Let"
-      ],
-      "featuredLevel": "FEATURED",
-      "featuredLevelFull": "FEATURED",
-      "publishDate": 1760350681000,
-      "price": "From €250 per week",
-      "abbreviatedPrice": "€250+",
-      "numBedrooms": "1 bed",
-      "propertyType": "Apartments",
-      "daftShortcode": "921031821",
-      "seller": {
-        "sellerId": 11111,
-        "name": "StudentHouse",
-        "phone": "01 685 6336",
-        "branch": "StudentHouse",
-        "backgroundColour": "#ffffff",
-        "sellerType": "BRANDED_AGENT",
-        "showContactForm": true,
-        "premierPartnerSeller": false,
-        "sellerAvailable": true
-      },
-      "dateOfConstruction": "NA",
-      "ber": {
-        "rating": "NA"
-      },
-      "platform": "WEB",
-      "point": {
-        "type": "Point",
-        "coordinates": [
-          -6.242475022412577,
-          53.348864712921625
-        ]
-      },
-      "seoFriendlyPath": "/for-rent/mayor-square-mayor-street-lower-ifsc-dublin-1-ifsc-dublin-1/6035838",
-      "category": "Rent",
-      "state": "PUBLISHED",
-      "premierPartner": false
-    },
-    "savedAd": false,
-    "imageRestricted": false
-  },
-  {
-    "listing": {
       "id": 1527608,
       "title": "Node D2 - Fitzwilliam Square, 25 Pembroke Street Upper, Dublin 2",
       "seoTitle": "Node D2 - Fitzwilliam Square, 25 Pembroke Street Upper, Dublin 2",
@@ -97,6 +45,58 @@
         ]
       },
       "seoFriendlyPath": "/for-rent/node-living-25-pembroke-street-upper-dublin-2/1527608",
+      "category": "Rent",
+      "state": "PUBLISHED",
+      "premierPartner": false
+    },
+    "savedAd": false,
+    "imageRestricted": false
+  },
+  {
+    "listing": {
+      "id": 2626696,
+      "title": "Hazelwood Student Village, North Wood Santry, Santry, Dublin 9",
+      "seoTitle": "Hazelwood Student Village, North Wood Santry, Santry, Dublin 9",
+      "sections": [
+        "Property",
+        "Private Rental Sector",
+        "Apartments"
+      ],
+      "saleType": [
+        "To Let"
+      ],
+      "featuredLevel": "PREMIUM",
+      "featuredLevelFull": "PREMIUM",
+      "publishDate": 1760522952000,
+      "price": "From €165 per week",
+      "abbreviatedPrice": "€170+",
+      "numBedrooms": "1 bed",
+      "propertyType": "Apartments",
+      "daftShortcode": "93124105",
+      "seller": {
+        "sellerId": 11867,
+        "name": "Academy Walk Management Company",
+        "phone": "01 8428050",
+        "branch": "Academy Walk Management",
+        "backgroundColour": "#73fade",
+        "sellerType": "BRANDED_AGENT",
+        "showContactForm": true,
+        "premierPartnerSeller": false,
+        "sellerAvailable": true
+      },
+      "dateOfConstruction": "NA",
+      "ber": {
+        "rating": "NA"
+      },
+      "platform": "WEB",
+      "point": {
+        "type": "Point",
+        "coordinates": [
+          -6.257106914827062,
+          53.400669929266
+        ]
+      },
+      "seoFriendlyPath": "/for-rent/hazelwood-student-village-north-wood-santry-santry-dublin-9/2626696",
       "category": "Rent",
       "state": "PUBLISHED",
       "premierPartner": false
@@ -159,9 +159,58 @@
   },
   {
     "listing": {
-      "id": 2626696,
-      "title": "Hazelwood Student Village, North Wood Santry, Santry, Dublin 9",
-      "seoTitle": "Hazelwood Student Village, North Wood Santry, Santry, Dublin 9",
+      "id": 5980623,
+      "title": "Hollystown,Dublin 15, Hollystown, Dublin 15",
+      "seoTitle": "Hollystown,Dublin 15, Hollystown, Dublin 15",
+      "sections": [
+        "Property",
+        "Sharing",
+        "House"
+      ],
+      "saleType": [
+        "To Let"
+      ],
+      "featuredLevel": "FEATURED",
+      "featuredLevelFull": "FEATURED",
+      "publishDate": 1760857409588,
+      "price": "€850 per month",
+      "abbreviatedPrice": "€850",
+      "numBedrooms": "Double Room",
+      "propertyType": "House",
+      "daftShortcode": "35980623",
+      "seller": {
+        "sellerId": 5141413,
+        "name": "yerus",
+        "sellerType": "PRIVATE_USER",
+        "showContactForm": true,
+        "premierPartnerSeller": false,
+        "sellerAvailable": true
+      },
+      "dateOfConstruction": "NA",
+      "ber": {
+        "rating": "A1"
+      },
+      "platform": "WEB",
+      "point": {
+        "type": "Point",
+        "coordinates": [
+          -6.381522,
+          53.426262
+        ]
+      },
+      "seoFriendlyPath": "/share/kilmartin-grove-hollystown-dublin-15-hollystown-dublin-15/5980623",
+      "category": "Share",
+      "state": "PUBLISHED",
+      "premierPartner": false
+    },
+    "savedAd": false,
+    "imageRestricted": false
+  },
+  {
+    "listing": {
+      "id": 6035838,
+      "title": "Mayor Square, Mayor Street Lower, IFSC, Dublin 1, Dublin 1",
+      "seoTitle": "Mayor Square, Mayor Street Lower, IFSC, Dublin 1, Dublin 1",
       "sections": [
         "Property",
         "Private Rental Sector",
@@ -170,20 +219,20 @@
       "saleType": [
         "To Let"
       ],
-      "featuredLevel": "PREMIUM",
-      "featuredLevelFull": "PREMIUM",
-      "publishDate": 1760522952000,
-      "price": "From €165 per week",
-      "abbreviatedPrice": "€170+",
+      "featuredLevel": "FEATURED",
+      "featuredLevelFull": "FEATURED",
+      "publishDate": 1760350681000,
+      "price": "From €250 per week",
+      "abbreviatedPrice": "€250+",
       "numBedrooms": "1 bed",
       "propertyType": "Apartments",
-      "daftShortcode": "93124105",
+      "daftShortcode": "921031821",
       "seller": {
-        "sellerId": 11867,
-        "name": "Academy Walk Management Company",
-        "phone": "01 8428050",
-        "branch": "Academy Walk Management",
-        "backgroundColour": "#73fade",
+        "sellerId": 11111,
+        "name": "StudentHouse",
+        "phone": "01 685 6336",
+        "branch": "StudentHouse",
+        "backgroundColour": "#ffffff",
         "sellerType": "BRANDED_AGENT",
         "showContactForm": true,
         "premierPartnerSeller": false,
@@ -197,12 +246,61 @@
       "point": {
         "type": "Point",
         "coordinates": [
-          -6.257106914827062,
-          53.400669929266
+          -6.242475022412577,
+          53.348864712921625
         ]
       },
-      "seoFriendlyPath": "/for-rent/hazelwood-student-village-north-wood-santry-santry-dublin-9/2626696",
+      "seoFriendlyPath": "/for-rent/mayor-square-mayor-street-lower-ifsc-dublin-1-ifsc-dublin-1/6035838",
       "category": "Rent",
+      "state": "PUBLISHED",
+      "premierPartner": false
+    },
+    "savedAd": false,
+    "imageRestricted": false
+  },
+  {
+    "listing": {
+      "id": 6092718,
+      "title": "Valentia Parade, Phibsborough D7, North Circular Road, Dublin 7",
+      "seoTitle": "Valentia Parade, Phibsborough D7, North Circular Road, Dublin 7",
+      "sections": [
+        "Property",
+        "Sharing",
+        "House"
+      ],
+      "saleType": [
+        "To Let"
+      ],
+      "featuredLevel": "FEATURED",
+      "featuredLevelFull": "FEATURED",
+      "publishDate": 1760803903508,
+      "price": "€235 per week",
+      "abbreviatedPrice": "€240",
+      "numBedrooms": "Twin Room",
+      "propertyType": "House",
+      "daftShortcode": "36092718",
+      "seller": {
+        "sellerId": 1484534,
+        "name": "Vincent",
+        "sellerType": "PRIVATE_USER",
+        "showContactForm": true,
+        "premierPartnerSeller": false,
+        "sellerAvailable": true
+      },
+      "dateOfConstruction": "NA",
+      "ber": {
+        "rating": "SI_666"
+      },
+      "platform": "WEB",
+      "point": {
+        "type": "Point",
+        "coordinates": [
+          -6.263496,
+          53.360423
+        ]
+      },
+      "seoFriendlyPath": "/share/valentia-parade-phibsborough-d7-north-circular-road-dublin-7/6092718",
+      "category": "Share",
       "state": "PUBLISHED",
       "premierPartner": false
     },
@@ -312,6 +410,57 @@
   },
   {
     "listing": {
+      "id": 6236829,
+      "title": "33 Dundaniel Road, Dublin 5, Kilmore, Dublin 5",
+      "seoTitle": "33 Dundaniel Road, Dublin 5, Kilmore, Dublin 5",
+      "sections": [
+        "Property",
+        "Sharing",
+        "House"
+      ],
+      "saleType": [
+        "To Let"
+      ],
+      "featuredLevel": "FEATURED",
+      "featuredLevelFull": "FEATURED",
+      "publishDate": 1760803627329,
+      "price": "€1,195 per month",
+      "abbreviatedPrice": "€1,200",
+      "numBedrooms": "Double Room",
+      "propertyType": "House",
+      "daftShortcode": "36236829",
+      "seller": {
+        "sellerId": 5585505,
+        "name": "James Harper",
+        "phone": "353894831335",
+        "sellerType": "PRIVATE_USER",
+        "showContactForm": true,
+        "premierPartnerSeller": false,
+        "sellerAvailable": true
+      },
+      "dateOfConstruction": "NA",
+      "ber": {
+        "rating": "B3",
+        "code": "115370710"
+      },
+      "platform": "WEB",
+      "point": {
+        "type": "Point",
+        "coordinates": [
+          -6.225621,
+          53.395305
+        ]
+      },
+      "seoFriendlyPath": "/share/33-dundaniel-road-dublin-5-kilmore-dublin-5/6236829",
+      "category": "Share",
+      "state": "PUBLISHED",
+      "premierPartner": false
+    },
+    "savedAd": false,
+    "imageRestricted": false
+  },
+  {
+    "listing": {
       "id": 6244575,
       "title": "Northway Estate, Dublin 11, Finglas, Dublin 11",
       "seoTitle": "Northway Estate, Dublin 11, Finglas, Dublin 11",
@@ -362,29 +511,28 @@
   },
   {
     "listing": {
-      "id": 6321848,
-      "title": "Ballsbridge Court,Serpentine Avenue,Dublin 4, Sandymount, Dublin 4",
-      "seoTitle": "Ballsbridge Court,Serpentine Avenue,Dublin 4, Sandymount, Dublin 4",
+      "id": 6297233,
+      "title": "Thomas Street,Dublin 8, Christchurch, Dublin 8",
+      "seoTitle": "Thomas Street,Dublin 8, Christchurch, Dublin 8",
       "sections": [
         "Property",
         "Sharing",
-        "Apartment",
-        "Flat"
+        "Apartment"
       ],
       "saleType": [
         "To Let"
       ],
       "featuredLevel": "FEATURED",
       "featuredLevelFull": "FEATURED",
-      "publishDate": 1760867079577,
-      "price": "€1,300 per month",
-      "abbreviatedPrice": "€1,300",
-      "numBedrooms": "Double Room",
+      "publishDate": 1760805046594,
+      "price": "€1,400 per month",
+      "abbreviatedPrice": "€1,400",
+      "numBedrooms": "Single & Double Room",
       "propertyType": "Apartment",
-      "daftShortcode": "36321848",
+      "daftShortcode": "36297233",
       "seller": {
-        "sellerId": 6374721,
-        "name": "Andy ",
+        "sellerId": 6017049,
+        "name": "Private User",
         "sellerType": "PRIVATE_USER",
         "showContactForm": true,
         "premierPartnerSeller": false,
@@ -392,17 +540,17 @@
       },
       "dateOfConstruction": "NA",
       "ber": {
-        "rating": "C1"
+        "rating": "B2"
       },
       "platform": "WEB",
       "point": {
         "type": "Point",
         "coordinates": [
-          -6.226108,
-          53.331289
+          -6.278897,
+          53.342594
         ]
       },
-      "seoFriendlyPath": "/share/ballsbridge-court-serpentine-avenue-dublin-4-sandymount-dublin-4/6321848",
+      "seoFriendlyPath": "/share/48-thomas-street-dublin-8-christchurch-co-dublin/6297233",
       "category": "Share",
       "state": "PUBLISHED",
       "premierPartner": false
@@ -412,9 +560,9 @@
   },
   {
     "listing": {
-      "id": 6317119,
-      "title": "Cuil Duin- All bills included in price no extra!, Citywest, Co. Dublin",
-      "seoTitle": "Cuil Duin- All bills included in price no extra!, Citywest, Co. Dublin",
+      "id": 6306254,
+      "title": "81 Castlemoyne, Dublin 13, Clarehall, Dublin 13",
+      "seoTitle": "81 Castlemoyne, Dublin 13, Clarehall, Dublin 13",
       "sections": [
         "Property",
         "Sharing",
@@ -425,115 +573,15 @@
       ],
       "featuredLevel": "FEATURED",
       "featuredLevelFull": "FEATURED",
-      "publishDate": 1760865942750,
-      "price": "€1,250 per month",
-      "abbreviatedPrice": "€1,250",
-      "numBedrooms": "Double Room",
-      "propertyType": "House",
-      "daftShortcode": "36317119",
-      "seller": {
-        "sellerId": 5026167,
-        "name": "Direct Landlord/Property Owner",
-        "sellerType": "PRIVATE_USER",
-        "showContactForm": true,
-        "premierPartnerSeller": false,
-        "sellerAvailable": true
-      },
-      "dateOfConstruction": "NA",
-      "ber": {
-        "rating": "A2"
-      },
-      "platform": "WEB",
-      "point": {
-        "type": "Point",
-        "coordinates": [
-          -6.4303051080673,
-          53.286163884993
-        ]
-      },
-      "seoFriendlyPath": "/share/cuil-duin-all-bills-included-in-price-no-extra-citywest-co-dublin/6317119",
-      "category": "Share",
-      "state": "PUBLISHED",
-      "premierPartner": false
-    },
-    "savedAd": false,
-    "imageRestricted": false
-  },
-  {
-    "listing": {
-      "id": 6324949,
-      "title": "3 Baldoyle , Sutton, Dublin 13",
-      "seoTitle": "3 Baldoyle , Sutton, Dublin 13",
-      "sections": [
-        "Property",
-        "Sharing",
-        "House"
-      ],
-      "saleType": [
-        "To Let"
-      ],
-      "featuredLevel": "FEATURED",
-      "featuredLevelFull": "FEATURED",
-      "publishDate": 1760871816473,
-      "price": "€250 per week",
-      "abbreviatedPrice": "€250",
+      "publishDate": 1760805842547,
+      "price": "€1,100 per month",
+      "abbreviatedPrice": "€1,100",
       "numBedrooms": "Single Room",
       "propertyType": "House",
-      "daftShortcode": "36324949",
+      "daftShortcode": "36306254",
       "seller": {
-        "sellerId": 6543992,
-        "name": "Corina Mooney",
-        "phone": "353852102590",
-        "phoneWhenToCall": "Weekends or after 8pm week days",
-        "sellerType": "PRIVATE_USER",
-        "showContactForm": true,
-        "premierPartnerSeller": false,
-        "sellerAvailable": true
-      },
-      "dateOfConstruction": "NA",
-      "ber": {
-        "rating": "SI_666"
-      },
-      "platform": "WEB",
-      "point": {
-        "type": "Point",
-        "coordinates": [
-          -6.141176,
-          53.391928
-        ]
-      },
-      "seoFriendlyPath": "/share/3-baldoyle-sutton-dublin-13/6324949",
-      "category": "Share",
-      "state": "PUBLISHED",
-      "premierPartner": false
-    },
-    "savedAd": false,
-    "imageRestricted": false
-  },
-  {
-    "listing": {
-      "id": 5980623,
-      "title": "Hollystown,Dublin 15, Hollystown, Dublin 15",
-      "seoTitle": "Hollystown,Dublin 15, Hollystown, Dublin 15",
-      "sections": [
-        "Property",
-        "Sharing",
-        "House"
-      ],
-      "saleType": [
-        "To Let"
-      ],
-      "featuredLevel": "FEATURED",
-      "featuredLevelFull": "FEATURED",
-      "publishDate": 1760857409588,
-      "price": "€850 per month",
-      "abbreviatedPrice": "€850",
-      "numBedrooms": "Double Room",
-      "propertyType": "House",
-      "daftShortcode": "35980623",
-      "seller": {
-        "sellerId": 5141413,
-        "name": "yerus",
+        "sellerId": 5989905,
+        "name": "Private User",
         "sellerType": "PRIVATE_USER",
         "showContactForm": true,
         "premierPartnerSeller": false,
@@ -547,62 +595,11 @@
       "point": {
         "type": "Point",
         "coordinates": [
-          -6.381522,
-          53.426262
+          -6.169368,
+          53.409681
         ]
       },
-      "seoFriendlyPath": "/share/kilmartin-grove-hollystown-dublin-15-hollystown-dublin-15/5980623",
-      "category": "Share",
-      "state": "PUBLISHED",
-      "premierPartner": false
-    },
-    "savedAd": false,
-    "imageRestricted": false
-  },
-  {
-    "listing": {
-      "id": 6316890,
-      "title": "Elder Heath, Dublin 24, Kiltipper, Dublin 24",
-      "seoTitle": "Elder Heath, Dublin 24, Kiltipper, Dublin 24",
-      "sections": [
-        "Property",
-        "Sharing",
-        "House"
-      ],
-      "saleType": [
-        "To Let"
-      ],
-      "featuredLevel": "FEATURED",
-      "featuredLevelFull": "FEATURED",
-      "publishDate": 1760853900695,
-      "price": "€400 per week",
-      "abbreviatedPrice": "€400",
-      "numBedrooms": "Double Room",
-      "propertyType": "House",
-      "daftShortcode": "36316890",
-      "seller": {
-        "sellerId": 6187944,
-        "name": "Michael Vida",
-        "phone": "353892514643",
-        "phoneWhenToCall": "Mon-Fri 4pm to 8pm or All day Sat/Sun",
-        "sellerType": "PRIVATE_USER",
-        "showContactForm": true,
-        "premierPartnerSeller": false,
-        "sellerAvailable": true
-      },
-      "dateOfConstruction": "NA",
-      "ber": {
-        "rating": "A1"
-      },
-      "platform": "WEB",
-      "point": {
-        "type": "Point",
-        "coordinates": [
-          -6.375509,
-          53.268685
-        ]
-      },
-      "seoFriendlyPath": "/share/elder-heath-dublin-24-kiltipper-dublin-24/6316890",
+      "seoFriendlyPath": "/share/81-castlemoyne-dublin-13-clarehall-dublin-13/6306254",
       "category": "Share",
       "state": "PUBLISHED",
       "premierPartner": false
@@ -710,9 +707,58 @@
   },
   {
     "listing": {
-      "id": 6306254,
-      "title": "81 Castlemoyne, Dublin 13, Clarehall, Dublin 13",
-      "seoTitle": "81 Castlemoyne, Dublin 13, Clarehall, Dublin 13",
+      "id": 6316840,
+      "title": "Blind Quay Apartments, Exchange Street Lower, Dublin 8, Dublin City Centre",
+      "seoTitle": "Blind Quay Apartments, Exchange Street Lower, Dublin 8, Dublin City Centre",
+      "sections": [
+        "Property",
+        "Sharing",
+        "Apartment"
+      ],
+      "saleType": [
+        "To Let"
+      ],
+      "featuredLevel": "FEATURED",
+      "featuredLevelFull": "FEATURED",
+      "publishDate": 1760868374227,
+      "price": "€999 per month",
+      "abbreviatedPrice": "€1,000",
+      "numBedrooms": "Double Room",
+      "propertyType": "Apartment",
+      "daftShortcode": "36316840",
+      "seller": {
+        "sellerId": 2051848,
+        "name": "Jeff",
+        "sellerType": "PRIVATE_USER",
+        "showContactForm": true,
+        "premierPartnerSeller": false,
+        "sellerAvailable": true
+      },
+      "dateOfConstruction": "NA",
+      "ber": {
+        "rating": "B3"
+      },
+      "platform": "WEB",
+      "point": {
+        "type": "Point",
+        "coordinates": [
+          -6.268645,
+          53.344974
+        ]
+      },
+      "seoFriendlyPath": "/share/blind-quay-apartments-exchange-street-lower-dublin-8-dublin-city-centre/6316840",
+      "category": "Share",
+      "state": "PUBLISHED",
+      "premierPartner": false
+    },
+    "savedAd": false,
+    "imageRestricted": false
+  },
+  {
+    "listing": {
+      "id": 6316890,
+      "title": "Elder Heath, Dublin 24, Kiltipper, Dublin 24",
+      "seoTitle": "Elder Heath, Dublin 24, Kiltipper, Dublin 24",
       "sections": [
         "Property",
         "Sharing",
@@ -723,15 +769,17 @@
       ],
       "featuredLevel": "FEATURED",
       "featuredLevelFull": "FEATURED",
-      "publishDate": 1760805842547,
-      "price": "€1,100 per month",
-      "abbreviatedPrice": "€1,100",
-      "numBedrooms": "Single Room",
+      "publishDate": 1760853900695,
+      "price": "€400 per week",
+      "abbreviatedPrice": "€400",
+      "numBedrooms": "Double Room",
       "propertyType": "House",
-      "daftShortcode": "36306254",
+      "daftShortcode": "36316890",
       "seller": {
-        "sellerId": 5989905,
-        "name": "Private User",
+        "sellerId": 6187944,
+        "name": "Michael Vida",
+        "phone": "353892514643",
+        "phoneWhenToCall": "Mon-Fri 4pm to 8pm or All day Sat/Sun",
         "sellerType": "PRIVATE_USER",
         "showContactForm": true,
         "premierPartnerSeller": false,
@@ -745,11 +793,11 @@
       "point": {
         "type": "Point",
         "coordinates": [
-          -6.169368,
-          53.409681
+          -6.375509,
+          53.268685
         ]
       },
-      "seoFriendlyPath": "/share/81-castlemoyne-dublin-13-clarehall-dublin-13/6306254",
+      "seoFriendlyPath": "/share/elder-heath-dublin-24-kiltipper-dublin-24/6316890",
       "category": "Share",
       "state": "PUBLISHED",
       "premierPartner": false
@@ -759,28 +807,28 @@
   },
   {
     "listing": {
-      "id": 6297233,
-      "title": "Thomas Street,Dublin 8, Christchurch, Dublin 8",
-      "seoTitle": "Thomas Street,Dublin 8, Christchurch, Dublin 8",
+      "id": 6317119,
+      "title": "Cuil Duin- All bills included in price no extra!, Citywest, Co. Dublin",
+      "seoTitle": "Cuil Duin- All bills included in price no extra!, Citywest, Co. Dublin",
       "sections": [
         "Property",
         "Sharing",
-        "Apartment"
+        "House"
       ],
       "saleType": [
         "To Let"
       ],
       "featuredLevel": "FEATURED",
       "featuredLevelFull": "FEATURED",
-      "publishDate": 1760805046594,
-      "price": "€1,400 per month",
-      "abbreviatedPrice": "€1,400",
-      "numBedrooms": "Single & Double Room",
-      "propertyType": "Apartment",
-      "daftShortcode": "36297233",
+      "publishDate": 1760865942750,
+      "price": "€1,250 per month",
+      "abbreviatedPrice": "€1,250",
+      "numBedrooms": "Double Room",
+      "propertyType": "House",
+      "daftShortcode": "36317119",
       "seller": {
-        "sellerId": 6017049,
-        "name": "Private User",
+        "sellerId": 5026167,
+        "name": "Direct Landlord/Property Owner",
         "sellerType": "PRIVATE_USER",
         "showContactForm": true,
         "premierPartnerSeller": false,
@@ -788,17 +836,116 @@
       },
       "dateOfConstruction": "NA",
       "ber": {
-        "rating": "B2"
+        "rating": "A2"
       },
       "platform": "WEB",
       "point": {
         "type": "Point",
         "coordinates": [
-          -6.278897,
-          53.342594
+          -6.4303051080673,
+          53.286163884993
         ]
       },
-      "seoFriendlyPath": "/share/48-thomas-street-dublin-8-christchurch-co-dublin/6297233",
+      "seoFriendlyPath": "/share/cuil-duin-all-bills-included-in-price-no-extra-citywest-co-dublin/6317119",
+      "category": "Share",
+      "state": "PUBLISHED",
+      "premierPartner": false
+    },
+    "savedAd": false,
+    "imageRestricted": false
+  },
+  {
+    "listing": {
+      "id": 6321848,
+      "title": "Ballsbridge Court,Serpentine Avenue,Dublin 4, Sandymount, Dublin 4",
+      "seoTitle": "Ballsbridge Court,Serpentine Avenue,Dublin 4, Sandymount, Dublin 4",
+      "sections": [
+        "Property",
+        "Sharing",
+        "Apartment",
+        "Flat"
+      ],
+      "saleType": [
+        "To Let"
+      ],
+      "featuredLevel": "FEATURED",
+      "featuredLevelFull": "FEATURED",
+      "publishDate": 1760867079577,
+      "price": "€1,300 per month",
+      "abbreviatedPrice": "€1,300",
+      "numBedrooms": "Double Room",
+      "propertyType": "Apartment",
+      "daftShortcode": "36321848",
+      "seller": {
+        "sellerId": 6374721,
+        "name": "Andy ",
+        "sellerType": "PRIVATE_USER",
+        "showContactForm": true,
+        "premierPartnerSeller": false,
+        "sellerAvailable": true
+      },
+      "dateOfConstruction": "NA",
+      "ber": {
+        "rating": "C1"
+      },
+      "platform": "WEB",
+      "point": {
+        "type": "Point",
+        "coordinates": [
+          -6.226108,
+          53.331289
+        ]
+      },
+      "seoFriendlyPath": "/share/ballsbridge-court-serpentine-avenue-dublin-4-sandymount-dublin-4/6321848",
+      "category": "Share",
+      "state": "PUBLISHED",
+      "premierPartner": false
+    },
+    "savedAd": false,
+    "imageRestricted": false
+  },
+  {
+    "listing": {
+      "id": 6324104,
+      "title": "North Strand, Dublin 3, Ballybough, Dublin 3",
+      "seoTitle": "North Strand, Dublin 3, Ballybough, Dublin 3",
+      "sections": [
+        "Property",
+        "Sharing",
+        "House"
+      ],
+      "saleType": [
+        "To Let"
+      ],
+      "featuredLevel": "FEATURED",
+      "featuredLevelFull": "FEATURED",
+      "publishDate": 1760873814434,
+      "price": "€975 per month",
+      "abbreviatedPrice": "€980",
+      "numBedrooms": "Double Room",
+      "propertyType": "House",
+      "daftShortcode": "36324104",
+      "seller": {
+        "sellerId": 1311810,
+        "name": "Frans Schlebaum",
+        "sellerType": "PRIVATE_USER",
+        "showContactForm": true,
+        "premierPartnerSeller": false,
+        "sellerAvailable": true
+      },
+      "dateOfConstruction": "NA",
+      "ber": {
+        "rating": "SI_666"
+      },
+      "platform": "WEB",
+      "point": {
+        "type": "Point",
+        "coordinates": [
+          -6.243182,
+          53.359635
+        ]
+      },
+      "seoFriendlyPath": "/share/32-nottingham-street-dublin-3-ballybough-dublin-3/6324104",
       "category": "Share",
       "state": "PUBLISHED",
       "premierPartner": false
@@ -857,9 +1004,9 @@
   },
   {
     "listing": {
-      "id": 6092718,
-      "title": "Valentia Parade, Phibsborough D7, North Circular Road, Dublin 7",
-      "seoTitle": "Valentia Parade, Phibsborough D7, North Circular Road, Dublin 7",
+      "id": 6324949,
+      "title": "3 Baldoyle , Sutton, Dublin 13",
+      "seoTitle": "3 Baldoyle , Sutton, Dublin 13",
       "sections": [
         "Property",
         "Sharing",
@@ -870,15 +1017,17 @@
       ],
       "featuredLevel": "FEATURED",
       "featuredLevelFull": "FEATURED",
-      "publishDate": 1760803903508,
-      "price": "€235 per week",
-      "abbreviatedPrice": "€240",
-      "numBedrooms": "Twin Room",
+      "publishDate": 1760871816473,
+      "price": "€250 per week",
+      "abbreviatedPrice": "€250",
+      "numBedrooms": "Single Room",
       "propertyType": "House",
-      "daftShortcode": "36092718",
+      "daftShortcode": "36324949",
       "seller": {
-        "sellerId": 1484534,
-        "name": "Vincent",
+        "sellerId": 6543992,
+        "name": "Corina Mooney",
+        "phone": "353852102590",
+        "phoneWhenToCall": "Weekends or after 8pm week days",
         "sellerType": "PRIVATE_USER",
         "showContactForm": true,
         "premierPartnerSeller": false,
@@ -892,11 +1041,11 @@
       "point": {
         "type": "Point",
         "coordinates": [
-          -6.263496,
-          53.360423
+          -6.141176,
+          53.391928
         ]
       },
-      "seoFriendlyPath": "/share/valentia-parade-phibsborough-d7-north-circular-road-dublin-7/6092718",
+      "seoFriendlyPath": "/share/3-baldoyle-sutton-dublin-13/6324949",
       "category": "Share",
       "state": "PUBLISHED",
       "premierPartner": false
@@ -906,9 +1055,9 @@
   },
   {
     "listing": {
-      "id": 6236829,
-      "title": "33 Dundaniel Road, Dublin 5, Kilmore, Dublin 5",
-      "seoTitle": "33 Dundaniel Road, Dublin 5, Kilmore, Dublin 5",
+      "id": 6324984,
+      "title": "29 O'Curry Rod, Dublin 8",
+      "seoTitle": "29 O'Curry Rod, Dublin 8",
       "sections": [
         "Property",
         "Sharing",
@@ -919,16 +1068,15 @@
       ],
       "featuredLevel": "FEATURED",
       "featuredLevelFull": "FEATURED",
-      "publishDate": 1760803627329,
-      "price": "€1,195 per month",
-      "abbreviatedPrice": "€1,200",
+      "publishDate": 1760874940507,
+      "price": "€733 per month",
+      "abbreviatedPrice": "€730",
       "numBedrooms": "Double Room",
       "propertyType": "House",
-      "daftShortcode": "36236829",
+      "daftShortcode": "36324984",
       "seller": {
-        "sellerId": 5585505,
-        "name": "James Harper",
-        "phone": "353894831335",
+        "sellerId": 389443,
+        "name": "Daria McElinn",
         "sellerType": "PRIVATE_USER",
         "showContactForm": true,
         "premierPartnerSeller": false,
@@ -936,67 +1084,17 @@
       },
       "dateOfConstruction": "NA",
       "ber": {
-        "rating": "B3",
-        "code": "115370710"
+        "rating": "G"
       },
-      "platform": "WEB",
+      "platform": "DAPI-IPHONE",
       "point": {
         "type": "Point",
         "coordinates": [
-          -6.225621,
-          53.395305
+          -6.2804583754537,
+          53.336207590758
         ]
       },
-      "seoFriendlyPath": "/share/33-dundaniel-road-dublin-5-kilmore-dublin-5/6236829",
-      "category": "Share",
-      "state": "PUBLISHED",
-      "premierPartner": false
-    },
-    "savedAd": false,
-    "imageRestricted": false
-  },
-  {
-    "listing": {
-      "id": 6316840,
-      "title": "Blind Quay Apartments, Exchange Street Lower, Dublin 8, Dublin City Centre",
-      "seoTitle": "Blind Quay Apartments, Exchange Street Lower, Dublin 8, Dublin City Centre",
-      "sections": [
-        "Property",
-        "Sharing",
-        "Apartment"
-      ],
-      "saleType": [
-        "To Let"
-      ],
-      "featuredLevel": "FEATURED",
-      "featuredLevelFull": "FEATURED",
-      "publishDate": 1760868374227,
-      "price": "€999 per month",
-      "abbreviatedPrice": "€1,000",
-      "numBedrooms": "Double Room",
-      "propertyType": "Apartment",
-      "daftShortcode": "36316840",
-      "seller": {
-        "sellerId": 2051848,
-        "name": "Jeff",
-        "sellerType": "PRIVATE_USER",
-        "showContactForm": true,
-        "premierPartnerSeller": false,
-        "sellerAvailable": true
-      },
-      "dateOfConstruction": "NA",
-      "ber": {
-        "rating": "B3"
-      },
-      "platform": "WEB",
-      "point": {
-        "type": "Point",
-        "coordinates": [
-          -6.268645,
-          53.344974
-        ]
-      },
-      "seoFriendlyPath": "/share/blind-quay-apartments-exchange-street-lower-dublin-8-dublin-city-centre/6316840",
+      "seoFriendlyPath": "/share/29-ocurry-rod-dublin-8/6324984",
       "category": "Share",
       "state": "PUBLISHED",
       "premierPartner": false

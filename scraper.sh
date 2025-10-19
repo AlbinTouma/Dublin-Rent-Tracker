@@ -2,6 +2,7 @@
 
 # I want to collect listings from daft on a daily basis and update the json file. I don't want duplicates in the data.
 # I need the script to run and collect data from all pages if there's no file and only fetch the first page if there's data already.
+# Page one is updated a few times per hour so there's always going to be one or more listings on it. When all_exist returns true is therefore likely on page 2 or 3.
 
 
 set -euo pipefail
@@ -9,6 +10,7 @@ echo "Running scraper"
 
 OUTPUT_FILE="output.json"
 TEMP_FILE=(mktemp)
+echo "[]" > "$TEMP_FILE" 
 
 # Page starts at 1 else 404
 PAGE=1
@@ -53,18 +55,20 @@ check_id(){
   local new_listings="$1"
   local existing_ids="$2"
   local TEMP_FILE="$3"
-  local all_exist=false
+  local all_exist=true
 
   while read -r listing; do
     id=$(echo "$listing" | jq -r '.listing.id')
-    echo "Curl id is "$id""
+    
     if grep -Fxq "$id" <<< "$existing_ids"; then
-      echo "id found $id"
+      echo "id exists $id"
     else
-      echo "$listing" | jq '.listing.id'
-      echo "$listing" >> "$TEMP_FILE"
+      echo "$listing" | jq '{title: .listing.title, id: .listing.id}'
+      jq -c ". + [$listing]" "$TEMP_FILE" > "$TEMP_FILE.tmp"
+      mv "$TEMP_FILE.tmp" "$TEMP_FILE"
       all_exist=false
     fi
+
   done < <(echo "$new_listings" | jq -c '.[]') 
 
   $all_exist && return 0 || return 1
