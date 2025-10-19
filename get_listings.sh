@@ -107,3 +107,10 @@ mv "$OUTPUT_FILE.tmp" "$OUTPUT_FILE"
 echo "Scraping completed"
 
 sqlite-utils insert daft.db sharing output.json --pk=id --flatten
+
+
+git config user.name "github-actions[bot]"
+git config user.email "github-actions[bot]@useres.noreply.github.com"
+git add "$OUTPUT_FILE"
+git commit -m "Daily daft listings update" || echo "No changes"
+git push origin master
