@@ -106,7 +106,7 @@ jq -s 'add | unique_by(.id)' "$OUTPUT_FILE" "$TEMP_FILE" > "$OUTPUT_FILE.tmp"
 mv "$OUTPUT_FILE.tmp" "$OUTPUT_FILE"
 echo "Scraping completed"
 
-sqlite-utils insert daft.db sharing output.json --pk=id --flatten
+sqlite-utils insert daft.db sharing output.json --pk=id --ignore --flatten
 
 
 git config user.name "github-actions[bot]"
