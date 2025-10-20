@@ -1625,6 +1625,51 @@
     "premierPartner": false
   },
   {
+    "id": 6222984,
+    "title": "Haliday Square, Stoneybatter, Dublin 7",
+    "seoTitle": "Haliday Square, Stoneybatter, Dublin 7",
+    "sections": [
+      "Property",
+      "Sharing",
+      "House"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1760960884027,
+    "price": "€1,000 per month",
+    "abbreviatedPrice": "€1,000",
+    "numBedrooms": "Single Room",
+    "propertyType": "House",
+    "daftShortcode": "36222984",
+    "seller": {
+      "sellerId": 1147288,
+      "name": "Lara",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "B2"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.2899609,
+        53.3521179
+      ]
+    },
+    "seoFriendlyPath": "/share/haliday-square-stoneybatter-dublin-7/6222984",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
     "id": 6223023,
     "title": "Beaufort Downs,Rathfarnham,Dublin 14, Willbrook, Dublin 16",
     "seoTitle": "Beaufort Downs,Rathfarnham,Dublin 14, Willbrook, Dublin 16",
@@ -14281,6 +14326,51 @@
     "premierPartner": false
   },
   {
+    "id": 6299376,
+    "title": "Ongar village, Ongar, Dublin 15",
+    "seoTitle": "Ongar village, Ongar, Dublin 15",
+    "sections": [
+      "Property",
+      "Sharing",
+      "Apartment"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1760905698397,
+    "price": "€800 per month",
+    "abbreviatedPrice": "€800",
+    "numBedrooms": "Single Room",
+    "propertyType": "Apartment",
+    "daftShortcode": "36299376",
+    "seller": {
+      "sellerId": 5940207,
+      "name": "Glenn Leahy",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "C2"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.438249,
+        53.392307
+      ]
+    },
+    "seoFriendlyPath": "/share/ongar-village-ongar-dublin-15/6299376",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
     "id": 6299435,
     "title": "Saint James Road,Dublin 12, Greenhills, Dublin 12",
     "seoTitle": "Saint James Road,Dublin 12, Greenhills, Dublin 12",
@@ -17056,6 +17146,53 @@
       ]
     },
     "seoFriendlyPath": "/share/croftwell-square-rathcoole-co-dublin/6305972",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6305996,
+    "title": "The Boulevard, Cruise Park, Tyrrelstown, Dublin 15",
+    "seoTitle": "The Boulevard, Cruise Park, Tyrrelstown, Dublin 15",
+    "sections": [
+      "Property",
+      "Sharing",
+      "House"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1760880477317,
+    "price": "€1,200 per month",
+    "abbreviatedPrice": "€1,200",
+    "numBedrooms": "Double Room",
+    "propertyType": "House",
+    "daftShortcode": "36305996",
+    "seller": {
+      "sellerId": 5458400,
+      "name": "Private ",
+      "phone": "353871300423",
+      "phoneWhenToCall": "Mon- Fri  10:00 hrs  to 19:00 hra",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "A2"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.3966785743833,
+        53.405518371788
+      ]
+    },
+    "seoFriendlyPath": "/share/the-boulevard-cruise-park-tyrrelstown-dublin-15/6305996",
     "category": "Share",
     "state": "PUBLISHED",
     "premierPartner": false
@@ -23350,6 +23487,52 @@
       ]
     },
     "seoFriendlyPath": "/share/56-lorcan-drive-dublin-9-whitehall-dublin-9/6315821",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6315838,
+    "title": "Grianan Fidh,Aikens Village, Sandyford Dublin 18, Stepaside, Dublin 18",
+    "seoTitle": "Grianan Fidh,Aikens Village, Sandyford Dublin 18, Stepaside, Dublin 18",
+    "sections": [
+      "Property",
+      "Sharing",
+      "House"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1760902873438,
+    "price": "€925 per month",
+    "abbreviatedPrice": "€930",
+    "numBedrooms": "Double Room",
+    "propertyType": "House",
+    "daftShortcode": "36315838",
+    "seller": {
+      "sellerId": 6185430,
+      "name": "Private User",
+      "phone": "353872851820",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "B3"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.218722,
+        53.262825
+      ]
+    },
+    "seoFriendlyPath": "/share/grianan-fidh-aikens-village-sandyford-dublin-18-stepaside-dublin-18/6315838",
     "category": "Share",
     "state": "PUBLISHED",
     "premierPartner": false
@@ -33985,6 +34168,53 @@
     "premierPartner": false
   },
   {
+    "id": 6322007,
+    "title": "Hillview,Mount Talbot,Monastery Road,Dublin 22, Fox & Geese, Dublin 22",
+    "seoTitle": "Hillview,Mount Talbot,Monastery Road,Dublin 22, Fox & Geese, Dublin 22",
+    "sections": [
+      "Property",
+      "Sharing",
+      "Apartment"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1760983211701,
+    "price": "€1,200 per month",
+    "abbreviatedPrice": "€1,200",
+    "numBedrooms": "Double Room",
+    "propertyType": "Apartment",
+    "daftShortcode": "36322007",
+    "seller": {
+      "sellerId": 6538892,
+      "name": "Kevin Horgan",
+      "phone": "353851037630",
+      "phoneWhenToCall": "Anytime",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "B2"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.371902,
+        53.318788
+      ]
+    },
+    "seoFriendlyPath": "/share/hillview-mount-talbot-monastery-road-dublin-22-fox-geese-dublin-22/6322007",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
     "id": 6322008,
     "title": "Beaumont Avenue, Churchtown, Dublin 14",
     "seoTitle": "Beaumont Avenue, Churchtown, Dublin 14",
@@ -40164,6 +40394,367 @@
       ]
     },
     "seoFriendlyPath": "/share/29-ocurry-rod-dublin-8/6324984",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6325088,
+    "title": "Belcamp Manor,Dublin 17, Clarehall, Dublin 17",
+    "seoTitle": "Belcamp Manor,Dublin 17, Clarehall, Dublin 17",
+    "sections": [
+      "Property",
+      "Sharing",
+      "House"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1760918400000,
+    "price": "From €550 to €825 per month",
+    "abbreviatedPrice": "€550+",
+    "numBedrooms": "Double & Twin Room",
+    "propertyType": "House",
+    "daftShortcode": "36325088",
+    "seller": {
+      "sellerId": 1950441,
+      "name": "Marina",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "A3"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.179269,
+        53.409096
+      ]
+    },
+    "seoFriendlyPath": "/share/belcamp-manor-dublin-17-clarehall-dublin-17/6325088",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6325097,
+    "title": "Belvedere Road, Drumcondra, North Circular Road, Dublin 1",
+    "seoTitle": "Belvedere Road, Drumcondra, North Circular Road, Dublin 1",
+    "sections": [
+      "Property",
+      "Sharing",
+      "House"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1760976665048,
+    "price": "From €1,000 to €1,200 per month",
+    "abbreviatedPrice": "€1,000+",
+    "numBedrooms": "Double Room",
+    "propertyType": "House",
+    "daftShortcode": "36325097",
+    "seller": {
+      "sellerId": 5634155,
+      "name": "Hugo Mahony",
+      "phone": "353896136591",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "B2"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.259965,
+        53.360165
+      ]
+    },
+    "seoFriendlyPath": "/share/belvedere-road-drumcondra-north-circular-road-dublin-1/6325097",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6325114,
+    "title": "42 Hamilton Street, Dublin 8, South Circular Road, Dublin 8",
+    "seoTitle": "42 Hamilton Street, Dublin 8, South Circular Road, Dublin 8",
+    "sections": [
+      "Property",
+      "Sharing",
+      "House"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1760976665182,
+    "price": "€1,500 per month",
+    "abbreviatedPrice": "€1,500",
+    "numBedrooms": "Double Room",
+    "propertyType": "House",
+    "daftShortcode": "36325114",
+    "seller": {
+      "sellerId": 642750,
+      "name": "Louise O'Reilly",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "C2"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.282389,
+        53.334389
+      ]
+    },
+    "seoFriendlyPath": "/share/42-hamilton-street-dublin-8-south-circular-road-dublin-8/6325114",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6325135,
+    "title": "Apartment 18, Beaupark Downs, Monkstown Valley, Mo, Monkstown, Co. Dublin",
+    "seoTitle": "Apartment 18, Beaupark Downs, Monkstown Valley, Mo, Monkstown, Co. Dublin",
+    "sections": [
+      "Property",
+      "Sharing",
+      "Apartment"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1760976665299,
+    "price": "€1,250 per month",
+    "abbreviatedPrice": "€1,250",
+    "numBedrooms": "Double Room",
+    "propertyType": "Apartment",
+    "daftShortcode": "36325135",
+    "seller": {
+      "sellerId": 1001141,
+      "name": "Aoife Waters",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "C2"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.159564,
+        53.293777
+      ]
+    },
+    "seoFriendlyPath": "/share/apartment-18-beaupark-downs-monkstown-valley-mo-monkstown-co-dublin/6325135",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6325158,
+    "title": " Fairfield ave, East Wall, Dublin 3",
+    "seoTitle": " Fairfield ave, East Wall, Dublin 3",
+    "sections": [
+      "Property",
+      "Sharing",
+      "House"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1760976665793,
+    "price": "€950 per month",
+    "abbreviatedPrice": "€950",
+    "numBedrooms": "Double Room",
+    "propertyType": "House",
+    "daftShortcode": "36325158",
+    "seller": {
+      "sellerId": 483769,
+      "name": "daragh mc donagh",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "SI_666"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.235989586,
+        53.355055713
+      ]
+    },
+    "seoFriendlyPath": "/share/10-fairfield-ave-east-wall-dublin-3/6325158",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6325462,
+    "title": " Parklands View,Ballycullen Dublin 24, Firhouse, Dublin 24",
+    "seoTitle": " Parklands View,Ballycullen Dublin 24, Firhouse, Dublin 24",
+    "sections": [
+      "Property",
+      "Sharing",
+      "House"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1760976666137,
+    "price": "€850 per month",
+    "abbreviatedPrice": "€850",
+    "numBedrooms": "Double Room",
+    "propertyType": "House",
+    "daftShortcode": "36325462",
+    "seller": {
+      "sellerId": 1912644,
+      "name": "mike Doyle",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "C3"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.340522,
+        53.273312
+      ]
+    },
+    "seoFriendlyPath": "/share/-parklands-view-ballycullen-dublin-24-firhouse-dublin-24/6325462",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6325878,
+    "title": "The Waterside, Charlotte Quay, Grand Canal Dock, Dublin 4",
+    "seoTitle": "The Waterside, Charlotte Quay, Grand Canal Dock, Dublin 4",
+    "sections": [
+      "Property",
+      "Sharing",
+      "Apartment"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1760976666173,
+    "price": "€585 per week",
+    "abbreviatedPrice": "€590",
+    "numBedrooms": "Double Room",
+    "propertyType": "Apartment",
+    "daftShortcode": "36325878",
+    "seller": {
+      "sellerId": 1682533,
+      "name": "Cathal ",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "SI_666"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.234367,
+        53.342664
+      ]
+    },
+    "seoFriendlyPath": "/share/the-waterside-charlotte-quay-grand-canal-dock-dublin-4/6325878",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6326177,
+    "title": "Apartment 2, Spruce, Grattan Wood, The Hole In The, Clongriffin, Dublin 13",
+    "seoTitle": "Apartment 2, Spruce, Grattan Wood, The Hole In The, Clongriffin, Dublin 13",
+    "sections": [
+      "Property",
+      "Sharing",
+      "Apartment"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1760980067623,
+    "price": "€900 per month",
+    "abbreviatedPrice": "€900",
+    "numBedrooms": "Double Room",
+    "propertyType": "Apartment",
+    "daftShortcode": "36326177",
+    "seller": {
+      "sellerId": 583051,
+      "name": "sean ",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "A3"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.163943,
+        53.40146
+      ]
+    },
+    "seoFriendlyPath": "/share/apartment-2-spruce-grattan-wood-the-hole-in-the-clongriffin-dublin-13/6326177",
     "category": "Share",
     "state": "PUBLISHED",
     "premierPartner": false
