@@ -12732,6 +12732,51 @@
     "premierPartner": false
   },
   {
+    "id": 6292149,
+    "title": "North Strand Road,Dublin 3, Ballybough, Dublin 3",
+    "seoTitle": "North Strand Road,Dublin 3, Ballybough, Dublin 3",
+    "sections": [
+      "Property",
+      "Sharing",
+      "House"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1760995191518,
+    "price": "€875 per month",
+    "abbreviatedPrice": "€880",
+    "numBedrooms": "Single Room",
+    "propertyType": "House",
+    "daftShortcode": "36292149",
+    "seller": {
+      "sellerId": 6017049,
+      "name": "Private User",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "A1"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.240965,
+        53.359125
+      ]
+    },
+    "seoFriendlyPath": "/share/north-strand-road-dublin-3-ballybough-dublin-3/6292149",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
     "id": 6292201,
     "title": "Lennox Place, Portobello, Dublin 8",
     "seoTitle": "Lennox Place, Portobello, Dublin 8",
@@ -21715,6 +21760,51 @@
     "premierPartner": false
   },
   {
+    "id": 6313599,
+    "title": "Killiney Hill Road,Killiney,Co. Dublin, Ballybrack, Co. Dublin",
+    "seoTitle": "Killiney Hill Road,Killiney,Co. Dublin, Ballybrack, Co. Dublin",
+    "sections": [
+      "Property",
+      "Sharing",
+      "House"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1760995358760,
+    "price": "€750 per month",
+    "abbreviatedPrice": "€750",
+    "numBedrooms": "Single Room",
+    "propertyType": "House",
+    "daftShortcode": "36313599",
+    "seller": {
+      "sellerId": 6017049,
+      "name": "Private User",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "B1"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.121033,
+        53.254925
+      ]
+    },
+    "seoFriendlyPath": "/share/killiney-hill-road-killiney-co-dublin-ballybrack-co-dublin/6313599",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
     "id": 6313714,
     "title": "Grange Road, Rathfarnham, Dublin 14",
     "seoTitle": "Grange Road, Rathfarnham, Dublin 14",
@@ -30163,6 +30253,51 @@
       ]
     },
     "seoFriendlyPath": "/share/76-belarmine-place-dublin-18-stepaside-dublin-18/6320014",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6320016,
+    "title": "Albert college Avenue, Santry, Dublin 9",
+    "seoTitle": "Albert college Avenue, Santry, Dublin 9",
+    "sections": [
+      "Property",
+      "Sharing",
+      "House"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1760993753516,
+    "price": "€225 per week",
+    "abbreviatedPrice": "€230",
+    "numBedrooms": "Single Room",
+    "propertyType": "House",
+    "daftShortcode": "36320016",
+    "seller": {
+      "sellerId": 194497,
+      "name": "Office Admin ",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "C1"
+    },
+    "platform": "DAPI-IPHONE",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.2618868311144,
+        53.387696494852
+      ]
+    },
+    "seoFriendlyPath": "/share/albert-college-avenue-santry-dublin-9/6320016",
     "category": "Share",
     "state": "PUBLISHED",
     "premierPartner": false
