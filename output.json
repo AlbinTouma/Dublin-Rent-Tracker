@@ -57484,5 +57484,237 @@
     "category": "Share",
     "state": "PUBLISHED",
     "premierPartner": false
+  },
+  {
+    "id": 6331098,
+    "title": "Boot Road, Clondalkin, Dublin 22",
+    "seoTitle": "Boot Road, Clondalkin, Dublin 22",
+    "sections": [
+      "Property",
+      "Sharing",
+      "House"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1761559915540,
+    "price": "€175 per week",
+    "abbreviatedPrice": "€180",
+    "numBedrooms": "Double Room",
+    "propertyType": "House",
+    "daftShortcode": "36331098",
+    "seller": {
+      "sellerId": 172324,
+      "name": "Ashling",
+      "phone": "0852635699",
+      "alternativePhone": "0852635699",
+      "phoneWhenToCall": "WhatsApp messages and call between 9-9 pm",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "SI_666"
+    },
+    "platform": "DAPI-ANDROID",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.3957615941763,
+        53.313109566992
+      ]
+    },
+    "seoFriendlyPath": "/share/boot-road-clondalkin-dublin-22/6331098",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6331191,
+    "title": "Inchicore, Dublin 8, Inchicore, Dublin 8",
+    "seoTitle": "Inchicore, Dublin 8, Inchicore, Dublin 8",
+    "sections": [
+      "Property",
+      "Sharing",
+      "House"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1761572575545,
+    "price": "€1,175 per month",
+    "abbreviatedPrice": "€1,180",
+    "numBedrooms": "Double Room",
+    "propertyType": "House",
+    "daftShortcode": "36331191",
+    "seller": {
+      "sellerId": 874108,
+      "name": "Lily Eden",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "SI_666"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.329156,
+        53.334769
+      ]
+    },
+    "seoFriendlyPath": "/share/inchicore-dublin-8-inchicore-dublin-8/6331191",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6331243,
+    "title": "28 Shackleton Park, Lucan, Lucan, Co. Dublin",
+    "seoTitle": "28 Shackleton Park, Lucan, Lucan, Co. Dublin",
+    "sections": [
+      "Property",
+      "Sharing",
+      "House"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1761585845691,
+    "price": "From €650 to €700 per month",
+    "abbreviatedPrice": "€650+",
+    "numBedrooms": "Shared Room",
+    "propertyType": "House",
+    "daftShortcode": "36331243",
+    "seller": {
+      "sellerId": 5924682,
+      "name": "Alka Kapoor",
+      "phone": "353860574713",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": false,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "A1"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.47249,
+        53.346784
+      ]
+    },
+    "seoFriendlyPath": "/share/28-shackleton-park-lucan-lucan-co-dublin/6331243",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6331382,
+    "title": "Monalea Wood, Firhouse, Dublin 24",
+    "seoTitle": "Monalea Wood, Firhouse, Dublin 24",
+    "sections": [
+      "Property",
+      "Sharing",
+      "House"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1761594736626,
+    "price": "€750 per month",
+    "abbreviatedPrice": "€750",
+    "numBedrooms": "Double Room",
+    "propertyType": "House",
+    "daftShortcode": "36331382",
+    "seller": {
+      "sellerId": 1536520,
+      "name": "Mary",
+      "phone": "0861646623",
+      "phoneWhenToCall": "6-.7.30pm",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "SI_666"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.3348902600071,
+        53.283680134623
+      ]
+    },
+    "seoFriendlyPath": "/share/monalea-wood-firhouse-dublin-24/6331382",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6331432,
+    "title": "99 Pembroke Cottages, Donnybrook, Dublin 4, Donnybrook, Co. Dublin",
+    "seoTitle": "99 Pembroke Cottages, Donnybrook, Dublin 4, Donnybrook, Co. Dublin",
+    "sections": [
+      "Sharing",
+      "Property",
+      "House"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1761607148529,
+    "price": "€1,200 per month",
+    "abbreviatedPrice": "€1,200",
+    "numBedrooms": "Single Room",
+    "propertyType": "Property",
+    "daftShortcode": "36331432",
+    "seller": {
+      "sellerId": 963598,
+      "name": "Peter Dowling",
+      "phone": "0863328823",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "SI_666"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.235201,
+        53.323027
+      ]
+    },
+    "seoFriendlyPath": "/share/99-pembroke-cottages-donnybrook-dublin-4-donnybrook-dublin-4/6331432",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
   }
 ]
