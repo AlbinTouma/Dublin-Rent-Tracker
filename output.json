@@ -5508,6 +5508,51 @@
     "premierPartner": false
   },
   {
+    "id": 6255827,
+    "title": "Bloomfield Avenue, Donnybrook, Dublin 4",
+    "seoTitle": "Bloomfield Avenue, Donnybrook, Dublin 4",
+    "sections": [
+      "Property",
+      "Sharing",
+      "House"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1761636381653,
+    "price": "€1,200 per month",
+    "abbreviatedPrice": "€1,200",
+    "numBedrooms": "Single Room",
+    "propertyType": "House",
+    "daftShortcode": "36255827",
+    "seller": {
+      "sellerId": 1677204,
+      "name": "Frank",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "SI_666"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.2444829060137,
+        53.326154417943
+      ]
+    },
+    "seoFriendlyPath": "/share/bloomfield-avenue-donnybrook-dublin-4/6255827",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
     "id": 6256084,
     "title": "Capel Street, Dublin 1",
     "seoTitle": "Capel Street, Dublin 1",
@@ -57713,6 +57758,278 @@
       ]
     },
     "seoFriendlyPath": "/share/99-pembroke-cottages-donnybrook-dublin-4-donnybrook-dublin-4/6331432",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6331459,
+    "title": "Dermville, Old Dublin Road, Stillorgan, Blackrock, Mount Merrion, Co. Dublin",
+    "seoTitle": "Dermville, Old Dublin Road, Stillorgan, Blackrock, Mount Merrion, Co. Dublin",
+    "sections": [
+      "Property",
+      "Sharing",
+      "House"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1761640371576,
+    "price": "€750 per month",
+    "abbreviatedPrice": "€750",
+    "numBedrooms": "Twin Room",
+    "propertyType": "House",
+    "daftShortcode": "36331459",
+    "seller": {
+      "sellerId": 6509758,
+      "name": "Autumn Rooms",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "A1"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.201301,
+        53.291668
+      ]
+    },
+    "seoFriendlyPath": "/share/dermville-old-dublin-road-stillorgan-blackrock-mount-merrion-co-dublin/6331459",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6331587,
+    "title": "54a Thomas Street,Dublin 8, Christchurch, Dublin 8",
+    "seoTitle": "54a Thomas Street,Dublin 8, Christchurch, Dublin 8",
+    "sections": [
+      "Property",
+      "Sharing",
+      "Apartment"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1761646172550,
+    "price": "€800 per month",
+    "abbreviatedPrice": "€800",
+    "numBedrooms": "Twin Room",
+    "propertyType": "Apartment",
+    "daftShortcode": "36331587",
+    "seller": {
+      "sellerId": 6017049,
+      "name": "Private User",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "B1"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.278236,
+        53.342614
+      ]
+    },
+    "seoFriendlyPath": "/share/54a-thomas-street-dublin-8-christchurch-dublin-8/6331587",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6332009,
+    "title": "15 Wood Dale Close, Dublin 24, Ballycullen, Dublin 24",
+    "seoTitle": "15 Wood Dale Close, Dublin 24, Ballycullen, Dublin 24",
+    "sections": [
+      "Property",
+      "Sharing",
+      "House"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1761696000000,
+    "price": "€650 per month",
+    "abbreviatedPrice": "€650",
+    "numBedrooms": "Single Room",
+    "propertyType": "House",
+    "daftShortcode": "36332009",
+    "seller": {
+      "sellerId": 5351634,
+      "name": "Alan  Goncalves",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "A1"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.336785,
+        53.273613
+      ]
+    },
+    "seoFriendlyPath": "/share/15-wood-dale-close-dublin-24-ballycullen-dublin-24/6332009",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6332357,
+    "title": "Phoenix Street, Ballyfermot, Dublin 10",
+    "seoTitle": "Phoenix Street, Ballyfermot, Dublin 10",
+    "sections": [
+      "Property",
+      "Sharing",
+      "House"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1761673976685,
+    "price": "€1,050 per month",
+    "abbreviatedPrice": "€1,050",
+    "numBedrooms": "Double Room",
+    "propertyType": "House",
+    "daftShortcode": "36332357",
+    "seller": {
+      "sellerId": 6553417,
+      "name": "Phoenix Street",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "SI_666"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.328298,
+        53.34323
+      ]
+    },
+    "seoFriendlyPath": "/share/phoenix-street-the-ranch-dublin-10-ballyfermot-dublin-10/6332357",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6332405,
+    "title": "Orlagh Grove, Knocklyon, Knocklyon, Dublin 16",
+    "seoTitle": "Orlagh Grove, Knocklyon, Knocklyon, Dublin 16",
+    "sections": [
+      "Property",
+      "Sharing",
+      "House"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1761674699509,
+    "price": "From €700 to €900 per month",
+    "abbreviatedPrice": "€700+",
+    "numBedrooms": "Single & Double Room",
+    "propertyType": "House",
+    "daftShortcode": "36332405",
+    "seller": {
+      "sellerId": 5085965,
+      "name": "James",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "C2"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.316304,
+        53.276698
+      ]
+    },
+    "seoFriendlyPath": "/share/orlagh-grove-knocklyon-knocklyon-dublin-16/6332405",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6332478,
+    "title": "Hollywoodrath Park,Hollystown,Dublin 15, Hollystown, Dublin 15",
+    "seoTitle": "Hollywoodrath Park,Hollystown,Dublin 15, Hollystown, Dublin 15",
+    "sections": [
+      "Property",
+      "Sharing",
+      "House"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1761683235681,
+    "price": "€850 per month",
+    "abbreviatedPrice": "€850",
+    "numBedrooms": "Double Room",
+    "propertyType": "House",
+    "daftShortcode": "36332478",
+    "seller": {
+      "sellerId": 5367572,
+      "name": "Sky",
+      "phone": "353868797933",
+      "phoneWhenToCall": "Mon-Sunday  10am to 11pm",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "A1"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.371804,
+        53.424604
+      ]
+    },
+    "seoFriendlyPath": "/share/hollywoodrath-park-hollystown-dublin-15-hollystown-dublin-15/6332478",
     "category": "Share",
     "state": "PUBLISHED",
     "premierPartner": false
