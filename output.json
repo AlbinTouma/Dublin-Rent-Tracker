@@ -18294,6 +18294,53 @@
     "premierPartner": false
   },
   {
+    "id": 6302439,
+    "title": "81a Merrion Road, Dublin 4, Donnybrook, Dublin 4",
+    "seoTitle": "81a Merrion Road, Dublin 4, Donnybrook, Dublin 4",
+    "sections": [
+      "Property",
+      "Sharing",
+      "House"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1761760291694,
+    "price": "€1,500 per month",
+    "abbreviatedPrice": "€1,500",
+    "numBedrooms": "Double Room",
+    "propertyType": "House",
+    "daftShortcode": "36302439",
+    "seller": {
+      "sellerId": 5688058,
+      "name": "Donnybrook Michael",
+      "phone": "447500247782",
+      "phoneWhenToCall": "WhatsApp me at +353896082663, or email me WITH your phone number",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "SI_666"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.217534,
+        53.32104
+      ]
+    },
+    "seoFriendlyPath": "/share/81a-merrion-road-dublin-4-donnybrook-dublin-4/6302439",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
     "id": 6302697,
     "title": "Carrigmore Crescent, Saggart, Citywest, Co. Dublin",
     "seoTitle": "Carrigmore Crescent, Saggart, Citywest, Co. Dublin",
@@ -26046,6 +26093,51 @@
       ]
     },
     "seoFriendlyPath": "/share/tramyard-dublin-8/6314376",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6314441,
+    "title": "Burrow Road,Portrane,Co. Dublin, Portrane, Co. Dublin",
+    "seoTitle": "Burrow Road,Portrane,Co. Dublin, Portrane, Co. Dublin",
+    "sections": [
+      "Property",
+      "Sharing",
+      "House"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1761726808727,
+    "price": "€600 per month",
+    "abbreviatedPrice": "€600",
+    "numBedrooms": "Double Room",
+    "propertyType": "House",
+    "daftShortcode": "36314441",
+    "seller": {
+      "sellerId": 5487186,
+      "name": "padraig McManus",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "B3"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.12744,
+        53.508698
+      ]
+    },
+    "seoFriendlyPath": "/share/burrow-road-portrane-co-dublin-portrane-co-dublin/6314441",
     "category": "Share",
     "state": "PUBLISHED",
     "premierPartner": false
@@ -57988,6 +58080,51 @@
     "premierPartner": false
   },
   {
+    "id": 6332422,
+    "title": "Hermitage View, Rathfarnham, Dublin 16, Rathfarnham, Dublin 16",
+    "seoTitle": "Hermitage View, Rathfarnham, Dublin 16, Rathfarnham, Dublin 16",
+    "sections": [
+      "Property",
+      "Sharing",
+      "House"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1761728776719,
+    "price": "€850 per month",
+    "abbreviatedPrice": "€850",
+    "numBedrooms": "Double Room",
+    "propertyType": "House",
+    "daftShortcode": "36332422",
+    "seller": {
+      "sellerId": 5085965,
+      "name": "James",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "C3"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.277193,
+        53.282553
+      ]
+    },
+    "seoFriendlyPath": "/share/hermitage-view-rathfarnham-dublin-16-rathfarnham-dublin-16/6332422",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
     "id": 6332478,
     "title": "Hollywoodrath Park,Hollystown,Dublin 15, Hollystown, Dublin 15",
     "seoTitle": "Hollywoodrath Park,Hollystown,Dublin 15, Hollystown, Dublin 15",
@@ -58030,6 +58167,51 @@
       ]
     },
     "seoFriendlyPath": "/share/hollywoodrath-park-hollystown-dublin-15-hollystown-dublin-15/6332478",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6332604,
+    "title": "9a Clanbrassil Street Lower, Dublin 8, Portobello, Dublin 8",
+    "seoTitle": "9a Clanbrassil Street Lower, Dublin 8, Portobello, Dublin 8",
+    "sections": [
+      "Property",
+      "Sharing",
+      "House"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1761721701670,
+    "price": "€1,100 per month",
+    "abbreviatedPrice": "€1,100",
+    "numBedrooms": "Single Room",
+    "propertyType": "House",
+    "daftShortcode": "36332604",
+    "seller": {
+      "sellerId": 621205,
+      "name": "Damien Madden",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "A3"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.27306,
+        53.335775
+      ]
+    },
+    "seoFriendlyPath": "/share/9a-clanbrassil-street-lower-dublin-8-portobello-dublin-8/6332604",
     "category": "Share",
     "state": "PUBLISHED",
     "premierPartner": false
