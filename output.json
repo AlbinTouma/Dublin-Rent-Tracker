@@ -1165,6 +1165,51 @@
     "premierPartner": false
   },
   {
+    "id": 6195713,
+    "title": "Apartment 22 , Kelly'S Court, Kellys Row, Dublin 1, Dublin 1",
+    "seoTitle": "Apartment 22 , Kelly'S Court, Kellys Row, Dublin 1, Dublin 1",
+    "sections": [
+      "Property",
+      "Sharing",
+      "Apartment"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1761817768898,
+    "price": "€380 per month",
+    "abbreviatedPrice": "€380",
+    "numBedrooms": "Shared Room",
+    "propertyType": "Apartment",
+    "daftShortcode": "36195713",
+    "seller": {
+      "sellerId": 1711684,
+      "name": "Wally ",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "SI_666"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.261767,
+        53.358206
+      ]
+    },
+    "seoFriendlyPath": "/share/apartment-22-kellys-court-kellys-row-dublin-1-dublin-1/6195713",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
     "id": 6201523,
     "title": " Compass Court North, Pelletstown Av, Royal Canal Park, Dublin 15",
     "seoTitle": " Compass Court North, Pelletstown Av, Royal Canal Park, Dublin 15",
@@ -58212,6 +58257,51 @@
       ]
     },
     "seoFriendlyPath": "/share/9a-clanbrassil-street-lower-dublin-8-portobello-dublin-8/6332604",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6334508,
+    "title": "Dublin 18, Leopardstown, Dublin 18",
+    "seoTitle": "Dublin 18, Leopardstown, Dublin 18",
+    "sections": [
+      "Property",
+      "Sharing",
+      "House"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1761835316820,
+    "price": "€1,150 per month",
+    "abbreviatedPrice": "€1,150",
+    "numBedrooms": "Single Room",
+    "propertyType": "House",
+    "daftShortcode": "36334508",
+    "seller": {
+      "sellerId": 988988,
+      "name": "Derek Carter",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "A2"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.200817,
+        53.254495
+      ]
+    },
+    "seoFriendlyPath": "/share/dublin-18-leopardstown-dublin-18/6334508",
     "category": "Share",
     "state": "PUBLISHED",
     "premierPartner": false
