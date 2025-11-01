@@ -58305,5 +58305,96 @@
     "category": "Share",
     "state": "PUBLISHED",
     "premierPartner": false
+  },
+  {
+    "id": 6335532,
+    "title": "Tullyhall Close,Lucan,Co. Dublin, Lucan, Co. Dublin",
+    "seoTitle": "Tullyhall Close,Lucan,Co. Dublin, Lucan, Co. Dublin",
+    "sections": [
+      "Property",
+      "Sharing",
+      "House"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1761930968852,
+    "price": "€1,100 per month",
+    "abbreviatedPrice": "€1,100",
+    "numBedrooms": "Double Room",
+    "propertyType": "House",
+    "daftShortcode": "36335532",
+    "seller": {
+      "sellerId": 1444331,
+      "name": "Rafael Matos Monteiro Infante",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "A3"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.442216,
+        53.335442
+      ]
+    },
+    "seoFriendlyPath": "/share/tullyhall-close-lucan-co-dublin-lucan-co-dublin/6335532",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6335924,
+    "title": "Apartment 127, Block 5, Harcourt Green, Charlemont, Portobello, Dublin 8",
+    "seoTitle": "Apartment 127, Block 5, Harcourt Green, Charlemont, Portobello, Dublin 8",
+    "sections": [
+      "Property",
+      "Sharing",
+      "Apartment"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1761935934826,
+    "price": "€1,160 per month",
+    "abbreviatedPrice": "€1,160",
+    "numBedrooms": "Double Room",
+    "propertyType": "Apartment",
+    "daftShortcode": "36335924",
+    "seller": {
+      "sellerId": 5623969,
+      "name": "Wayne Doyle",
+      "phone": "353879111125",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "A1"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.260423,
+        53.331932
+      ]
+    },
+    "seoFriendlyPath": "/share/apartment-127-block-5-harcourt-green-charlemont-portobello-dublin-8/6335924",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
   }
 ]
