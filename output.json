@@ -27102,6 +27102,53 @@
     "premierPartner": false
   },
   {
+    "id": 6315174,
+    "title": "Summerhill Place, Dublin 1, Dublin 1",
+    "seoTitle": "Summerhill Place, Dublin 1, Dublin 1",
+    "sections": [
+      "Property",
+      "Sharing",
+      "House"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1762022576240,
+    "price": "€1,000 per month",
+    "abbreviatedPrice": "€1,000",
+    "numBedrooms": "Double Room",
+    "propertyType": "House",
+    "daftShortcode": "36315174",
+    "seller": {
+      "sellerId": 6010365,
+      "name": "Chris",
+      "phone": "353838935255",
+      "phoneWhenToCall": "Call and text anytime",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "B2"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.251819,
+        53.355209
+      ]
+    },
+    "seoFriendlyPath": "/share/summerhill-place-dublin-1-dublin-1/6315174",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
     "id": 6315187,
     "title": "Sarsfield Road,Dublin 10, Ballyfermot, Dublin 10",
     "seoTitle": "Sarsfield Road,Dublin 10, Ballyfermot, Dublin 10",
@@ -58393,6 +58440,51 @@
       ]
     },
     "seoFriendlyPath": "/share/apartment-127-block-5-harcourt-green-charlemont-portobello-dublin-8/6335924",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6336000,
+    "title": "19 Woodley Park, Kilmacud, Co. Dublin",
+    "seoTitle": "19 Woodley Park, Kilmacud, Co. Dublin",
+    "sections": [
+      "Property",
+      "Sharing",
+      "House"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1762018040728,
+    "price": "€815 per month",
+    "abbreviatedPrice": "€820",
+    "numBedrooms": "Double Room",
+    "propertyType": "House",
+    "daftShortcode": "36336000",
+    "seller": {
+      "sellerId": 1247434,
+      "name": "NIALL OHEARCAIN",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "B1"
+    },
+    "platform": "DAPI-IPHONE",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.2219408,
+        53.2883371
+      ]
+    },
+    "seoFriendlyPath": "/share/19-woodley-park-kilmacud-co-dublin/6336000",
     "category": "Share",
     "state": "PUBLISHED",
     "premierPartner": false
