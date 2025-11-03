@@ -58488,5 +58488,186 @@
     "category": "Share",
     "state": "PUBLISHED",
     "premierPartner": false
+  },
+  {
+    "id": 6336266,
+    "title": "Bewley Estate., Lucan, Co. Dublin",
+    "seoTitle": "Bewley Estate., Lucan, Co. Dublin",
+    "sections": [
+      "Property",
+      "Sharing",
+      "House"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1762104822556,
+    "price": "€840 per month",
+    "abbreviatedPrice": "€840",
+    "numBedrooms": "Double Room",
+    "propertyType": "House",
+    "daftShortcode": "36336266",
+    "seller": {
+      "sellerId": 199175,
+      "name": "Bewley",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "C1"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.42631539424,
+        53.353677016091
+      ]
+    },
+    "seoFriendlyPath": "/share/bewley-estate-lucan-co-dublin/6336266",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6336317,
+    "title": "500 collins park, Beaumont, Dublin 9",
+    "seoTitle": "500 collins park, Beaumont, Dublin 9",
+    "sections": [
+      "Property",
+      "Sharing",
+      "House"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1762104822772,
+    "price": "€750 per month",
+    "abbreviatedPrice": "€750",
+    "numBedrooms": "Single Room",
+    "propertyType": "House",
+    "daftShortcode": "36336317",
+    "seller": {
+      "sellerId": 1708124,
+      "name": "James",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "SI_666"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.2204906,
+        53.3766345
+      ]
+    },
+    "seoFriendlyPath": "/share/500-collins-park-beaumont-dublin-9/6336317",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6336415,
+    "title": "Hansfield, Dublin 15, Clonsilla, Dublin 15",
+    "seoTitle": "Hansfield, Dublin 15, Clonsilla, Dublin 15",
+    "sections": [
+      "Property",
+      "Sharing",
+      "Apartment",
+      "Flat"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1762106905202,
+    "price": "€1,650 per month",
+    "abbreviatedPrice": "€1,650",
+    "numBedrooms": "Double Room",
+    "propertyType": "Apartment",
+    "daftShortcode": "36336415",
+    "seller": {
+      "sellerId": 1190906,
+      "name": "Gilberto Santos",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "A2"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.442364,
+        53.388843
+      ]
+    },
+    "seoFriendlyPath": "/share/hansfield-dublin-15-clonsilla-dublin-15/6336415",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6336523,
+    "title": "Bridgefield Apartments, Northwood Avenue, Northwood, Dublin 9",
+    "seoTitle": "Bridgefield Apartments, Northwood Avenue, Northwood, Dublin 9",
+    "sections": [
+      "Property",
+      "Sharing",
+      "Apartment"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1762123862198,
+    "price": "€1,100 per month",
+    "abbreviatedPrice": "€1,100",
+    "numBedrooms": "Double Room",
+    "propertyType": "Apartment",
+    "daftShortcode": "36336523",
+    "seller": {
+      "sellerId": 5463976,
+      "name": "J thomas",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "A1"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.258484,
+        53.405953
+      ]
+    },
+    "seoFriendlyPath": "/share/bridgefield-apartments-northwood-avenue-northwood-dublin-9/6336523",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
   }
 ]
