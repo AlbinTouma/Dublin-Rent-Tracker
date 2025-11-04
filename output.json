@@ -4919,6 +4919,51 @@
     "premierPartner": false
   },
   {
+    "id": 6252421,
+    "title": "Apartment 7, The Schooner, Alverno, Castle Avenue, Clontarf, Dublin 3",
+    "seoTitle": "Apartment 7, The Schooner, Alverno, Castle Avenue, Clontarf, Dublin 3",
+    "sections": [
+      "Property",
+      "Sharing",
+      "Apartment"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1762146563250,
+    "price": "€900 per month",
+    "abbreviatedPrice": "€900",
+    "numBedrooms": "Single Room",
+    "propertyType": "Apartment",
+    "daftShortcode": "36252421",
+    "seller": {
+      "sellerId": 5772950,
+      "name": "Jonathan Navarrete",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "D1"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.210318,
+        53.360594
+      ]
+    },
+    "seoFriendlyPath": "/share/apartment-7-the-schooner-alverno-castle-avenue-clontarf-dublin-3/6252421",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
     "id": 6252547,
     "title": "30a Glenamuck Cottages, Dublin 18, Carrickmines, Dublin 18",
     "seoTitle": "30a Glenamuck Cottages, Dublin 18, Carrickmines, Dublin 18",
@@ -29030,6 +29075,52 @@
     "premierPartner": false
   },
   {
+    "id": 6317078,
+    "title": "The Quarter, Citywest Avenue , Citywest, Co. Dublin",
+    "seoTitle": "The Quarter, Citywest Avenue , Citywest, Co. Dublin",
+    "sections": [
+      "Property",
+      "Sharing",
+      "Apartment"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1762211837208,
+    "price": "€1,250 per month",
+    "abbreviatedPrice": "€1,250",
+    "numBedrooms": "Double Room",
+    "propertyType": "Apartment",
+    "daftShortcode": "36317078",
+    "seller": {
+      "sellerId": 5512534,
+      "name": "Alessandro",
+      "phone": "353871947913",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "SI_666"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.426323,
+        53.285657
+      ]
+    },
+    "seoFriendlyPath": "/share/the-quarter-citywest-avenue-citywest-co-dublin/6317078",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
     "id": 6317119,
     "title": "Cuil Duin- All bills included in price no extra!, Citywest, Co. Dublin",
     "seoTitle": "Cuil Duin- All bills included in price no extra!, Citywest, Co. Dublin",
@@ -40497,6 +40588,51 @@
       ]
     },
     "seoFriendlyPath": "/share/north-strand-dublin-1-fairview-dublin-3/6322756",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6322810,
+    "title": "241 Carnlough Road, Dublin 7, Cabra, Dublin 7",
+    "seoTitle": "241 Carnlough Road, Dublin 7, Cabra, Dublin 7",
+    "sections": [
+      "Property",
+      "Sharing",
+      "House"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1762211837207,
+    "price": "€550 per month",
+    "abbreviatedPrice": "€550",
+    "numBedrooms": "Shared Room",
+    "propertyType": "House",
+    "daftShortcode": "36322810",
+    "seller": {
+      "sellerId": 1345722,
+      "name": "Conor Hartnett",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "B2"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.291598,
+        53.367858
+      ]
+    },
+    "seoFriendlyPath": "/share/241-carnlough-road-dublin-7-cabra-dublin-7/6322810",
     "category": "Share",
     "state": "PUBLISHED",
     "premierPartner": false
@@ -58666,6 +58802,143 @@
       ]
     },
     "seoFriendlyPath": "/share/bridgefield-apartments-northwood-avenue-northwood-dublin-9/6336523",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6336639,
+    "title": "88 The Avenue, Saint Marnock'S Bay, Portmarnock, C, Portmarnock, Co. Dublin",
+    "seoTitle": "88 The Avenue, Saint Marnock'S Bay, Portmarnock, C, Portmarnock, Co. Dublin",
+    "sections": [
+      "Property",
+      "Sharing",
+      "Apartment"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1762211837474,
+    "price": "€1,550 per month",
+    "abbreviatedPrice": "€1,550",
+    "numBedrooms": "Double Room",
+    "propertyType": "Apartment",
+    "daftShortcode": "36336639",
+    "seller": {
+      "sellerId": 5644188,
+      "name": "Private User",
+      "phone": "353899700470",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "A1"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.149621,
+        53.417316
+      ]
+    },
+    "seoFriendlyPath": "/share/88-the-avenue-saint-marnocks-bay-portmarnock-c-portmarnock-co-dublin/6336639",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6336802,
+    "title": "4 royal court, bow lane west, Kilmainham, Dublin 8",
+    "seoTitle": "4 royal court, bow lane west, Kilmainham, Dublin 8",
+    "sections": [
+      "Property",
+      "Sharing",
+      "House"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1762211838006,
+    "price": "€950 per month",
+    "abbreviatedPrice": "€950",
+    "numBedrooms": "Double Room",
+    "propertyType": "House",
+    "daftShortcode": "36336802",
+    "seller": {
+      "sellerId": 1670013,
+      "name": "Ciaran Kearney",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "A3"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.3038564441899,
+        53.34003721577
+      ]
+    },
+    "seoFriendlyPath": "/share/4-royal-court-bow-lane-west-kilmainham-dublin-8/6336802",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6336902,
+    "title": "15 Clonturk Park, Drumcondra Dublin 9, Fairview, Dublin 3",
+    "seoTitle": "15 Clonturk Park, Drumcondra Dublin 9, Fairview, Dublin 3",
+    "sections": [
+      "Property",
+      "Sharing",
+      "House"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1762211838010,
+    "price": "€170 per week",
+    "abbreviatedPrice": "€170",
+    "numBedrooms": "Double Room",
+    "propertyType": "House",
+    "daftShortcode": "36336902",
+    "seller": {
+      "sellerId": 1104511,
+      "name": "con mcnamee",
+      "phone": "353878123123",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "D1"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.252735,
+        53.369174
+      ]
+    },
+    "seoFriendlyPath": "/share/15-clonturk-park-dublin-9-fairview-dublin-3/6336902",
     "category": "Share",
     "state": "PUBLISHED",
     "premierPartner": false
