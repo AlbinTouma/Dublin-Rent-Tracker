@@ -3645,6 +3645,52 @@
     "premierPartner": false
   },
   {
+    "id": 6244126,
+    "title": "Apartment T1, The Hunt Building, Grand Parade, Che, Cherrywood, Co. Dublin",
+    "seoTitle": "Apartment T1, The Hunt Building, Grand Parade, Che, Cherrywood, Co. Dublin",
+    "sections": [
+      "Property",
+      "Sharing",
+      "Apartment"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1762272347325,
+    "price": "€1,350 per month",
+    "abbreviatedPrice": "€1,350",
+    "numBedrooms": "Double Room",
+    "propertyType": "Apartment",
+    "daftShortcode": "36244126",
+    "seller": {
+      "sellerId": 5437982,
+      "name": "blessing malumi",
+      "phone": "353832035422",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "A1"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.144408,
+        53.245753
+      ]
+    },
+    "seoFriendlyPath": "/share/apartment-t1-the-hunt-building-grand-parade-che-cherrywood-co-dublin/6244126",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
     "id": 6244288,
     "title": "29 Prospect View, Dublin 16, Ballyboden, Dublin 16",
     "seoTitle": "29 Prospect View, Dublin 16, Ballyboden, Dublin 16",
@@ -51397,6 +51443,51 @@
     "premierPartner": false
   },
   {
+    "id": 6327554,
+    "title": "Leopardstown Grove, Stillorgan, Blackrock, Co. , Foxrock, Dublin 18",
+    "seoTitle": "Leopardstown Grove, Stillorgan, Blackrock, Co. , Foxrock, Dublin 18",
+    "sections": [
+      "Property",
+      "Sharing",
+      "House"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1762291683448,
+    "price": "From €950 to €1,050 per month",
+    "abbreviatedPrice": "€950+",
+    "numBedrooms": "Double Room",
+    "propertyType": "House",
+    "daftShortcode": "36327554",
+    "seller": {
+      "sellerId": 1580705,
+      "name": "Stephen Howett",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "D2"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.190915,
+        53.27831
+      ]
+    },
+    "seoFriendlyPath": "/share/leopardstown-grove-stillorgan-blackrock-co-foxrock-dublin-18/6327554",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
     "id": 6327628,
     "title": "Kilmainham Bank, Emmet Road, Dublin 8",
     "seoTitle": "Kilmainham Bank, Emmet Road, Dublin 8",
@@ -58939,6 +59030,187 @@
       ]
     },
     "seoFriendlyPath": "/share/15-clonturk-park-dublin-9-fairview-dublin-3/6336902",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6337626,
+    "title": "Liffey Valley Park, Lucan, Co. Dublin",
+    "seoTitle": "Liffey Valley Park, Lucan, Co. Dublin",
+    "sections": [
+      "Property",
+      "Sharing",
+      "House"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1762291683175,
+    "price": "€535 per month",
+    "abbreviatedPrice": "€540",
+    "numBedrooms": "Single Room",
+    "propertyType": "House",
+    "daftShortcode": "36337626",
+    "seller": {
+      "sellerId": 909662,
+      "name": "Private User",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "SI_666"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.4146220408056,
+        53.352958574493
+      ]
+    },
+    "seoFriendlyPath": "/share/liffey-valley-park-lucan-co-dublin/6337626",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6338275,
+    "title": "1 Jervis Street,Dublin 1, Dublin 1",
+    "seoTitle": "1 Jervis Street,Dublin 1, Dublin 1",
+    "sections": [
+      "Property",
+      "Sharing",
+      "Apartment"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1762291683696,
+    "price": "€950 per month",
+    "abbreviatedPrice": "€950",
+    "numBedrooms": "Single Room",
+    "propertyType": "Apartment",
+    "daftShortcode": "36338275",
+    "seller": {
+      "sellerId": 1764825,
+      "name": "David Mago",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "A1"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.265766,
+        53.346921
+      ]
+    },
+    "seoFriendlyPath": "/share/1-jervis-street-dublin-1-dublin-1/6338275",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6338584,
+    "title": "1 Havelock Terrace, Dublin 4, Sandymount, Dublin 4",
+    "seoTitle": "1 Havelock Terrace, Dublin 4, Sandymount, Dublin 4",
+    "sections": [
+      "Property",
+      "Sharing",
+      "House"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1762291683970,
+    "price": "From €1,295 to €1,395 per month",
+    "abbreviatedPrice": "€1,300+",
+    "numBedrooms": "Double Room",
+    "propertyType": "House",
+    "daftShortcode": "36338584",
+    "seller": {
+      "sellerId": 6560143,
+      "name": "James Harper",
+      "phone": "353894831335",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "A3"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.229346,
+        53.336882
+      ]
+    },
+    "seoFriendlyPath": "/share/1-havelock-terrace-dublin-4-sandymount-dublin-4/6338584",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6338699,
+    "title": "Grove Court, Grove Road, Blanchardstown Shopping Centre, Clonsilla, Dublin 15",
+    "seoTitle": "Grove Court, Grove Road, Blanchardstown Shopping Centre, Clonsilla, Dublin 15",
+    "sections": [
+      "Property",
+      "Sharing",
+      "Apartment"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1762291683712,
+    "price": "€900 per month",
+    "abbreviatedPrice": "€900",
+    "numBedrooms": "Double Room",
+    "propertyType": "Apartment",
+    "daftShortcode": "36338699",
+    "seller": {
+      "sellerId": 5843826,
+      "name": "Tobe",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "B2"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.394391,
+        53.391441
+      ]
+    },
+    "seoFriendlyPath": "/share/grove-court-grove-road-blanchardstown-shopping-centre-clonsilla-dublin-15/6338699",
     "category": "Share",
     "state": "PUBLISHED",
     "premierPartner": false
