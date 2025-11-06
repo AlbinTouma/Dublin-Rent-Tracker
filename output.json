@@ -6969,6 +6969,51 @@
     "premierPartner": false
   },
   {
+    "id": 6263592,
+    "title": "Killester, Killester, Dublin 5",
+    "seoTitle": "Killester, Killester, Dublin 5",
+    "sections": [
+      "Property",
+      "Sharing",
+      "House"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1762375724057,
+    "price": "€850 per month",
+    "abbreviatedPrice": "€850",
+    "numBedrooms": "Double Room",
+    "propertyType": "House",
+    "daftShortcode": "36263592",
+    "seller": {
+      "sellerId": 6481604,
+      "name": "Amy Kennedy",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "SI_666"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.205611,
+        53.37925
+      ]
+    },
+    "seoFriendlyPath": "/share/killester-killester-dublin-5/6263592",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
     "id": 6263712,
     "title": "3 Cherryfield Walk, Hartstown, Dublin 15, Clonsilla, Dublin 15",
     "seoTitle": "3 Cherryfield Walk, Hartstown, Dublin 15, Clonsilla, Dublin 15",
@@ -59080,6 +59125,51 @@
     "premierPartner": false
   },
   {
+    "id": 6337753,
+    "title": "12 Creighton Street, Dublin 2, Dublin 2",
+    "seoTitle": "12 Creighton Street, Dublin 2, Dublin 2",
+    "sections": [
+      "Property",
+      "Sharing",
+      "House"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1762359752454,
+    "price": "€1,200 per month",
+    "abbreviatedPrice": "€1,200",
+    "numBedrooms": "Double Room",
+    "propertyType": "House",
+    "daftShortcode": "36337753",
+    "seller": {
+      "sellerId": 6559512,
+      "name": "Private User",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "SI_666"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.246605,
+        53.345983
+      ]
+    },
+    "seoFriendlyPath": "/share/12-creighton-street-dublin-2-dublin-2/6337753",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
     "id": 6338275,
     "title": "1 Jervis Street,Dublin 1, Dublin 1",
     "seoTitle": "1 Jervis Street,Dublin 1, Dublin 1",
@@ -59211,6 +59301,51 @@
       ]
     },
     "seoFriendlyPath": "/share/grove-court-grove-road-blanchardstown-shopping-centre-clonsilla-dublin-15/6338699",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6339742,
+    "title": "Sigurd Road, Dublin 7, Arbour Hill, Dublin 7",
+    "seoTitle": "Sigurd Road, Dublin 7, Arbour Hill, Dublin 7",
+    "sections": [
+      "Property",
+      "Sharing",
+      "House"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1762379436944,
+    "price": "€900 per month",
+    "abbreviatedPrice": "€900",
+    "numBedrooms": "Single Room",
+    "propertyType": "House",
+    "daftShortcode": "36339742",
+    "seller": {
+      "sellerId": 6561503,
+      "name": "Private User",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "F"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.28639,
+        53.352123
+      ]
+    },
+    "seoFriendlyPath": "/share/2-sigurd-road-dublin-7-arbour-hill-dublin-7/6339742",
     "category": "Share",
     "state": "PUBLISHED",
     "premierPartner": false
