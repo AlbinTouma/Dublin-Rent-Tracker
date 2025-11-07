@@ -59306,6 +59306,188 @@
     "premierPartner": false
   },
   {
+    "id": 6339086,
+    "title": "12 Clare Street, Dublin 2, Dublin City Centre",
+    "seoTitle": "12 Clare Street, Dublin 2, Dublin City Centre",
+    "sections": [
+      "Property",
+      "Sharing",
+      "House"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1762457397802,
+    "price": "€790 per month",
+    "abbreviatedPrice": "€790",
+    "numBedrooms": "Shared Room",
+    "propertyType": "House",
+    "daftShortcode": "36339086",
+    "seller": {
+      "sellerId": 535306,
+      "name": "Dermot",
+      "phone": "086 3711578",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "SI_666"
+    },
+    "platform": "DAPI-IPHONE",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.25114,
+        53.341433
+      ]
+    },
+    "seoFriendlyPath": "/share/12-clare-street-dublin-2-dublin-city-centre/6339086",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6339278,
+    "title": "Flat 1, 46a Grove Park, Dublin 6, Rathmines, Dublin 6",
+    "seoTitle": "Flat 1, 46a Grove Park, Dublin 6, Rathmines, Dublin 6",
+    "sections": [
+      "Property",
+      "Sharing",
+      "House"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1762457397794,
+    "price": "€1,100 per month",
+    "abbreviatedPrice": "€1,100",
+    "numBedrooms": "Double Room",
+    "propertyType": "House",
+    "daftShortcode": "36339278",
+    "seller": {
+      "sellerId": 1795231,
+      "name": "Nancy Tiernan",
+      "phone": "353870613537",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "C3"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.267635,
+        53.329315
+      ]
+    },
+    "seoFriendlyPath": "/share/flat-1-46a-grove-park-dublin-6-rathmines-dublin-6/6339278",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6339563,
+    "title": "Mount Garrett, Tyrrelstown, Dublin 15, Tyrrelstown, Dublin 15",
+    "seoTitle": "Mount Garrett, Tyrrelstown, Dublin 15, Tyrrelstown, Dublin 15",
+    "sections": [
+      "Property",
+      "Sharing",
+      "House"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1762459259298,
+    "price": "€1,100 per month",
+    "abbreviatedPrice": "€1,100",
+    "numBedrooms": "Double Room",
+    "propertyType": "House",
+    "daftShortcode": "36339563",
+    "seller": {
+      "sellerId": 6561208,
+      "name": "Indy",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "B2"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.392299,
+        53.422622
+      ]
+    },
+    "seoFriendlyPath": "/share/mount-garrett-tyrrelstown-dublin-15-tyrrelstown-dublin-15/6339563",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6339740,
+    "title": "Mount Bellew Way, Lucan, Co. Dublin",
+    "seoTitle": "Mount Bellew Way, Lucan, Co. Dublin",
+    "sections": [
+      "Property",
+      "Sharing",
+      "House"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1762457398330,
+    "price": "€700 per month",
+    "abbreviatedPrice": "€700",
+    "numBedrooms": "Double Room",
+    "propertyType": "House",
+    "daftShortcode": "36339740",
+    "seller": {
+      "sellerId": 199175,
+      "name": "Mount Bellew",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "C1"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.4240730677683,
+        53.351931955653
+      ]
+    },
+    "seoFriendlyPath": "/share/mount-bellew-way-lucan-co-dublin/6339740",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
     "id": 6339742,
     "title": "Sigurd Road, Dublin 7, Arbour Hill, Dublin 7",
     "seoTitle": "Sigurd Road, Dublin 7, Arbour Hill, Dublin 7",
@@ -59346,6 +59528,321 @@
       ]
     },
     "seoFriendlyPath": "/share/2-sigurd-road-dublin-7-arbour-hill-dublin-7/6339742",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6339912,
+    "title": "North Strand Road,Dublin 3, Ballybough, Dublin 3",
+    "seoTitle": "North Strand Road,Dublin 3, Ballybough, Dublin 3",
+    "sections": [
+      "Property",
+      "Sharing",
+      "House"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1762457398570,
+    "price": "€1,250 per month",
+    "abbreviatedPrice": "€1,250",
+    "numBedrooms": "Double Room",
+    "propertyType": "House",
+    "daftShortcode": "36339912",
+    "seller": {
+      "sellerId": 6017049,
+      "name": "Private User",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "A1"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.240965,
+        53.359125
+      ]
+    },
+    "seoFriendlyPath": "/share/north-strand-road-dublin-3-ballybough-dublin-3/6339912",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6340078,
+    "title": "The Platform, Adamstown Avenue, Adamstown, Co. Dublin",
+    "seoTitle": "The Platform, Adamstown Avenue, Adamstown, Co. Dublin",
+    "sections": [
+      "Property",
+      "Sharing",
+      "Apartment"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1762468907391,
+    "price": "From €725 to €950 per month",
+    "abbreviatedPrice": "€730+",
+    "numBedrooms": "Single & Double Room",
+    "propertyType": "Apartment",
+    "daftShortcode": "36340078",
+    "seller": {
+      "sellerId": 5458360,
+      "name": "Rory Fagan",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "A1"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.470093,
+        53.33799
+      ]
+    },
+    "seoFriendlyPath": "/share/the-platform-adamstown-avenue-adamstown-co-dublin/6340078",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6340431,
+    "title": "Templeville Road, Templeogue, Dublin 6W",
+    "seoTitle": "Templeville Road, Templeogue, Dublin 6W",
+    "sections": [
+      "Property",
+      "Sharing",
+      "House"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1762457398862,
+    "price": "From €850 to €900 per month",
+    "abbreviatedPrice": "€850+",
+    "numBedrooms": "Double Room",
+    "propertyType": "House",
+    "daftShortcode": "36340431",
+    "seller": {
+      "sellerId": 614088,
+      "name": "Alan",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "B2"
+    },
+    "platform": "DAPI-IPHONE",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.3185434027479,
+        53.30032438531
+      ]
+    },
+    "seoFriendlyPath": "/share/templeville-road-templeogue-dublin-6w/6340431",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6340561,
+    "title": "Carysfort Park,Blackrock,Co. Dublin, Blackrock, Co. Dublin",
+    "seoTitle": "Carysfort Park,Blackrock,Co. Dublin, Blackrock, Co. Dublin",
+    "sections": [
+      "Property",
+      "Sharing",
+      "House"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1762459257226,
+    "price": "€1,200 per month",
+    "abbreviatedPrice": "€1,200",
+    "numBedrooms": "Double Room",
+    "propertyType": "House",
+    "daftShortcode": "36340561",
+    "seller": {
+      "sellerId": 6460366,
+      "name": "Private User",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "C1"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.183441,
+        53.292995
+      ]
+    },
+    "seoFriendlyPath": "/share/carysfort-park-blackrock-co-dublin-blackrock-co-dublin/6340561",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6340610,
+    "title": "Charlemont Parade,Dublin 3, Ballybough, Dublin 3",
+    "seoTitle": "Charlemont Parade,Dublin 3, Ballybough, Dublin 3",
+    "sections": [
+      "Property",
+      "Sharing",
+      "House"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1762457399121,
+    "price": "€1,350 per month",
+    "abbreviatedPrice": "€1,350",
+    "numBedrooms": "Double Room",
+    "propertyType": "House",
+    "daftShortcode": "36340610",
+    "seller": {
+      "sellerId": 6017049,
+      "name": "Private User",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "B2"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.24511,
+        53.357737
+      ]
+    },
+    "seoFriendlyPath": "/share/charlemont-parade-dublin-3-ballybough-dublin-3/6340610",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6340711,
+    "title": "Shanard Road,Dublin 9, Whitehall, Dublin 9",
+    "seoTitle": "Shanard Road,Dublin 9, Whitehall, Dublin 9",
+    "sections": [
+      "Property",
+      "Sharing",
+      "House"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1762470166180,
+    "price": "From €530 to €605 per month",
+    "abbreviatedPrice": "€530+",
+    "numBedrooms": "Single & Double Room",
+    "propertyType": "House",
+    "daftShortcode": "36340711",
+    "seller": {
+      "sellerId": 1968770,
+      "name": "Jack",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "D1"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.256316,
+        53.390362
+      ]
+    },
+    "seoFriendlyPath": "/share/shanard-road-dublin-9-whitehall-dublin-9/6340711",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6340786,
+    "title": " Diswellstown Park,Hamilton Park, Castleknock,Dublin 15, Carpenterstown, Dublin 15",
+    "seoTitle": " Diswellstown Park,Hamilton Park, Castleknock,Dublin 15, Carpenterstown, Dublin 15",
+    "sections": [
+      "Property",
+      "Sharing",
+      "House"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1762469854285,
+    "price": "€750 per month",
+    "abbreviatedPrice": "€750",
+    "numBedrooms": "Single Room",
+    "propertyType": "House",
+    "daftShortcode": "36340786",
+    "seller": {
+      "sellerId": 1943318,
+      "name": "Michelle Smith",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "A1"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.382417,
+        53.368618
+      ]
+    },
+    "seoFriendlyPath": "/share/-diswellstown-park-hamilton-park-castleknock-dublin-15-carpenterstown-dublin-15/6340786",
     "category": "Share",
     "state": "PUBLISHED",
     "premierPartner": false
