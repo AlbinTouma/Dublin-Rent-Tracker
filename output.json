@@ -58626,6 +58626,52 @@
     "premierPartner": false
   },
   {
+    "id": 6334937,
+    "title": "Tory Square,Waterville,Dublin 15, Ballycoolin, Dublin 15",
+    "seoTitle": "Tory Square,Waterville,Dublin 15, Ballycoolin, Dublin 15",
+    "sections": [
+      "Property",
+      "Sharing",
+      "Apartment"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1762541623096,
+    "price": "€1,300 per month",
+    "abbreviatedPrice": "€1,300",
+    "numBedrooms": "Double Room",
+    "propertyType": "Apartment",
+    "daftShortcode": "36334937",
+    "seller": {
+      "sellerId": 1652186,
+      "name": "char ryan",
+      "phone": "353838260656",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "C2"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.376665,
+        53.392688
+      ]
+    },
+    "seoFriendlyPath": "/share/tory-square-waterville-dublin-15-ballycoolin-dublin-15/6334937",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
     "id": 6335532,
     "title": "Tullyhall Close,Lucan,Co. Dublin, Lucan, Co. Dublin",
     "seoTitle": "Tullyhall Close,Lucan,Co. Dublin, Lucan, Co. Dublin",
@@ -59843,6 +59889,233 @@
       ]
     },
     "seoFriendlyPath": "/share/-diswellstown-park-hamilton-park-castleknock-dublin-15-carpenterstown-dublin-15/6340786",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6340837,
+    "title": "Hayfield Court,Churchview Road,Killiney,Co. Dublin, Glenageary, Co. Dublin",
+    "seoTitle": "Hayfield Court,Churchview Road,Killiney,Co. Dublin, Glenageary, Co. Dublin",
+    "sections": [
+      "Property",
+      "Sharing",
+      "Apartment"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1762536873744,
+    "price": "€1,362 per month",
+    "abbreviatedPrice": "€1,360",
+    "numBedrooms": "Double Room",
+    "propertyType": "Apartment",
+    "daftShortcode": "36340837",
+    "seller": {
+      "sellerId": 5689630,
+      "name": "Eugenia",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "A1"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.135519,
+        53.265327
+      ]
+    },
+    "seoFriendlyPath": "/share/hayfield-court-churchview-road-killiney-co-dublin-glenageary-co-dublin/6340837",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6341167,
+    "title": "Apartment 72, Hayfield Court, Churchview Road, Kil, Glenageary, Co. Dublin",
+    "seoTitle": "Apartment 72, Hayfield Court, Churchview Road, Kil, Glenageary, Co. Dublin",
+    "sections": [
+      "Property",
+      "Sharing",
+      "Apartment"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1762536873501,
+    "price": "€1,325 per month",
+    "abbreviatedPrice": "€1,330",
+    "numBedrooms": "Double Room",
+    "propertyType": "Apartment",
+    "daftShortcode": "36341167",
+    "seller": {
+      "sellerId": 6557428,
+      "name": "Anna Chioteli",
+      "phone": "353894018141",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "A2"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.135519,
+        53.265327
+      ]
+    },
+    "seoFriendlyPath": "/share/apartment-72-hayfield-court-churchview-road-kil-glenageary-co-dublin/6341167",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6341220,
+    "title": "blessington street , Dublin 1",
+    "seoTitle": "blessington street , Dublin 1",
+    "sections": [
+      "Property",
+      "Sharing",
+      "Apartment"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1762536872911,
+    "price": "€550 per month",
+    "abbreviatedPrice": "€550",
+    "numBedrooms": "Twin Room",
+    "propertyType": "Apartment",
+    "daftShortcode": "36341220",
+    "seller": {
+      "sellerId": 5876945,
+      "name": "Private User",
+      "phone": "353838111281",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "A1"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.2655052202043,
+        53.356148552268
+      ]
+    },
+    "seoFriendlyPath": "/share/blessington-street-dublin-1/6341220",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6341464,
+    "title": "48 Thomas Street,Dublin 8, Christchurch, Dublin 8",
+    "seoTitle": "48 Thomas Street,Dublin 8, Christchurch, Dublin 8",
+    "sections": [
+      "Property",
+      "Sharing",
+      "Apartment"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1762536873511,
+    "price": "€1,400 per month",
+    "abbreviatedPrice": "€1,400",
+    "numBedrooms": "Double & Twin Room",
+    "propertyType": "Apartment",
+    "daftShortcode": "36341464",
+    "seller": {
+      "sellerId": 6017049,
+      "name": "Private User",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "B1"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.278897,
+        53.342594
+      ]
+    },
+    "seoFriendlyPath": "/share/48-thomas-street-dublin-8-christchurch-dublin-8/6341464",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6341779,
+    "title": "11 Beau Park Terrace, Clongriffin, Dublin 13, Baldoyle, Dublin 13",
+    "seoTitle": "11 Beau Park Terrace, Clongriffin, Dublin 13, Baldoyle, Dublin 13",
+    "sections": [
+      "Property",
+      "Sharing",
+      "House"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1762558000075,
+    "price": "€1,100 per month",
+    "abbreviatedPrice": "€1,100",
+    "numBedrooms": "Double Room",
+    "propertyType": "House",
+    "daftShortcode": "36341779",
+    "seller": {
+      "sellerId": 555025,
+      "name": "Declan",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "SI_666"
+    },
+    "platform": "DAPI-IPHONE",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.154074,
+        53.400704
+      ]
+    },
+    "seoFriendlyPath": "/share/11-beau-park-terrace-clongriffin-dublin-13-baldoyle-dublin-13/6341779",
     "category": "Share",
     "state": "PUBLISHED",
     "premierPartner": false
