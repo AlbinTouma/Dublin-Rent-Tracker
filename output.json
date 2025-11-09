@@ -11431,6 +11431,51 @@
     "premierPartner": false
   },
   {
+    "id": 6280396,
+    "title": "27 Sycamore Avenue, Dublin 24, Kilnamanagh, Dublin 24",
+    "seoTitle": "27 Sycamore Avenue, Dublin 24, Kilnamanagh, Dublin 24",
+    "sections": [
+      "Property",
+      "Sharing",
+      "House"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1762596795037,
+    "price": "€700 per month",
+    "abbreviatedPrice": "€700",
+    "numBedrooms": "Single Room",
+    "propertyType": "House",
+    "daftShortcode": "36280396",
+    "seller": {
+      "sellerId": 6293594,
+      "name": "Caroline (Caz) Brown",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "B3"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.363995,
+        53.304745
+      ]
+    },
+    "seoFriendlyPath": "/share/27-sycamore-avenue-dublin-24-kilnamanagh-dublin-24/6280396",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
     "id": 6280588,
     "title": "Aderrig, Adamstown, Lucan, Co. Dublin., Adamstown, Co. Dublin",
     "seoTitle": "Aderrig, Adamstown, Lucan, Co. Dublin., Adamstown, Co. Dublin",
@@ -14464,6 +14509,51 @@
     "premierPartner": false
   },
   {
+    "id": 6290130,
+    "title": "Coolmine Road , Coolmine, Dublin 15",
+    "seoTitle": "Coolmine Road , Coolmine, Dublin 15",
+    "sections": [
+      "Property",
+      "Sharing",
+      "House"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1762644353800,
+    "price": "€570 per month",
+    "abbreviatedPrice": "€570",
+    "numBedrooms": "Double Room",
+    "propertyType": "House",
+    "daftShortcode": "36290130",
+    "seller": {
+      "sellerId": 1015089,
+      "name": "Bridget O'Connor",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "B3"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.3933548573681,
+        53.382976847762
+      ]
+    },
+    "seoFriendlyPath": "/share/coolmine-road-coolmine-dublin-15/6290130",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
     "id": 6290219,
     "title": "Croftwell Square, Rathcoole, Co. Dublin",
     "seoTitle": "Croftwell Square, Rathcoole, Co. Dublin",
@@ -15600,6 +15690,51 @@
       ]
     },
     "seoFriendlyPath": "/share/earlsfort-road-lucan-co-dublin/6292381",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6292864,
+    "title": "Rialto Central, Rialto, Dublin 8",
+    "seoTitle": "Rialto Central, Rialto, Dublin 8",
+    "sections": [
+      "Property",
+      "Sharing",
+      "House"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1762614605915,
+    "price": "€1,050 per month",
+    "abbreviatedPrice": "€1,050",
+    "numBedrooms": "Double Room",
+    "propertyType": "House",
+    "daftShortcode": "36292864",
+    "seller": {
+      "sellerId": 5244377,
+      "name": "Elias and Paul",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "D1"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.295513,
+        53.335615
+      ]
+    },
+    "seoFriendlyPath": "/share/rialto-central-rialto-dublin-8/6292864",
     "category": "Share",
     "state": "PUBLISHED",
     "premierPartner": false
@@ -60116,6 +60251,237 @@
       ]
     },
     "seoFriendlyPath": "/share/11-beau-park-terrace-clongriffin-dublin-13-baldoyle-dublin-13/6341779",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6341862,
+    "title": "Adamstown Square, Lucan, Co. D, Adamstown, Co. Dublin",
+    "seoTitle": "Adamstown Square, Lucan, Co. D, Adamstown, Co. Dublin",
+    "sections": [
+      "Property",
+      "Sharing",
+      "House"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1762605101817,
+    "price": "€850 per month",
+    "abbreviatedPrice": "€850",
+    "numBedrooms": "Single Room",
+    "propertyType": "House",
+    "daftShortcode": "36341862",
+    "seller": {
+      "sellerId": 6170213,
+      "name": "Anees Philip",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "A3"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.4682,
+        53.339041
+      ]
+    },
+    "seoFriendlyPath": "/share/adamstown-square-lucan-co-d-adamstown-co-dublin/6341862",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6341916,
+    "title": "Apartment 7, Block B, Palmers Gate, Kennelsfort Ro, Palmerstown, Dublin 20",
+    "seoTitle": "Apartment 7, Block B, Palmers Gate, Kennelsfort Ro, Palmerstown, Dublin 20",
+    "sections": [
+      "Property",
+      "Sharing",
+      "Apartment"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1762605534930,
+    "price": "€1,500 per month",
+    "abbreviatedPrice": "€1,500",
+    "numBedrooms": "Double Room",
+    "propertyType": "Apartment",
+    "daftShortcode": "36341916",
+    "seller": {
+      "sellerId": 1887417,
+      "name": "SOT",
+      "phone": "353852242052",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "A1"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.373012,
+        53.355595
+      ]
+    },
+    "seoFriendlyPath": "/share/apartment-7-block-b-palmers-gate-kennelsfort-ro-palmerstown-dublin-20/6341916",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6341988,
+    "title": "9 Ardbeg Crescent, Dublin 5, Artane, Dublin 5",
+    "seoTitle": "9 Ardbeg Crescent, Dublin 5, Artane, Dublin 5",
+    "sections": [
+      "Property",
+      "Sharing",
+      "House"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1762623415921,
+    "price": "From €650 to €900 per month",
+    "abbreviatedPrice": "€650+",
+    "numBedrooms": "Single & Twin Room",
+    "propertyType": "House",
+    "daftShortcode": "36341988",
+    "seller": {
+      "sellerId": 6533413,
+      "name": "Private User",
+      "phone": "353852724942",
+      "phoneWhenToCall": "Tues & Saturday 10:00am - 4:30pm",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "SI_666"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.205265,
+        53.386486
+      ]
+    },
+    "seoFriendlyPath": "/share/9-ardbeg-crescent-dublin-5-artane-dublin-5/6341988",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6342035,
+    "title": "88 Merrion Road, Dublin 4, Ballsbridge, Dublin 4",
+    "seoTitle": "88 Merrion Road, Dublin 4, Ballsbridge, Dublin 4",
+    "sections": [
+      "Property",
+      "Sharing",
+      "House"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1762634185897,
+    "price": "€1,550 per month",
+    "abbreviatedPrice": "€1,550",
+    "numBedrooms": "Double Room",
+    "propertyType": "House",
+    "daftShortcode": "36342035",
+    "seller": {
+      "sellerId": 687925,
+      "name": "Ciara Murphy ",
+      "phone": "353863416252",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "SI_666"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.223399,
+        53.325952
+      ]
+    },
+    "seoFriendlyPath": "/share/88-merrion-road-dublin-4-ballsbridge-dublin-4/6342035",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6342043,
+    "title": "Stillorgan, Kilmacud, Co. Dublin",
+    "seoTitle": "Stillorgan, Kilmacud, Co. Dublin",
+    "sections": [
+      "Property",
+      "Sharing",
+      "House"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1762634778048,
+    "price": "€900 per month",
+    "abbreviatedPrice": "€900",
+    "numBedrooms": "Single Room",
+    "propertyType": "House",
+    "daftShortcode": "36342043",
+    "seller": {
+      "sellerId": 6563959,
+      "name": "Private User",
+      "phone": "353872537273",
+      "phoneWhenToCall": "4-6pm Monday-Friday",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": false,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "C1"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.210927,
+        53.28221
+      ]
+    },
+    "seoFriendlyPath": "/share/stillorgan-kilmacud-co-dublin/6342043",
     "category": "Share",
     "state": "PUBLISHED",
     "premierPartner": false
