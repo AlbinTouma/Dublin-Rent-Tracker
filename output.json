@@ -24220,6 +24220,51 @@
     "premierPartner": false
   },
   {
+    "id": 6311689,
+    "title": "Wilkinsons Brook, Hollystown, Dublin 15",
+    "seoTitle": "Wilkinsons Brook, Hollystown, Dublin 15",
+    "sections": [
+      "Property",
+      "Sharing",
+      "House"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1762706543332,
+    "price": "€1,166 per month",
+    "abbreviatedPrice": "€1,170",
+    "numBedrooms": "Double Room",
+    "propertyType": "House",
+    "daftShortcode": "36311689",
+    "seller": {
+      "sellerId": 1933623,
+      "name": "Ihunanya Enyi-Amadi",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "A2"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.375612,
+        53.425829
+      ]
+    },
+    "seoFriendlyPath": "/share/wilkinsons-brook-hollystown-dublin-15/6311689",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
     "id": 6311694,
     "title": "6 Limelawn Glade, Clonsilla, Dublin 15, Clonsilla, Dublin 15",
     "seoTitle": "6 Limelawn Glade, Clonsilla, Dublin 15, Clonsilla, Dublin 15",
@@ -60482,6 +60527,188 @@
       ]
     },
     "seoFriendlyPath": "/share/stillorgan-kilmacud-co-dublin/6342043",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6342104,
+    "title": "Penrose St , Grand Canal Dock, Dublin 2",
+    "seoTitle": "Penrose St , Grand Canal Dock, Dublin 2",
+    "sections": [
+      "Property",
+      "Sharing",
+      "House"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1762706543336,
+    "price": "€1,100 per month",
+    "abbreviatedPrice": "€1,100",
+    "numBedrooms": "Double Room",
+    "propertyType": "House",
+    "daftShortcode": "36342104",
+    "seller": {
+      "sellerId": 2013199,
+      "name": "Greg",
+      "phone": "086 173 1736",
+      "phoneWhenToCall": "WhatsApp preferably",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "D1"
+    },
+    "platform": "DAPI-IPHONE",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.2327375009619,
+        53.340327225829
+      ]
+    },
+    "seoFriendlyPath": "/share/penrose-st-grand-canal-dock-dublin-2/6342104",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6342203,
+    "title": "Finglas Park, Finglas , Dublin 11, Finglas, Dublin 11",
+    "seoTitle": "Finglas Park, Finglas , Dublin 11, Finglas, Dublin 11",
+    "sections": [
+      "Property",
+      "Sharing",
+      "House"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1762729587346,
+    "price": "€800 per month",
+    "abbreviatedPrice": "€800",
+    "numBedrooms": "Double Room",
+    "propertyType": "House",
+    "daftShortcode": "36342203",
+    "seller": {
+      "sellerId": 5932307,
+      "name": "Private User",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "D2"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.2891622431451,
+        53.391604018658
+      ]
+    },
+    "seoFriendlyPath": "/share/finglas-park-finglas-dublin-11-finglas-dublin-11/6342203",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6342276,
+    "title": "Griffeen Glen Grove,Griffeen Glen,Lucan,Co. Dublin, Lucan, Co. Dublin",
+    "seoTitle": "Griffeen Glen Grove,Griffeen Glen,Lucan,Co. Dublin, Lucan, Co. Dublin",
+    "sections": [
+      "Property",
+      "Sharing",
+      "House"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1762724202315,
+    "price": "€950 per month",
+    "abbreviatedPrice": "€950",
+    "numBedrooms": "Double Room",
+    "propertyType": "House",
+    "daftShortcode": "36342276",
+    "seller": {
+      "sellerId": 1826084,
+      "name": "Muhammad",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "B3"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.433223,
+        53.342883
+      ]
+    },
+    "seoFriendlyPath": "/share/griffeen-glen-grove-griffeen-glen-lucan-co-dublin-lucan-co-dublin/6342276",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6342286,
+    "title": "The Crescent,Belgard Heights,Dublin 24, Kingswood, Dublin 24",
+    "seoTitle": "The Crescent,Belgard Heights,Dublin 24, Kingswood, Dublin 24",
+    "sections": [
+      "Property",
+      "Sharing",
+      "House"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1762728842102,
+    "price": "€1,100 per month",
+    "abbreviatedPrice": "€1,100",
+    "numBedrooms": "Double Room",
+    "propertyType": "House",
+    "daftShortcode": "36342286",
+    "seller": {
+      "sellerId": 5033481,
+      "name": "weizhen",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "C2"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.382467,
+        53.298621
+      ]
+    },
+    "seoFriendlyPath": "/share/the-crescent-belgard-heights-dublin-24-kingswood-dublin-24/6342286",
     "category": "Share",
     "state": "PUBLISHED",
     "premierPartner": false
