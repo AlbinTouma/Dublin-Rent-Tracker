@@ -10434,6 +10434,53 @@
     "premierPartner": false
   },
   {
+    "id": 6277456,
+    "title": "Hartstown, Dublin 15, Hartstown, Dublin 15",
+    "seoTitle": "Hartstown, Dublin 15, Hartstown, Dublin 15",
+    "sections": [
+      "Property",
+      "Sharing",
+      "House"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1762808819629,
+    "price": "€1,000 per month",
+    "abbreviatedPrice": "€1,000",
+    "numBedrooms": "Double Room",
+    "propertyType": "House",
+    "daftShortcode": "36277456",
+    "seller": {
+      "sellerId": 1215564,
+      "name": "Craig Cleary",
+      "phone": "353857227445",
+      "phoneWhenToCall": "1100-2200",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "C3"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.422972,
+        53.395584
+      ]
+    },
+    "seoFriendlyPath": "/share/hartstown-dublin-15-hartstown-dublin-15/6277456",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
     "id": 6277656,
     "title": "Belvidere Avenue, Dublin 1",
     "seoTitle": "Belvidere Avenue, Dublin 1",
@@ -60709,6 +60756,234 @@
       ]
     },
     "seoFriendlyPath": "/share/the-crescent-belgard-heights-dublin-24-kingswood-dublin-24/6342286",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6342298,
+    "title": "brandon rd drimnagh d12, Drimnagh, Dublin 12",
+    "seoTitle": "brandon rd drimnagh d12, Drimnagh, Dublin 12",
+    "sections": [
+      "Property",
+      "Sharing",
+      "House"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1762778981575,
+    "price": "€160 per week",
+    "abbreviatedPrice": "€160",
+    "numBedrooms": "Single Room",
+    "propertyType": "House",
+    "daftShortcode": "36342298",
+    "seller": {
+      "sellerId": 627004,
+      "name": "ann",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "A3"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.324127623265,
+        53.328228016637
+      ]
+    },
+    "seoFriendlyPath": "/share/brandon-rd-drimnagh-d12-drimnagh-dublin-12/6342298",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6342335,
+    "title": "Red Arches Road, The Coast, Dublin 13, Baldoyle, Dublin 13",
+    "seoTitle": "Red Arches Road, The Coast, Dublin 13, Baldoyle, Dublin 13",
+    "sections": [
+      "Property",
+      "Sharing",
+      "House"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1762778982021,
+    "price": "€820 per month",
+    "abbreviatedPrice": "€820",
+    "numBedrooms": "Double Room",
+    "propertyType": "House",
+    "daftShortcode": "36342335",
+    "seller": {
+      "sellerId": 1745579,
+      "name": "Office Admin",
+      "phone": "353873339544",
+      "phoneWhenToCall": "9 am to 10 pm",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "B2"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.145413,
+        53.400705
+      ]
+    },
+    "seoFriendlyPath": "/share/red-arches-road-the-coast-dublin-13-baldoyle-dublin-13/6342335",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6342656,
+    "title": "Edenmore Shopping Centre, Edenmore Park, Dublin 5, Edenmore, Dublin 5",
+    "seoTitle": "Edenmore Shopping Centre, Edenmore Park, Dublin 5, Edenmore, Dublin 5",
+    "sections": [
+      "Property",
+      "Sharing",
+      "House"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1762778982353,
+    "price": "From €800 to €1,000 per month",
+    "abbreviatedPrice": "€800+",
+    "numBedrooms": "Single & Twin Room",
+    "propertyType": "House",
+    "daftShortcode": "36342656",
+    "seller": {
+      "sellerId": 6556290,
+      "name": "Jason Tang",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "D1"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.181566,
+        53.38863
+      ]
+    },
+    "seoFriendlyPath": "/share/edenmore-shopping-centre-edenmore-park-dublin-5-edenmore-dublin-5/6342656",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6343334,
+    "title": "Premier Square, Finglas Road, Dublin, Finglas, Dublin 11",
+    "seoTitle": "Premier Square, Finglas Road, Dublin, Finglas, Dublin 11",
+    "sections": [
+      "Property",
+      "Sharing",
+      "Apartment"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1762816076591,
+    "price": "€1,165 per month",
+    "abbreviatedPrice": "€1,170",
+    "numBedrooms": "Single Room",
+    "propertyType": "Apartment",
+    "daftShortcode": "36343334",
+    "seller": {
+      "sellerId": 1947169,
+      "name": "Marica ",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "C3"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.290125,
+        53.381727
+      ]
+    },
+    "seoFriendlyPath": "/share/premier-square-finglas-road-dublin-finglas-dublin-11/6343334",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6343347,
+    "title": "6 Croftwell Drive, Rathcoole, Rathcoole, Co. Dublin",
+    "seoTitle": "6 Croftwell Drive, Rathcoole, Rathcoole, Co. Dublin",
+    "sections": [
+      "Property",
+      "Sharing",
+      "House"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1762824672769,
+    "price": "€800 per month",
+    "abbreviatedPrice": "€800",
+    "numBedrooms": "Double Room",
+    "propertyType": "House",
+    "daftShortcode": "36343347",
+    "seller": {
+      "sellerId": 1556314,
+      "name": "Anil Nayak",
+      "phone": "353899655102",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "A2"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.478366,
+        53.279642
+      ]
+    },
+    "seoFriendlyPath": "/share/6-croftwell-drive-rathcoole-rathcoole-co-dublin/6343347",
     "category": "Share",
     "state": "PUBLISHED",
     "premierPartner": false
