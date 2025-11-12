@@ -60987,5 +60987,412 @@
     "category": "Share",
     "state": "PUBLISHED",
     "premierPartner": false
+  },
+  {
+    "id": 6343395,
+    "title": "The Hunt Management Suite, The Hunt Building, Gran, Cherrywood, Co. Dublin",
+    "seoTitle": "The Hunt Management Suite, The Hunt Building, Gran, Cherrywood, Co. Dublin",
+    "sections": [
+      "Property",
+      "Sharing",
+      "Apartment"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1762875103546,
+    "price": "€1,300 per month",
+    "abbreviatedPrice": "€1,300",
+    "numBedrooms": "Double Room",
+    "propertyType": "Apartment",
+    "daftShortcode": "36343395",
+    "seller": {
+      "sellerId": 6408122,
+      "name": "Mayvis Mintah",
+      "phone": "447721658047",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "SI_666"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.145096,
+        53.245314
+      ]
+    },
+    "seoFriendlyPath": "/share/the-hunt-management-suite-the-hunt-building-gran-cherrywood-co-dublin/6343395",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6343417,
+    "title": "Clonskeagh Road, Dublin 6, Milltown, Dublin 6",
+    "seoTitle": "Clonskeagh Road, Dublin 6, Milltown, Dublin 6",
+    "sections": [
+      "Property",
+      "Sharing",
+      "House"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1762874123689,
+    "price": "From €625 to €675 per month",
+    "abbreviatedPrice": "€630+",
+    "numBedrooms": "Shared Room",
+    "propertyType": "House",
+    "daftShortcode": "36343417",
+    "seller": {
+      "sellerId": 6509758,
+      "name": "Autumn Rooms",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "A1"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.240908,
+        53.317948
+      ]
+    },
+    "seoFriendlyPath": "/share/clonskeagh-road-dublin-6-milltown-dublin-6/6343417",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6343457,
+    "title": "Palmerstown Woods,Dublin 22, Clondalkin, Dublin 22",
+    "seoTitle": "Palmerstown Woods,Dublin 22, Clondalkin, Dublin 22",
+    "sections": [
+      "Property",
+      "Sharing",
+      "House"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1762874124715,
+    "price": "From €650 to €675 per month",
+    "abbreviatedPrice": "€650+",
+    "numBedrooms": "Double & Twin Room",
+    "propertyType": "House",
+    "daftShortcode": "36343457",
+    "seller": {
+      "sellerId": 6509758,
+      "name": "Autumn Rooms",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "A1"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.393504,
+        53.336496
+      ]
+    },
+    "seoFriendlyPath": "/share/palmerstown-woods-dublin-22-clondalkin-dublin-22/6343457",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6343459,
+    "title": "Killiney Hill Road,Killiney,Co. Dublin, Ballybrack, Co. Dublin",
+    "seoTitle": "Killiney Hill Road,Killiney,Co. Dublin, Ballybrack, Co. Dublin",
+    "sections": [
+      "Property",
+      "Sharing",
+      "House"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1762874124687,
+    "price": "€550 per month",
+    "abbreviatedPrice": "€550",
+    "numBedrooms": "Twin Room",
+    "propertyType": "House",
+    "daftShortcode": "36343459",
+    "seller": {
+      "sellerId": 6017049,
+      "name": "Private User",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "B1"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.121033,
+        53.254925
+      ]
+    },
+    "seoFriendlyPath": "/share/killiney-hill-road-killiney-co-dublin-ballybrack-co-dublin/6343459",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6343473,
+    "title": "66a/66b North Strand Road,Dublin 3, Ballybough, Dublin 3",
+    "seoTitle": "66a/66b North Strand Road,Dublin 3, Ballybough, Dublin 3",
+    "sections": [
+      "Property",
+      "Sharing",
+      "Apartment"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1762874124687,
+    "price": "€625 per month",
+    "abbreviatedPrice": "€630",
+    "numBedrooms": "Twin Room",
+    "propertyType": "Apartment",
+    "daftShortcode": "36343473",
+    "seller": {
+      "sellerId": 6017049,
+      "name": "Private User",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "A1"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.240965,
+        53.359125
+      ]
+    },
+    "seoFriendlyPath": "/share/66a-66b-north-strand-road-dublin-3-ballybough-dublin-3/6343473",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6343518,
+    "title": "Nash Street,Dublin 8, Inchicore, Dublin 8",
+    "seoTitle": "Nash Street,Dublin 8, Inchicore, Dublin 8",
+    "sections": [
+      "Property",
+      "Sharing",
+      "House"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1762874123721,
+    "price": "€700 per month",
+    "abbreviatedPrice": "€700",
+    "numBedrooms": "Double Room",
+    "propertyType": "House",
+    "daftShortcode": "36343518",
+    "seller": {
+      "sellerId": 6509758,
+      "name": "Autumn Rooms",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "A1"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.331073,
+        53.336306
+      ]
+    },
+    "seoFriendlyPath": "/share/nash-street-dublin-8-inchicore-dublin-8/6343518",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6343618,
+    "title": "Dublin 6, Ranelagh, Dublin 6",
+    "seoTitle": "Dublin 6, Ranelagh, Dublin 6",
+    "sections": [
+      "Property",
+      "Sharing",
+      "House"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1762874123720,
+    "price": "€1,200 per month",
+    "abbreviatedPrice": "€1,200",
+    "numBedrooms": "Double Room",
+    "propertyType": "House",
+    "daftShortcode": "36343618",
+    "seller": {
+      "sellerId": 5674807,
+      "name": "Adam Wroblewski",
+      "phone": "353874352994",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "SI_666"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.259238,
+        53.325026
+      ]
+    },
+    "seoFriendlyPath": "/share/dublin-6-ranelagh-dublin-6/6343618",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6344012,
+    "title": "Citywest drive, citywest shopping centre D24, Citywest, Co. Dublin",
+    "seoTitle": "Citywest drive, citywest shopping centre D24, Citywest, Co. Dublin",
+    "sections": [
+      "Property",
+      "Sharing",
+      "Apartment"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1762875853668,
+    "price": "€1,300 per month",
+    "abbreviatedPrice": "€1,300",
+    "numBedrooms": "Double Room",
+    "propertyType": "Apartment",
+    "daftShortcode": "36344012",
+    "seller": {
+      "sellerId": 1694098,
+      "name": "SK",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "B3"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.423634,
+        53.281467
+      ]
+    },
+    "seoFriendlyPath": "/share/citywest-drive-citywest-shopping-centre-d24-citywest-co-dublin/6344012",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6344399,
+    "title": "Moatfield Avenue, Dublin 5, Artane, Dublin 5",
+    "seoTitle": "Moatfield Avenue, Dublin 5, Artane, Dublin 5",
+    "sections": [
+      "Property",
+      "Sharing",
+      "House"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1762905600000,
+    "price": "€700 per month",
+    "abbreviatedPrice": "€700",
+    "numBedrooms": "Single Room",
+    "propertyType": "House",
+    "daftShortcode": "36344399",
+    "seller": {
+      "sellerId": 5320399,
+      "name": "Alesia",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "E2"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.194224,
+        53.387758
+      ]
+    },
+    "seoFriendlyPath": "/share/moatfield-avenue-dublin-5-artane-dublin-5/6344399",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
   }
 ]
