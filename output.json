@@ -17651,6 +17651,51 @@
     "premierPartner": false
   },
   {
+    "id": 6299377,
+    "title": "Clonliffe Road,Dublin 3, Ballybough, Dublin 3",
+    "seoTitle": "Clonliffe Road,Dublin 3, Ballybough, Dublin 3",
+    "sections": [
+      "Property",
+      "Sharing",
+      "House"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1762946119227,
+    "price": "From €165 to €195 per week",
+    "abbreviatedPrice": "€170+",
+    "numBedrooms": "Twin & Shared Room",
+    "propertyType": "House",
+    "daftShortcode": "36299377",
+    "seller": {
+      "sellerId": 5352655,
+      "name": "Clonliffe Shared Student Accommodation",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "C1"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.250635,
+        53.362214
+      ]
+    },
+    "seoFriendlyPath": "/share/clonliffe-road-dublin-3-ballybough-dublin-3/6299377",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
     "id": 6299435,
     "title": "Saint James Road,Dublin 12, Greenhills, Dublin 12",
     "seoTitle": "Saint James Road,Dublin 12, Greenhills, Dublin 12",
@@ -60671,6 +60716,51 @@
     "premierPartner": false
   },
   {
+    "id": 6342224,
+    "title": "28 Beech Hill Drive, Dublin 4, Donnybrook, Dublin 4",
+    "seoTitle": "28 Beech Hill Drive, Dublin 4, Donnybrook, Dublin 4",
+    "sections": [
+      "Property",
+      "Sharing",
+      "House"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1762963296313,
+    "price": "€250 per week",
+    "abbreviatedPrice": "€250",
+    "numBedrooms": "Double Room",
+    "propertyType": "House",
+    "daftShortcode": "36342224",
+    "seller": {
+      "sellerId": 5827180,
+      "name": "Joe Flynn",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "C1"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.231751,
+        53.315738
+      ]
+    },
+    "seoFriendlyPath": "/share/28-beech-hill-drive-dublin-4-donnybrook-dublin-4/6342224",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
     "id": 6342276,
     "title": "Griffeen Glen Grove,Griffeen Glen,Lucan,Co. Dublin, Lucan, Co. Dublin",
     "seoTitle": "Griffeen Glen Grove,Griffeen Glen,Lucan,Co. Dublin, Lucan, Co. Dublin",
@@ -61351,6 +61441,98 @@
     "premierPartner": false
   },
   {
+    "id": 6344084,
+    "title": "Apartment 38, Bracken Hill, Blackglen Road, Dublin, Ballinteer, Dublin 16",
+    "seoTitle": "Apartment 38, Bracken Hill, Blackglen Road, Dublin, Ballinteer, Dublin 16",
+    "sections": [
+      "Property",
+      "Sharing",
+      "Apartment"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1762964895161,
+    "price": "€1,000 per month",
+    "abbreviatedPrice": "€1,000",
+    "numBedrooms": "Double Room",
+    "propertyType": "Apartment",
+    "daftShortcode": "36344084",
+    "seller": {
+      "sellerId": 6242315,
+      "name": "Ashley Morris",
+      "phone": "353851744096",
+      "phoneWhenToCall": "7pm - 9pm",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "D1"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.237566,
+        53.270264
+      ]
+    },
+    "seoFriendlyPath": "/share/apartment-38-bracken-hill-blackglen-road-dublin-ballinteer-dublin-16/6344084",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6344386,
+    "title": "75 Furry Park Road, Dublin 5, Killester, Dublin 5",
+    "seoTitle": "75 Furry Park Road, Dublin 5, Killester, Dublin 5",
+    "sections": [
+      "Property",
+      "Sharing",
+      "House"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1762963296045,
+    "price": "From €650 to €895 per month",
+    "abbreviatedPrice": "€650+",
+    "numBedrooms": "Single & Twin Room",
+    "propertyType": "House",
+    "daftShortcode": "36344386",
+    "seller": {
+      "sellerId": 6533413,
+      "name": "Private User",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "C1"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.197847,
+        53.372468
+      ]
+    },
+    "seoFriendlyPath": "/share/75-furry-park-road-dublin-5-killester-dublin-5/6344386",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
     "id": 6344399,
     "title": "Moatfield Avenue, Dublin 5, Artane, Dublin 5",
     "seoTitle": "Moatfield Avenue, Dublin 5, Artane, Dublin 5",
@@ -61391,6 +61573,96 @@
       ]
     },
     "seoFriendlyPath": "/share/moatfield-avenue-dublin-5-artane-dublin-5/6344399",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6344504,
+    "title": "Park Manor, Carpenterstown Road, Dublin 15, Carpenterstown, Dublin 15",
+    "seoTitle": "Park Manor, Carpenterstown Road, Dublin 15, Carpenterstown, Dublin 15",
+    "sections": [
+      "Property",
+      "Sharing",
+      "House"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1762963296046,
+    "price": "€950 per month",
+    "abbreviatedPrice": "€950",
+    "numBedrooms": "Double Room",
+    "propertyType": "House",
+    "daftShortcode": "36344504",
+    "seller": {
+      "sellerId": 5583517,
+      "name": "Tony",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "C2"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.3816824907313,
+        53.372455170002
+      ]
+    },
+    "seoFriendlyPath": "/share/park-manor-carpenterstown-road-dublin-15-carpenterstown-dublin-15/6344504",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6345255,
+    "title": "Botanic Road,Dublin 9, Glasnevin, Dublin 9",
+    "seoTitle": "Botanic Road,Dublin 9, Glasnevin, Dublin 9",
+    "sections": [
+      "Property",
+      "Sharing",
+      "House"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1762978371149,
+    "price": "From €1,100 to €1,300 per month",
+    "abbreviatedPrice": "€1,100+",
+    "numBedrooms": "Double Room",
+    "propertyType": "House",
+    "daftShortcode": "36345255",
+    "seller": {
+      "sellerId": 914248,
+      "name": "JJD",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "B1"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.270883,
+        53.367323
+      ]
+    },
+    "seoFriendlyPath": "/share/botanic-road-dublin-9-glasnevin-dublin-9/6345255",
     "category": "Share",
     "state": "PUBLISHED",
     "premierPartner": false
