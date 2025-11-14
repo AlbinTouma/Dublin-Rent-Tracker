@@ -61488,6 +61488,51 @@
     "premierPartner": false
   },
   {
+    "id": 6344339,
+    "title": "En Suite Bewley Lawn, Lucan, Co. Dublin",
+    "seoTitle": "En Suite Bewley Lawn, Lucan, Co. Dublin",
+    "sections": [
+      "Property",
+      "Sharing",
+      "House"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1763061110441,
+    "price": "€935 per month",
+    "abbreviatedPrice": "€940",
+    "numBedrooms": "Double Room",
+    "propertyType": "House",
+    "daftShortcode": "36344339",
+    "seller": {
+      "sellerId": 199175,
+      "name": "En Suite Bewley Lawn",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "C1"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.4266077553035,
+        53.353570553502
+      ]
+    },
+    "seoFriendlyPath": "/share/en-suite-bewley-lawn-lucan-co-dublin/6344339",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
     "id": 6344386,
     "title": "75 Furry Park Road, Dublin 5, Killester, Dublin 5",
     "seoTitle": "75 Furry Park Road, Dublin 5, Killester, Dublin 5",
@@ -61623,6 +61668,52 @@
     "premierPartner": false
   },
   {
+    "id": 6345215,
+    "title": "10 , Windy Arbour, Dublin 14",
+    "seoTitle": "10 , Windy Arbour, Dublin 14",
+    "sections": [
+      "Property",
+      "Sharing",
+      "House"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1763061109905,
+    "price": "€1,200 per month",
+    "abbreviatedPrice": "€1,200",
+    "numBedrooms": "Double Room",
+    "propertyType": "House",
+    "daftShortcode": "36345215",
+    "seller": {
+      "sellerId": 6426966,
+      "name": "Private User",
+      "phone": "353830986174",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "C1"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.24505,
+        53.295529
+      ]
+    },
+    "seoFriendlyPath": "/share/10-windy-arbour-dublin-14/6345215",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
     "id": 6345255,
     "title": "Botanic Road,Dublin 9, Glasnevin, Dublin 9",
     "seoTitle": "Botanic Road,Dublin 9, Glasnevin, Dublin 9",
@@ -61663,6 +61754,98 @@
       ]
     },
     "seoFriendlyPath": "/share/botanic-road-dublin-9-glasnevin-dublin-9/6345255",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6346019,
+    "title": " Cruise Park Walk,Dublin 15, Tyrrelstown, Dublin 15",
+    "seoTitle": " Cruise Park Walk,Dublin 15, Tyrrelstown, Dublin 15",
+    "sections": [
+      "Property",
+      "Sharing",
+      "House"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1763061110955,
+    "price": "From €750 to €1,400 per month",
+    "abbreviatedPrice": "€750+",
+    "numBedrooms": "Single & Double Room",
+    "propertyType": "House",
+    "daftShortcode": "36346019",
+    "seller": {
+      "sellerId": 5278421,
+      "name": "LEO",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "B3"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.39161,
+        53.418451
+      ]
+    },
+    "seoFriendlyPath": "/share/-cruise-park-walk-dublin-15-tyrrelstown-dublin-15/6346019",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6346081,
+    "title": "Cairn Hill, Foxrock, Dublin 18",
+    "seoTitle": "Cairn Hill, Foxrock, Dublin 18",
+    "sections": [
+      "Property",
+      "Sharing",
+      "House"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1763061111855,
+    "price": "€790 per month",
+    "abbreviatedPrice": "€790",
+    "numBedrooms": "Double Room",
+    "propertyType": "House",
+    "daftShortcode": "36346081",
+    "seller": {
+      "sellerId": 896540,
+      "name": "Cairn Hill",
+      "phone": "353851508430",
+      "phoneWhenToCall": "Email or text only.",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "C2"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.1705024245954,
+        53.270496227135
+      ]
+    },
+    "seoFriendlyPath": "/share/cairn-hill-foxrock-dublin-18/6346081",
     "category": "Share",
     "state": "PUBLISHED",
     "premierPartner": false
