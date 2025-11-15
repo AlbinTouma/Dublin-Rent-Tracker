@@ -61488,6 +61488,51 @@
     "premierPartner": false
   },
   {
+    "id": 6344292,
+    "title": "off Castle St, Dalkey, Co. Dublin",
+    "seoTitle": "off Castle St, Dalkey, Co. Dublin",
+    "sections": [
+      "Property",
+      "Sharing",
+      "House"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1763139719996,
+    "price": "€799 per month",
+    "abbreviatedPrice": "€800",
+    "numBedrooms": "Single Room",
+    "propertyType": "House",
+    "daftShortcode": "36344292",
+    "seller": {
+      "sellerId": 5676819,
+      "name": "Private User",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "D1"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.108460398651,
+        53.278426673584
+      ]
+    },
+    "seoFriendlyPath": "/share/off-castle-st-dalkey-co-dublin/6344292",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
     "id": 6344339,
     "title": "En Suite Bewley Lawn, Lucan, Co. Dublin",
     "seoTitle": "En Suite Bewley Lawn, Lucan, Co. Dublin",
@@ -61846,6 +61891,188 @@
       ]
     },
     "seoFriendlyPath": "/share/cairn-hill-foxrock-dublin-18/6346081",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6346296,
+    "title": "Apartment 7, The Schooner, Alverno, Castle Avenue, Clontarf, Dublin 3",
+    "seoTitle": "Apartment 7, The Schooner, Alverno, Castle Avenue, Clontarf, Dublin 3",
+    "sections": [
+      "Property",
+      "Sharing",
+      "Apartment"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1763139719992,
+    "price": "€900 per month",
+    "abbreviatedPrice": "€900",
+    "numBedrooms": "Single Room",
+    "propertyType": "Apartment",
+    "daftShortcode": "36346296",
+    "seller": {
+      "sellerId": 5772950,
+      "name": "Jonathan Navarrete",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "D1"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.210318,
+        53.360594
+      ]
+    },
+    "seoFriendlyPath": "/share/apartment-7-the-schooner-alverno-castle-avenue-clontarf-dublin-3/6346296",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6347076,
+    "title": "62 Parklands Place, Saggart, Saggart, Co. Dublin",
+    "seoTitle": "62 Parklands Place, Saggart, Saggart, Co. Dublin",
+    "sections": [
+      "Property",
+      "Sharing",
+      "House"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1763154672892,
+    "price": "€900 per month",
+    "abbreviatedPrice": "€900",
+    "numBedrooms": "Double Room",
+    "propertyType": "House",
+    "daftShortcode": "36347076",
+    "seller": {
+      "sellerId": 1703188,
+      "name": "Souvik Dutta",
+      "phone": "353894740999",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": false,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "A2"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.434847,
+        53.287594
+      ]
+    },
+    "seoFriendlyPath": "/share/62-parklands-place-saggart-saggart-co-dublin/6347076",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6347109,
+    "title": "Flat 6, 25 Hollybank Road, Dublin 9, Drumcondra, Dublin 9",
+    "seoTitle": "Flat 6, 25 Hollybank Road, Dublin 9, Drumcondra, Dublin 9",
+    "sections": [
+      "Property",
+      "Sharing",
+      "Apartment",
+      "Flat"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1763154573954,
+    "price": "€1,650 per month",
+    "abbreviatedPrice": "€1,650",
+    "numBedrooms": "Double Room",
+    "propertyType": "Apartment",
+    "daftShortcode": "36347109",
+    "seller": {
+      "sellerId": 6533413,
+      "name": "Private User",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "B3"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.257516,
+        53.367275
+      ]
+    },
+    "seoFriendlyPath": "/share/flat-6-25-hollybank-road-dublin-9-drumcondra-dublin-9/6347109",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6347117,
+    "title": "99 Capel Street,Dublin 1, Smithfield, Dublin 1",
+    "seoTitle": "99 Capel Street,Dublin 1, Smithfield, Dublin 1",
+    "sections": [
+      "Property",
+      "Sharing",
+      "Apartment"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1763168444079,
+    "price": "€800 per month",
+    "abbreviatedPrice": "€800",
+    "numBedrooms": "Single Room",
+    "propertyType": "Apartment",
+    "daftShortcode": "36347117",
+    "seller": {
+      "sellerId": 6533413,
+      "name": "Private User",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "B2"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.269708,
+        53.35007
+      ]
+    },
+    "seoFriendlyPath": "/share/99-capel-street-dublin-1-smithfield-dublin-1/6347117",
     "category": "Share",
     "state": "PUBLISHED",
     "premierPartner": false
