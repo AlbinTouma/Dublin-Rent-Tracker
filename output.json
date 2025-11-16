@@ -59398,6 +59398,51 @@
     "premierPartner": false
   },
   {
+    "id": 6337358,
+    "title": "Inchicore Road, Kilmainham, Dublin 8, Inchicore, Dublin 8",
+    "seoTitle": "Inchicore Road, Kilmainham, Dublin 8, Inchicore, Dublin 8",
+    "sections": [
+      "Property",
+      "Sharing",
+      "House"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1763230147551,
+    "price": "€1,050 per month",
+    "abbreviatedPrice": "€1,050",
+    "numBedrooms": "Double Room",
+    "propertyType": "House",
+    "daftShortcode": "36337358",
+    "seller": {
+      "sellerId": 1202065,
+      "name": "Tony",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "B3"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.309651,
+        53.341753
+      ]
+    },
+    "seoFriendlyPath": "/share/kilmainham-gaol-inchicore-road-dublin-8-inchicore-dublin-8/6337358",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
     "id": 6337626,
     "title": "Liffey Valley Park, Lucan, Co. Dublin",
     "seoTitle": "Liffey Valley Park, Lucan, Co. Dublin",
@@ -62073,6 +62118,280 @@
       ]
     },
     "seoFriendlyPath": "/share/99-capel-street-dublin-1-smithfield-dublin-1/6347117",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6347145,
+    "title": "Chapel Farm Avenue, Lusk, Co. Dublin",
+    "seoTitle": "Chapel Farm Avenue, Lusk, Co. Dublin",
+    "sections": [
+      "Property",
+      "Sharing",
+      "House"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1763240084628,
+    "price": "€825 per month",
+    "abbreviatedPrice": "€830",
+    "numBedrooms": "Double Room",
+    "propertyType": "House",
+    "daftShortcode": "36347145",
+    "seller": {
+      "sellerId": 6409681,
+      "name": "Fouda&Sons",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "A2"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.170255,
+        53.523455
+      ]
+    },
+    "seoFriendlyPath": "/share/chapel-farm-avenue-lusk-co-dublin/6347145",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6347257,
+    "title": "8 Westway, Blanchardstown Dublin 15, Blanchardstown, Dublin 15",
+    "seoTitle": "8 Westway, Blanchardstown Dublin 15, Blanchardstown, Dublin 15",
+    "sections": [
+      "Property",
+      "Sharing",
+      "House"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1763214421596,
+    "price": "€220 per week",
+    "abbreviatedPrice": "€220",
+    "numBedrooms": "Double Room",
+    "propertyType": "House",
+    "daftShortcode": "36347257",
+    "seller": {
+      "sellerId": 5201298,
+      "name": "Ingram McGinty",
+      "phone": "353870908896",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "B1",
+      "code": "987756344"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.369664,
+        53.401176
+      ]
+    },
+    "seoFriendlyPath": "/share/8-westway-blanchardstown-dublin-15-blanchardstown-dublin-15/6347257",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6347325,
+    "title": "Highfield Park, 274 North Circular Road,Dublin 7, North Circular Road, Dublin 7",
+    "seoTitle": "Highfield Park, 274 North Circular Road,Dublin 7, North Circular Road, Dublin 7",
+    "sections": [
+      "Property",
+      "Sharing",
+      "Apartment"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1763226831558,
+    "price": "€282 per week",
+    "abbreviatedPrice": "€280",
+    "numBedrooms": "Single Room",
+    "propertyType": "Apartment",
+    "daftShortcode": "36347325",
+    "seller": {
+      "sellerId": 6569352,
+      "name": "Beatriz Verissimo de Sena",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "A1"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.278319,
+        53.358194
+      ]
+    },
+    "seoFriendlyPath": "/share/highfield-park-274-north-circular-road-dublin-7-north-circular-road-dublin-7/6347325",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6347332,
+    "title": "Shanard Road, Dublin 9, Whitehall, Dublin 9",
+    "seoTitle": "Shanard Road, Dublin 9, Whitehall, Dublin 9",
+    "sections": [
+      "Property",
+      "Sharing",
+      "House"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1763225081587,
+    "price": "€545 per month",
+    "abbreviatedPrice": "€550",
+    "numBedrooms": "Single Room",
+    "propertyType": "House",
+    "daftShortcode": "36347332",
+    "seller": {
+      "sellerId": 1968770,
+      "name": "Jude",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "D1"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.256316,
+        53.390362
+      ]
+    },
+    "seoFriendlyPath": "/share/shanard-road-dublin-9-whitehall-dublin-9/6347332",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6347397,
+    "title": "Allendale Terrace, Clonsilla, Dublin 15",
+    "seoTitle": "Allendale Terrace, Clonsilla, Dublin 15",
+    "sections": [
+      "Property",
+      "Sharing",
+      "House"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1763240472524,
+    "price": "€1,200 per month",
+    "abbreviatedPrice": "€1,200",
+    "numBedrooms": "Double Room",
+    "propertyType": "House",
+    "daftShortcode": "36347397",
+    "seller": {
+      "sellerId": 310371,
+      "name": "Penelope Toniaccini",
+      "phone": "0858377141",
+      "phoneWhenToCall": "9.30-21",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "B1"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.4254620904829,
+        53.390877357872
+      ]
+    },
+    "seoFriendlyPath": "/share/allendale-terrace-clonsilla-dublin-15/6347397",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6347398,
+    "title": "9 Glengarriff Crescent, Dublin 7, North Circular Road, Dublin 7",
+    "seoTitle": "9 Glengarriff Crescent, Dublin 7, North Circular Road, Dublin 7",
+    "sections": [
+      "Property",
+      "Sharing",
+      "House"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1763239885488,
+    "price": "€1,200 per month",
+    "abbreviatedPrice": "€1,200",
+    "numBedrooms": "Double Room",
+    "propertyType": "House",
+    "daftShortcode": "36347398",
+    "seller": {
+      "sellerId": 664400,
+      "name": "judy collins",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "B2"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.263773,
+        53.361667
+      ]
+    },
+    "seoFriendlyPath": "/share/9-glengarriff-crescent-dublin-7-north-circular-road-dublin-7/6347398",
     "category": "Share",
     "state": "PUBLISHED",
     "premierPartner": false
