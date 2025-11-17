@@ -60438,6 +60438,51 @@
     "premierPartner": false
   },
   {
+    "id": 6341786,
+    "title": "Chestnut Road,Mount Merrion,Blackrock,Co. Dublin, Mount Merrion, Co. Dublin",
+    "seoTitle": "Chestnut Road,Mount Merrion,Blackrock,Co. Dublin, Mount Merrion, Co. Dublin",
+    "sections": [
+      "Property",
+      "Sharing",
+      "House"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1763333028434,
+    "price": "€1,100 per month",
+    "abbreviatedPrice": "€1,100",
+    "numBedrooms": "Single Room",
+    "propertyType": "House",
+    "daftShortcode": "36341786",
+    "seller": {
+      "sellerId": 5679261,
+      "name": "Cliona Mulvihill ",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "B1"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.21016,
+        53.298489
+      ]
+    },
+    "seoFriendlyPath": "/share/chestnut-road-mount-merrion-blackrock-co-dublin-mount-merrion-co-dublin/6341786",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
     "id": 6341862,
     "title": "Adamstown Square, Lucan, Co. D, Adamstown, Co. Dublin",
     "seoTitle": "Adamstown Square, Lucan, Co. D, Adamstown, Co. Dublin",
@@ -62392,6 +62437,186 @@
       ]
     },
     "seoFriendlyPath": "/share/9-glengarriff-crescent-dublin-7-north-circular-road-dublin-7/6347398",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6347485,
+    "title": "North Circular Road,Dublin 7, North Circular Road, Dublin 7",
+    "seoTitle": "North Circular Road,Dublin 7, North Circular Road, Dublin 7",
+    "sections": [
+      "Property",
+      "Sharing",
+      "House"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1763330077622,
+    "price": "From €1,050 to €1,450 per month",
+    "abbreviatedPrice": "€1,050+",
+    "numBedrooms": "Single Room",
+    "propertyType": "House",
+    "daftShortcode": "36347485",
+    "seller": {
+      "sellerId": 155659,
+      "name": "peter ",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "B2"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.282324,
+        53.358955
+      ]
+    },
+    "seoFriendlyPath": "/share/north-circular-road-dublin-7-north-circular-road-dublin-7/6347485",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6347591,
+    "title": "Barnwell, Hansfield, Dublin 15, Ongar, Dublin 15",
+    "seoTitle": "Barnwell, Hansfield, Dublin 15, Ongar, Dublin 15",
+    "sections": [
+      "Property",
+      "Sharing",
+      "House"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1763318291538,
+    "price": "€1,100 per month",
+    "abbreviatedPrice": "€1,100",
+    "numBedrooms": "Double Room",
+    "propertyType": "House",
+    "daftShortcode": "36347591",
+    "seller": {
+      "sellerId": 5921388,
+      "name": "Donika",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "A1"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.440012,
+        53.391016
+      ]
+    },
+    "seoFriendlyPath": "/share/barnwell-hansfield-dublin-15-ongar-dublin-15/6347591",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6347602,
+    "title": "Lohunda Downs, Clonsilla, Dublin 15",
+    "seoTitle": "Lohunda Downs, Clonsilla, Dublin 15",
+    "sections": [
+      "Property",
+      "Sharing",
+      "House"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1763328800416,
+    "price": "€510 per month",
+    "abbreviatedPrice": "€510",
+    "numBedrooms": "Single Room",
+    "propertyType": "House",
+    "daftShortcode": "36347602",
+    "seller": {
+      "sellerId": 1259603,
+      "name": "Susan Dunne",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "D1"
+    },
+    "platform": "DAPI-ANDROID",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.4064461737871,
+        53.386866636207
+      ]
+    },
+    "seoFriendlyPath": "/share/lohunda-downs-clonsilla-dublin-15/6347602",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6347676,
+    "title": "Clonard Road, Kimmage, Dublin 12",
+    "seoTitle": "Clonard Road, Kimmage, Dublin 12",
+    "sections": [
+      "Property",
+      "Sharing",
+      "House"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1763330942467,
+    "price": "€584 per month",
+    "abbreviatedPrice": "€580",
+    "numBedrooms": "Double Room",
+    "propertyType": "House",
+    "daftShortcode": "36347676",
+    "seller": {
+      "sellerId": 601103,
+      "name": "Kevin",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "C2"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.2985682021765,
+        53.316881584963
+      ]
+    },
+    "seoFriendlyPath": "/share/clonard-road-kimmage-dublin-12/6347676",
     "category": "Share",
     "state": "PUBLISHED",
     "premierPartner": false
