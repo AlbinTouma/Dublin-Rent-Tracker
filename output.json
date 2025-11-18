@@ -58853,6 +58853,51 @@
     "premierPartner": false
   },
   {
+    "id": 6334433,
+    "title": "Apartment 58, Block 2, 126/127 Steeven'S Gate Apar, Dublin 8",
+    "seoTitle": "Apartment 58, Block 2, 126/127 Steeven'S Gate Apar, Dublin 8",
+    "sections": [
+      "Property",
+      "Sharing",
+      "Apartment"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1763409069790,
+    "price": "€1,100 per month",
+    "abbreviatedPrice": "€1,100",
+    "numBedrooms": "Double Room",
+    "propertyType": "Apartment",
+    "daftShortcode": "36334433",
+    "seller": {
+      "sellerId": 5797865,
+      "name": "Reda",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "C3"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.290512,
+        53.343527
+      ]
+    },
+    "seoFriendlyPath": "/share/apartment-58-block-2-126-127-steevens-gate-apar-dublin-8/6334433",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
     "id": 6334508,
     "title": "Dublin 18, Leopardstown, Dublin 18",
     "seoTitle": "Dublin 18, Leopardstown, Dublin 18",
@@ -59710,6 +59755,52 @@
       ]
     },
     "seoFriendlyPath": "/share/12-clare-street-dublin-2-dublin-city-centre/6339086",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6339256,
+    "title": "Binary Hub Management Suite, Block A, Binary Hub, Dublin 8",
+    "seoTitle": "Binary Hub Management Suite, Block A, Binary Hub, Dublin 8",
+    "sections": [
+      "Property",
+      "Sharing",
+      "Apartment"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1763383723796,
+    "price": "€294 per week",
+    "abbreviatedPrice": "€290",
+    "numBedrooms": "Single Room",
+    "propertyType": "Apartment",
+    "daftShortcode": "36339256",
+    "seller": {
+      "sellerId": 6391715,
+      "name": "Sarah Mooney",
+      "phone": "353874213597",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "B2"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.283174,
+        53.344902
+      ]
+    },
+    "seoFriendlyPath": "/share/binary-hub-management-suite-block-a-binary-hub-dublin-8/6339256",
     "category": "Share",
     "state": "PUBLISHED",
     "premierPartner": false
@@ -62617,6 +62708,231 @@
       ]
     },
     "seoFriendlyPath": "/share/clonard-road-kimmage-dublin-12/6347676",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6347677,
+    "title": "Bay Meadows, Hollystown, Co. Dublin",
+    "seoTitle": "Bay Meadows, Hollystown, Co. Dublin",
+    "sections": [
+      "Sharing",
+      "Property",
+      "House"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1763408721656,
+    "price": "€850 per month",
+    "abbreviatedPrice": "€850",
+    "numBedrooms": "Double Room",
+    "propertyType": "Property",
+    "daftShortcode": "36347677",
+    "seller": {
+      "sellerId": 5723787,
+      "name": "Elo",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "A1"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.368121,
+        53.422276
+      ]
+    },
+    "seoFriendlyPath": "/share/8-bay-meadows-grove-dublin-15-hollystown-dublin-15/6347677",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6348235,
+    "title": "Northumberland Road, Dublin 4, Ballsbridge, Dublin 4",
+    "seoTitle": "Northumberland Road, Dublin 4, Ballsbridge, Dublin 4",
+    "sections": [
+      "Property",
+      "Sharing",
+      "House"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1763393849805,
+    "price": "€1,300 per month",
+    "abbreviatedPrice": "€1,300",
+    "numBedrooms": "Double Room",
+    "propertyType": "House",
+    "daftShortcode": "36348235",
+    "seller": {
+      "sellerId": 1861179,
+      "name": "Claire O Regan ",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "C2"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.236061,
+        53.333852
+      ]
+    },
+    "seoFriendlyPath": "/share/northumberland-road-dublin-4-ballsbridge-dublin-4/6348235",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6348557,
+    "title": "Killiney Hill Road, Killiney, Co. Dublin",
+    "seoTitle": "Killiney Hill Road, Killiney, Co. Dublin",
+    "sections": [
+      "Property",
+      "Sharing",
+      "House"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1763408606578,
+    "price": "€550 per month",
+    "abbreviatedPrice": "€550",
+    "numBedrooms": "Twin Room",
+    "propertyType": "House",
+    "daftShortcode": "36348557",
+    "seller": {
+      "sellerId": 6017049,
+      "name": "Private User",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "B3"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.114499770985,
+        53.262088312442
+      ]
+    },
+    "seoFriendlyPath": "/share/killiney-hill-road-killiney-co-dublin/6348557",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6348605,
+    "title": "60 Coppinger Glade, Stillorgan, Blackrock, Stillorgan, Co. Dublin",
+    "seoTitle": "60 Coppinger Glade, Stillorgan, Blackrock, Stillorgan, Co. Dublin",
+    "sections": [
+      "Property",
+      "Sharing",
+      "House"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1763408744638,
+    "price": "€610 per month",
+    "abbreviatedPrice": "€610",
+    "numBedrooms": "Single Room",
+    "propertyType": "House",
+    "daftShortcode": "36348605",
+    "seller": {
+      "sellerId": 5069147,
+      "name": "Ailbhe OReilly",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "B2"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.187449,
+        53.289245
+      ]
+    },
+    "seoFriendlyPath": "/share/60-coppinger-glade-stillorgan-blackrock-stillorgan-co-dublin/6348605",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6348634,
+    "title": "Clancy Quay, Islandbridge, Dublin 8",
+    "seoTitle": "Clancy Quay, Islandbridge, Dublin 8",
+    "sections": [
+      "Property",
+      "Sharing",
+      "Apartment"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1763423555803,
+    "price": "€975 per month",
+    "abbreviatedPrice": "€980",
+    "numBedrooms": "Double Room",
+    "propertyType": "Apartment",
+    "daftShortcode": "36348634",
+    "seller": {
+      "sellerId": 1855688,
+      "name": "Mark Tuite",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "B1"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.3049045474229,
+        53.346758218318
+      ]
+    },
+    "seoFriendlyPath": "/share/clancy-quay-islandbridge-dublin-8/6348634",
     "category": "Share",
     "state": "PUBLISHED",
     "premierPartner": false
