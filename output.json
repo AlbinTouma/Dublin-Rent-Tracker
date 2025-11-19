@@ -9890,6 +9890,53 @@
     "premierPartner": false
   },
   {
+    "id": 6275843,
+    "title": "38 Hallwell Avenue, Adamstown, Lucan, Lucan, Co. Dublin",
+    "seoTitle": "38 Hallwell Avenue, Adamstown, Lucan, Lucan, Co. Dublin",
+    "sections": [
+      "Property",
+      "Sharing",
+      "House"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1763495077269,
+    "price": "€1,100 per month",
+    "abbreviatedPrice": "€1,100",
+    "numBedrooms": "Double Room",
+    "propertyType": "House",
+    "daftShortcode": "36275843",
+    "seller": {
+      "sellerId": 1879499,
+      "name": "Bob Oghumah",
+      "phone": "353899690429",
+      "phoneWhenToCall": "Mon - Sun: 1pm - 8pm",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "A1"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.477134,
+        53.347288
+      ]
+    },
+    "seoFriendlyPath": "/share/38-hallwell-avenue-adamstown-lucan-lucan-co-dublin/6275843",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
     "id": 6275877,
     "title": " Rusheeny Green,Rusheeny Village,Dublin 15, Hartstown, Dublin 15",
     "seoTitle": " Rusheeny Green,Rusheeny Village,Dublin 15, Hartstown, Dublin 15",
@@ -61577,6 +61624,52 @@
     "premierPartner": false
   },
   {
+    "id": 6343950,
+    "title": "Crofton Road, Dun Laoghaire, Co. Dublin, Monkstown, Co. Dublin",
+    "seoTitle": "Crofton Road, Dun Laoghaire, Co. Dublin, Monkstown, Co. Dublin",
+    "sections": [
+      "Property",
+      "Sharing",
+      "House"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1763477942587,
+    "price": "€1,200 per month",
+    "abbreviatedPrice": "€1,200",
+    "numBedrooms": "Double Room",
+    "propertyType": "House",
+    "daftShortcode": "36343950",
+    "seller": {
+      "sellerId": 551147,
+      "name": "Bronwyn Salmon",
+      "phone": "353866090540",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "C1"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.140856,
+        53.295739
+      ]
+    },
+    "seoFriendlyPath": "/share/crofton-road-dun-laoghaire-co-dublin-monkstown-co-dublin/6343950",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
     "id": 6344012,
     "title": "Citywest drive, citywest shopping centre D24, Citywest, Co. Dublin",
     "seoTitle": "Citywest drive, citywest shopping centre D24, Citywest, Co. Dublin",
@@ -61709,6 +61802,51 @@
       ]
     },
     "seoFriendlyPath": "/share/off-castle-st-dalkey-co-dublin/6344292",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6344307,
+    "title": "Templeroan Way, Knocklyon, Templeogue,Dublin 16, Knocklyon, Dublin 16",
+    "seoTitle": "Templeroan Way, Knocklyon, Templeogue,Dublin 16, Knocklyon, Dublin 16",
+    "sections": [
+      "Property",
+      "Sharing",
+      "House"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1763503851097,
+    "price": "€800 per month",
+    "abbreviatedPrice": "€800",
+    "numBedrooms": "Double Room",
+    "propertyType": "House",
+    "daftShortcode": "36344307",
+    "seller": {
+      "sellerId": 240244,
+      "name": "Larry ",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "B2"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.306705,
+        53.282007
+      ]
+    },
+    "seoFriendlyPath": "/share/templeroan-way-knocklyon-templeogue-dublin-16-knocklyon-dublin-16/6344307",
     "category": "Share",
     "state": "PUBLISHED",
     "premierPartner": false
@@ -62758,6 +62896,51 @@
     "premierPartner": false
   },
   {
+    "id": 6347964,
+    "title": "Westend village, Blanchardstown, Dublin 15, Blanchardstown, Dublin 15",
+    "seoTitle": "Westend village, Blanchardstown, Dublin 15, Blanchardstown, Dublin 15",
+    "sections": [
+      "Property",
+      "Sharing",
+      "Apartment"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1763487524448,
+    "price": "€650 per month",
+    "abbreviatedPrice": "€650",
+    "numBedrooms": "Single Room",
+    "propertyType": "Apartment",
+    "daftShortcode": "36347964",
+    "seller": {
+      "sellerId": 1781188,
+      "name": "Mike",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "A1"
+    },
+    "platform": "DAPI-ANDROID",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.3906675,
+        53.3886042
+      ]
+    },
+    "seoFriendlyPath": "/share/westend-village-blanchardstown-dublin-15-blanchardstown-dublin-15/6347964",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
     "id": 6348235,
     "title": "Northumberland Road, Dublin 4, Ballsbridge, Dublin 4",
     "seoTitle": "Northumberland Road, Dublin 4, Ballsbridge, Dublin 4",
@@ -62933,6 +63116,143 @@
       ]
     },
     "seoFriendlyPath": "/share/clancy-quay-islandbridge-dublin-8/6348634",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6348736,
+    "title": "Apartment 131, Block E, The Tramyard, Spa Road, Du, Inchicore, Dublin 8",
+    "seoTitle": "Apartment 131, Block E, The Tramyard, Spa Road, Du, Inchicore, Dublin 8",
+    "sections": [
+      "Property",
+      "Sharing",
+      "Apartment"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1763487524992,
+    "price": "€700 per month",
+    "abbreviatedPrice": "€700",
+    "numBedrooms": "Twin Room",
+    "propertyType": "Apartment",
+    "daftShortcode": "36348736",
+    "seller": {
+      "sellerId": 1609245,
+      "name": "James Coyle",
+      "phone": "353862512523",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "D1"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.321092,
+        53.338444
+      ]
+    },
+    "seoFriendlyPath": "/share/apartment-131-block-e-the-tramyard-spa-road-du-inchicore-dublin-8/6348736",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6348875,
+    "title": "91 Mount Anville Park, Dublin 14, Mount Merrion, Co. Dublin",
+    "seoTitle": "91 Mount Anville Park, Dublin 14, Mount Merrion, Co. Dublin",
+    "sections": [
+      "Property",
+      "Sharing",
+      "House"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1763487525515,
+    "price": "€1,165 per month",
+    "abbreviatedPrice": "€1,170",
+    "numBedrooms": "Double Room",
+    "propertyType": "House",
+    "daftShortcode": "36348875",
+    "seller": {
+      "sellerId": 934828,
+      "name": "David Hoey",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "B1"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.219965,
+        53.291683
+      ]
+    },
+    "seoFriendlyPath": "/share/91-mount-anville-park-dublin-14-mount-merrion-co-dublin/6348875",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6348881,
+    "title": "Apartment 1, 10 The Meadow, Robswall, Malahide, Co, Malahide, Co. Dublin",
+    "seoTitle": "Apartment 1, 10 The Meadow, Robswall, Malahide, Co, Malahide, Co. Dublin",
+    "sections": [
+      "Property",
+      "Sharing",
+      "Apartment"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1763487525248,
+    "price": "€1,300 per month",
+    "abbreviatedPrice": "€1,300",
+    "numBedrooms": "Double Room",
+    "propertyType": "Apartment",
+    "daftShortcode": "36348881",
+    "seller": {
+      "sellerId": 6147093,
+      "name": "Moinuddin Ahmad ",
+      "phone": "353899585195",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "A2"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.134429,
+        53.442918
+      ]
+    },
+    "seoFriendlyPath": "/share/apartment-1-10-the-meadow-robswall-malahide-co-malahide-co-dublin/6348881",
     "category": "Share",
     "state": "PUBLISHED",
     "premierPartner": false
