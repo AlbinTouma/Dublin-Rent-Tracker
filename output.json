@@ -63121,6 +63121,51 @@
     "premierPartner": false
   },
   {
+    "id": 6348704,
+    "title": "Broadstone Avenue, Dublin 7, North Circular Road, Dublin 7",
+    "seoTitle": "Broadstone Avenue, Dublin 7, North Circular Road, Dublin 7",
+    "sections": [
+      "Property",
+      "Sharing",
+      "Apartment"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1763561162499,
+    "price": "€950 per month",
+    "abbreviatedPrice": "€950",
+    "numBedrooms": "Double Room",
+    "propertyType": "Apartment",
+    "daftShortcode": "36348704",
+    "seller": {
+      "sellerId": 555809,
+      "name": "John M",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "SI_666"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.27286,
+        53.355904
+      ]
+    },
+    "seoFriendlyPath": "/share/broadstone-avenue-dublin-7-north-circular-road-dublin-7/6348704",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
     "id": 6348736,
     "title": "Apartment 131, Block E, The Tramyard, Spa Road, Du, Inchicore, Dublin 8",
     "seoTitle": "Apartment 131, Block E, The Tramyard, Spa Road, Du, Inchicore, Dublin 8",
@@ -63253,6 +63298,97 @@
       ]
     },
     "seoFriendlyPath": "/share/apartment-1-10-the-meadow-robswall-malahide-co-malahide-co-dublin/6348881",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6349478,
+    "title": "Mount Merrion,Blackrock,Co. Dublin, Mount Merrion, Co. Dublin",
+    "seoTitle": "Mount Merrion,Blackrock,Co. Dublin, Mount Merrion, Co. Dublin",
+    "sections": [
+      "Property",
+      "Sharing",
+      "House"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1763553196806,
+    "price": "€950 per month",
+    "abbreviatedPrice": "€950",
+    "numBedrooms": "Single Room",
+    "propertyType": "House",
+    "daftShortcode": "36349478",
+    "seller": {
+      "sellerId": 6412984,
+      "name": "Accom Enquiries Dub",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "E1"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.217385,
+        53.297635
+      ]
+    },
+    "seoFriendlyPath": "/share/mount-merrion-blackrock-co-dublin-mount-merrion-co-dublin/6349478",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6431938,
+    "title": "Myo'S, Castleknock Road, Castleknock, Dublin 15, Castleknock, Dublin 15",
+    "seoTitle": "Myo'S, Castleknock Road, Castleknock, Dublin 15, Castleknock, Dublin 15",
+    "sections": [
+      "Property",
+      "Sharing",
+      "Apartment"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1763597204543,
+    "price": "€1,350 per month",
+    "abbreviatedPrice": "€1,350",
+    "numBedrooms": "Double Room",
+    "propertyType": "Apartment",
+    "daftShortcode": "36431938",
+    "seller": {
+      "sellerId": 1233093,
+      "name": "Pk",
+      "phone": "353872310421",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "A3"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.362469,
+        53.372752
+      ]
+    },
+    "seoFriendlyPath": "/share/myos-castleknock-road-castleknock-dublin-15-castleknock-dublin-15/6431938",
     "category": "Share",
     "state": "PUBLISHED",
     "premierPartner": false
