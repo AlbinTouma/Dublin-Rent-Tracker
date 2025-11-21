@@ -63392,5 +63392,141 @@
     "category": "Share",
     "state": "PUBLISHED",
     "premierPartner": false
+  },
+  {
+    "id": 6437709,
+    "title": "209 Boulevard, Mount Eustace, Dublin 15, Tyrrelstown, Dublin 15",
+    "seoTitle": "209 Boulevard, Mount Eustace, Dublin 15, Tyrrelstown, Dublin 15",
+    "sections": [
+      "Property",
+      "Sharing",
+      "House"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1763681380146,
+    "price": "€900 per month",
+    "abbreviatedPrice": "€900",
+    "numBedrooms": "Double Room",
+    "propertyType": "House",
+    "daftShortcode": "36437709",
+    "seller": {
+      "sellerId": 1049331,
+      "name": "christian uzochukwu ",
+      "phone": "353873300938",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "A3"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.391326,
+        53.41998
+      ]
+    },
+    "seoFriendlyPath": "/share/209-boulevard-mount-eustace-dublin-15-tyrrelstown-dublin-15/6437709",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6437748,
+    "title": "12 Westmill Place, Miller'S Glen, Swords, Swords, Co. Dublin",
+    "seoTitle": "12 Westmill Place, Miller'S Glen, Swords, Swords, Co. Dublin",
+    "sections": [
+      "Property",
+      "Sharing",
+      "House"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1763647726360,
+    "price": "€580 per month",
+    "abbreviatedPrice": "€580",
+    "numBedrooms": "Double Room",
+    "propertyType": "House",
+    "daftShortcode": "36437748",
+    "seller": {
+      "sellerId": 5668827,
+      "name": "Private User",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "A2"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.246646,
+        53.473335
+      ]
+    },
+    "seoFriendlyPath": "/share/12-westmill-place-millers-glen-swords-swords-co-dublin/6437748",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6438300,
+    "title": "Sorrento Road, Dalkey, Co. Dublin",
+    "seoTitle": "Sorrento Road, Dalkey, Co. Dublin",
+    "sections": [
+      "Property",
+      "Sharing",
+      "House"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1763684926368,
+    "price": "€1,650 per month",
+    "abbreviatedPrice": "€1,650",
+    "numBedrooms": "Double Room",
+    "propertyType": "House",
+    "daftShortcode": "36438300",
+    "seller": {
+      "sellerId": 859631,
+      "name": "Eugene Jay",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "C1"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.0994983348253,
+        53.275486669685
+      ]
+    },
+    "seoFriendlyPath": "/share/sorrento-road-dalkey-co-dublin/6438300",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
   }
 ]
