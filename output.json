@@ -53113,6 +53113,51 @@
     "premierPartner": false
   },
   {
+    "id": 6328193,
+    "title": "Rathmore Village, Tyrrelstown, Dublin 15",
+    "seoTitle": "Rathmore Village, Tyrrelstown, Dublin 15",
+    "sections": [
+      "Property",
+      "Sharing",
+      "House"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1763719847300,
+    "price": "€750 per month",
+    "abbreviatedPrice": "€750",
+    "numBedrooms": "Double Room",
+    "propertyType": "House",
+    "daftShortcode": "36328193",
+    "seller": {
+      "sellerId": 1015447,
+      "name": "Ciaran",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "C1"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.3904890516442,
+        53.419512820202
+      ]
+    },
+    "seoFriendlyPath": "/share/rathmore-village-tyrrelstown-dublin-15/6328193",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
     "id": 6328228,
     "title": "Laraghcon,Lucan,Co. Dublin, Lucan, Co. Dublin",
     "seoTitle": "Laraghcon,Lucan,Co. Dublin, Lucan, Co. Dublin",
@@ -63485,6 +63530,51 @@
     "premierPartner": false
   },
   {
+    "id": 6438273,
+    "title": "Walled Garden,Wyckham Way,Dundrum,Dublin 16, Ballinteer, Dublin 16",
+    "seoTitle": "Walled Garden,Wyckham Way,Dundrum,Dublin 16, Ballinteer, Dublin 16",
+    "sections": [
+      "Property",
+      "Sharing",
+      "Apartment"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1763743128164,
+    "price": "€1,475 per month",
+    "abbreviatedPrice": "€1,480",
+    "numBedrooms": "Double Room",
+    "propertyType": "Apartment",
+    "daftShortcode": "36438273",
+    "seller": {
+      "sellerId": 6073072,
+      "name": "Diego ",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "A1"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.241094,
+        53.281362
+      ]
+    },
+    "seoFriendlyPath": "/share/walled-garden-wyckham-way-dundrum-dublin-16-ballinteer-dublin-16/6438273",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
     "id": 6438300,
     "title": "Sorrento Road, Dalkey, Co. Dublin",
     "seoTitle": "Sorrento Road, Dalkey, Co. Dublin",
@@ -63525,6 +63615,142 @@
       ]
     },
     "seoFriendlyPath": "/share/sorrento-road-dalkey-co-dublin/6438300",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6438375,
+    "title": "Warren Street, Dublin 8, Portobello, Dublin 8",
+    "seoTitle": "Warren Street, Dublin 8, Portobello, Dublin 8",
+    "sections": [
+      "Property",
+      "Sharing",
+      "House"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1763748780782,
+    "price": "€950 per month",
+    "abbreviatedPrice": "€950",
+    "numBedrooms": "Double Room",
+    "propertyType": "House",
+    "daftShortcode": "36438375",
+    "seller": {
+      "sellerId": 6115030,
+      "name": "Lou Prendergast",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "SI_666"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.267902,
+        53.330472
+      ]
+    },
+    "seoFriendlyPath": "/share/warren-street-dublin-8-portobello-dublin-8/6438375",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6438414,
+    "title": "126 Tolka Road, Dublin 3, Ballybough, Dublin 3",
+    "seoTitle": "126 Tolka Road, Dublin 3, Ballybough, Dublin 3",
+    "sections": [
+      "Property",
+      "Sharing",
+      "House"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1763743128151,
+    "price": "From €895 to €1,195 per month",
+    "abbreviatedPrice": "€900+",
+    "numBedrooms": "Single & Double Room",
+    "propertyType": "House",
+    "daftShortcode": "36438414",
+    "seller": {
+      "sellerId": 5585505,
+      "name": "James Harper",
+      "phone": "353894831335",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "C2"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.246222,
+        53.36331
+      ]
+    },
+    "seoFriendlyPath": "/share/126-tolka-road-dublin-3-ballybough-dublin-3/6438414",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6439149,
+    "title": "Block C, Elmville, Harold's Cross Road, Dublin 6W, Harold's Cross, Dublin 6W",
+    "seoTitle": "Block C, Elmville, Harold's Cross Road, Dublin 6W, Harold's Cross, Dublin 6W",
+    "sections": [
+      "Property",
+      "Sharing",
+      "Apartment"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1763769252759,
+    "price": "€1,475 per month",
+    "abbreviatedPrice": "€1,480",
+    "numBedrooms": "Double Room",
+    "propertyType": "Apartment",
+    "daftShortcode": "36439149",
+    "seller": {
+      "sellerId": 6501860,
+      "name": "Zaur Gouliev",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "A3"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.280395,
+        53.319523
+      ]
+    },
+    "seoFriendlyPath": "/share/block-c-elmville-harolds-cross-road-dublin-6w-harolds-cross-dublin-6w/6439149",
     "category": "Share",
     "state": "PUBLISHED",
     "premierPartner": false
