@@ -59262,6 +59262,52 @@
     "premierPartner": false
   },
   {
+    "id": 6336268,
+    "title": "6 Carr'S Mill, Portrane Road, Donabate, Donabate, Co. Dublin",
+    "seoTitle": "6 Carr'S Mill, Portrane Road, Donabate, Donabate, Co. Dublin",
+    "sections": [
+      "Property",
+      "Sharing",
+      "House"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1763853442822,
+    "price": "From €800 to €1,000 per month",
+    "abbreviatedPrice": "€800+",
+    "numBedrooms": "Double Room",
+    "propertyType": "House",
+    "daftShortcode": "36336268",
+    "seller": {
+      "sellerId": 6033367,
+      "name": "Artur Marku",
+      "phone": "353873466053",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "C3"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.141404,
+        53.493626
+      ]
+    },
+    "seoFriendlyPath": "/share/6-carrs-mill-portrane-road-donabate-donabate-co-dublin/6336268",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
     "id": 6336317,
     "title": "500 collins park, Beaumont, Dublin 9",
     "seoTitle": "500 collins park, Beaumont, Dublin 9",
@@ -63393,6 +63439,51 @@
     "premierPartner": false
   },
   {
+    "id": 6431515,
+    "title": "Stillorgan Heath, Stillorgan, Blackrock, Co. D, Stillorgan, Co. Dublin",
+    "seoTitle": "Stillorgan Heath, Stillorgan, Blackrock, Co. D, Stillorgan, Co. Dublin",
+    "sections": [
+      "Property",
+      "Sharing",
+      "House"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1763823025829,
+    "price": "€930 per month",
+    "abbreviatedPrice": "€930",
+    "numBedrooms": "Double Room",
+    "propertyType": "House",
+    "daftShortcode": "36431515",
+    "seller": {
+      "sellerId": 5901162,
+      "name": "David STANLEY",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "D2"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.203164,
+        53.281314
+      ]
+    },
+    "seoFriendlyPath": "/share/146-stillorgan-heath-stillorgan-blackrock-stillorgan-co-dublin/6431515",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
     "id": 6431938,
     "title": "Myo'S, Castleknock Road, Castleknock, Dublin 15, Castleknock, Dublin 15",
     "seoTitle": "Myo'S, Castleknock Road, Castleknock, Dublin 15, Castleknock, Dublin 15",
@@ -63751,6 +63842,52 @@
       ]
     },
     "seoFriendlyPath": "/share/block-c-elmville-harolds-cross-road-dublin-6w-harolds-cross-dublin-6w/6439149",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6439363,
+    "title": "Hollywoodrath Meadows, Hollystown, Dublin 15, Hollystown, Dublin 15",
+    "seoTitle": "Hollywoodrath Meadows, Hollystown, Dublin 15, Hollystown, Dublin 15",
+    "sections": [
+      "Property",
+      "Sharing",
+      "House"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1763811820870,
+    "price": "€1,100 per month",
+    "abbreviatedPrice": "€1,100",
+    "numBedrooms": "Double Room",
+    "propertyType": "House",
+    "daftShortcode": "36439363",
+    "seller": {
+      "sellerId": 6351934,
+      "name": "Private User",
+      "phone": "353870017848",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "A1"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.364803,
+        53.424126
+      ]
+    },
+    "seoFriendlyPath": "/share/hollywoodrath-meadows-hollystown-dublin-15-hollystown-dublin-15/6439363",
     "category": "Share",
     "state": "PUBLISHED",
     "premierPartner": false
