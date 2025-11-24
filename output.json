@@ -63891,5 +63891,141 @@
     "category": "Share",
     "state": "PUBLISHED",
     "premierPartner": false
+  },
+  {
+    "id": 6439582,
+    "title": "Apartment Crosbie'S Yard,Ossory Road,Dublin 3, North Strand, Dublin 3",
+    "seoTitle": "Apartment Crosbie'S Yard,Ossory Road,Dublin 3, North Strand, Dublin 3",
+    "sections": [
+      "Property",
+      "Sharing",
+      "Apartment"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1763892405811,
+    "price": "€1,100 per month",
+    "abbreviatedPrice": "€1,100",
+    "numBedrooms": "Double Room",
+    "propertyType": "Apartment",
+    "daftShortcode": "36439582",
+    "seller": {
+      "sellerId": 6574749,
+      "name": "Seamus Flanagan",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "B3"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.240764,
+        53.355635
+      ]
+    },
+    "seoFriendlyPath": "/share/apartment-crosbies-yard-ossory-road-dublin-3-north-strand-dublin-3/6439582",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6439675,
+    "title": "Nottingham House, 2a Nottingham Street, Dublin 3, Ballybough, Dublin 3",
+    "seoTitle": "Nottingham House, 2a Nottingham Street, Dublin 3, Ballybough, Dublin 3",
+    "sections": [
+      "Property",
+      "Sharing",
+      "Apartment",
+      "Flat"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1763905730889,
+    "price": "€635 per month",
+    "abbreviatedPrice": "€640",
+    "numBedrooms": "Twin Room",
+    "propertyType": "Apartment",
+    "daftShortcode": "36439675",
+    "seller": {
+      "sellerId": 6017049,
+      "name": "Private User",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "B1"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.241369,
+        53.358985
+      ]
+    },
+    "seoFriendlyPath": "/share/nottingham-house-2a-nottingham-street-dublin-3-ballybough-dublin-3/6439675",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6439714,
+    "title": "36 Aranleigh Court, Rathfarnham, Dublin 14",
+    "seoTitle": "36 Aranleigh Court, Rathfarnham, Dublin 14",
+    "sections": [
+      "Property",
+      "Sharing",
+      "House"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1763914115724,
+    "price": "€690 per month",
+    "abbreviatedPrice": "€690",
+    "numBedrooms": "Double Room",
+    "propertyType": "House",
+    "daftShortcode": "36439714",
+    "seller": {
+      "sellerId": 233003,
+      "name": "Kieran Devlin",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "B3"
+    },
+    "platform": "DAPI-ANDROID",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.2764006,
+        53.2895725
+      ]
+    },
+    "seoFriendlyPath": "/share/36-aranleigh-court-rathfarnham-dublin-14/6439714",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
   }
 ]
