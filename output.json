@@ -63938,6 +63938,52 @@
     "premierPartner": false
   },
   {
+    "id": 6439597,
+    "title": "25 Kiltalown Court, Dublin 24, Jobstown, Dublin 24",
+    "seoTitle": "25 Kiltalown Court, Dublin 24, Jobstown, Dublin 24",
+    "sections": [
+      "Property",
+      "Sharing",
+      "House"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1764004132934,
+    "price": "From €250 to €300 per week",
+    "abbreviatedPrice": "€250+",
+    "numBedrooms": "Double Room",
+    "propertyType": "House",
+    "daftShortcode": "36439597",
+    "seller": {
+      "sellerId": 6574787,
+      "name": "Private User",
+      "phone": "353896017801",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "SI_666"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.402858,
+        53.276765
+      ]
+    },
+    "seoFriendlyPath": "/share/25-kiltalown-court-dublin-24-jobstown-dublin-24/6439597",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
     "id": 6439675,
     "title": "Nottingham House, 2a Nottingham Street, Dublin 3, Ballybough, Dublin 3",
     "seoTitle": "Nottingham House, 2a Nottingham Street, Dublin 3, Ballybough, Dublin 3",
@@ -64024,6 +64070,232 @@
       ]
     },
     "seoFriendlyPath": "/share/36-aranleigh-court-rathfarnham-dublin-14/6439714",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6439860,
+    "title": "359 Crumlin Road, Dublin 12, Drimnagh, Dublin 12",
+    "seoTitle": "359 Crumlin Road, Dublin 12, Drimnagh, Dublin 12",
+    "sections": [
+      "Property",
+      "Sharing",
+      "House"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1763999089501,
+    "price": "€950 per month",
+    "abbreviatedPrice": "€950",
+    "numBedrooms": "Double Room",
+    "propertyType": "House",
+    "daftShortcode": "36439860",
+    "seller": {
+      "sellerId": 5968303,
+      "name": "Private User",
+      "phone": "353879586559",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "D1"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.314494,
+        53.326256
+      ]
+    },
+    "seoFriendlyPath": "/share/359-crumlin-road-dublin-12-drimnagh-dublin-12/6439860",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6439898,
+    "title": "Chapel Farm, Lusk, Co. Dublin, Corduff, Co. Dublin",
+    "seoTitle": "Chapel Farm, Lusk, Co. Dublin, Corduff, Co. Dublin",
+    "sections": [
+      "Property",
+      "Sharing",
+      "House"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1764011073833,
+    "price": "€700 per month",
+    "abbreviatedPrice": "€700",
+    "numBedrooms": "Single Room",
+    "propertyType": "House",
+    "daftShortcode": "36439898",
+    "seller": {
+      "sellerId": 1606656,
+      "name": "Connor Dolan",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "SI_666"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.1724016442895,
+        53.524706797382
+      ]
+    },
+    "seoFriendlyPath": "/share/chapel-farm-lusk-co-dublin-corduff-dublin-15/6439898",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6440349,
+    "title": "Lioscian, Swords, Co. Dublin",
+    "seoTitle": "Lioscian, Swords, Co. Dublin",
+    "sections": [
+      "Property",
+      "Sharing",
+      "House"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1764013190787,
+    "price": "€800 per month",
+    "abbreviatedPrice": "€800",
+    "numBedrooms": "Double Room",
+    "propertyType": "House",
+    "daftShortcode": "36440349",
+    "seller": {
+      "sellerId": 1009768,
+      "name": "Fiona Cooke",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "B3"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.241478,
+        53.463124
+      ]
+    },
+    "seoFriendlyPath": "/share/lioscian-swords-co-dublin/6440349",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6440654,
+    "title": "Grange Abbey Road,Grange Abbey,Dublin 13, Clongriffin, Dublin 13",
+    "seoTitle": "Grange Abbey Road,Grange Abbey,Dublin 13, Clongriffin, Dublin 13",
+    "sections": [
+      "Property",
+      "Sharing",
+      "House"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1764014425865,
+    "price": "€800 per month",
+    "abbreviatedPrice": "€800",
+    "numBedrooms": "Double Room",
+    "propertyType": "House",
+    "daftShortcode": "36440654",
+    "seller": {
+      "sellerId": 1950441,
+      "name": "Marina",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "A3"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.152406,
+        53.399065
+      ]
+    },
+    "seoFriendlyPath": "/share/grange-abbey-road-grange-abbey-dublin-13-clongriffin-dublin-13/6440654",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6440766,
+    "title": "wyckham way, Ballinteer, Dublin 16",
+    "seoTitle": "wyckham way, Ballinteer, Dublin 16",
+    "sections": [
+      "Property",
+      "Sharing",
+      "Apartment"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1764012979822,
+    "price": "€1,250 per month",
+    "abbreviatedPrice": "€1,250",
+    "numBedrooms": "Double Room",
+    "propertyType": "Apartment",
+    "daftShortcode": "36440766",
+    "seller": {
+      "sellerId": 1979443,
+      "name": "Hazim Ibrahim ",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "B2"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.2428060520062,
+        53.28145271089
+      ]
+    },
+    "seoFriendlyPath": "/share/wyckham-way-ballinteer-dublin-16/6440766",
     "category": "Share",
     "state": "PUBLISHED",
     "premierPartner": false
