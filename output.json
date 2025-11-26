@@ -1210,6 +1210,53 @@
     "premierPartner": false
   },
   {
+    "id": 6199089,
+    "title": "Flat 2, 1 Sydenham Road, Dublin 4, Dublin 4",
+    "seoTitle": "Flat 2, 1 Sydenham Road, Dublin 4, Dublin 4",
+    "sections": [
+      "Property",
+      "Sharing",
+      "Apartment"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1764060701840,
+    "price": "€800 per month",
+    "abbreviatedPrice": "€800",
+    "numBedrooms": "Shared Room",
+    "propertyType": "Apartment",
+    "daftShortcode": "36199089",
+    "seller": {
+      "sellerId": 1609245,
+      "name": "James Coyle",
+      "phone": "353862512523",
+      "phoneWhenToCall": "Anytime",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "C1"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.224667,
+        53.327831
+      ]
+    },
+    "seoFriendlyPath": "/share/flat-2-1-sydenham-road-dublin-4-dublin-4/6199089",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
     "id": 6201523,
     "title": " Compass Court North, Pelletstown Av, Royal Canal Park, Dublin 15",
     "seoTitle": " Compass Court North, Pelletstown Av, Royal Canal Park, Dublin 15",
@@ -64296,6 +64343,53 @@
       ]
     },
     "seoFriendlyPath": "/share/wyckham-way-ballinteer-dublin-16/6440766",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6441695,
+    "title": "Old Farm, Carpenterstown Road, Coolmine, Dublin 15",
+    "seoTitle": "Old Farm, Carpenterstown Road, Coolmine, Dublin 15",
+    "sections": [
+      "Property",
+      "Sharing",
+      "Apartment"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1764093075133,
+    "price": "€750 per month",
+    "abbreviatedPrice": "€750",
+    "numBedrooms": "Single Room",
+    "propertyType": "Apartment",
+    "daftShortcode": "36441695",
+    "seller": {
+      "sellerId": 1607190,
+      "name": "Alex",
+      "phone": "0862286967",
+      "phoneWhenToCall": "TEXT ONLY 10am to 9pm",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "SI_666"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.3909926,
+        53.3760977
+      ]
+    },
+    "seoFriendlyPath": "/share/old-farm-carpenterstown-road-coolmine-dublin-15/6441695",
     "category": "Share",
     "state": "PUBLISHED",
     "premierPartner": false
