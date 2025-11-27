@@ -1025,6 +1025,51 @@
     "premierPartner": false
   },
   {
+    "id": 6180542,
+    "title": "35 Balfe Avenue, Dublin 12, Crumlin, Dublin 12",
+    "seoTitle": "35 Balfe Avenue, Dublin 12, Crumlin, Dublin 12",
+    "sections": [
+      "Property",
+      "Sharing",
+      "House"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1764171044224,
+    "price": "€1,000 per month",
+    "abbreviatedPrice": "€1,000",
+    "numBedrooms": "Single Room",
+    "propertyType": "House",
+    "daftShortcode": "36180542",
+    "seller": {
+      "sellerId": 1711755,
+      "name": "James McGowan",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "SI_666"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.322527,
+        53.31993
+      ]
+    },
+    "seoFriendlyPath": "/share/35-balfe-avenue-dublin-12-crumlin-dublin-12/6180542",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
     "id": 6183874,
     "title": "4 Haydens Park avenue, Lucan, Co. Dublin",
     "seoTitle": "4 Haydens Park avenue, Lucan, Co. Dublin",
@@ -64348,6 +64393,51 @@
     "premierPartner": false
   },
   {
+    "id": 6441639,
+    "title": "BEWLEY, Lucan, Co. Dublin",
+    "seoTitle": "BEWLEY, Lucan, Co. Dublin",
+    "sections": [
+      "Property",
+      "Sharing",
+      "House"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1764176775905,
+    "price": "€840 per month",
+    "abbreviatedPrice": "€840",
+    "numBedrooms": "Double Room",
+    "propertyType": "House",
+    "daftShortcode": "36441639",
+    "seller": {
+      "sellerId": 199175,
+      "name": "Bewley",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "C1"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.4265943440944,
+        53.35355854637
+      ]
+    },
+    "seoFriendlyPath": "/share/bewley-lucan-co-dublin/6441639",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
     "id": 6441695,
     "title": "Old Farm, Carpenterstown Road, Coolmine, Dublin 15",
     "seoTitle": "Old Farm, Carpenterstown Road, Coolmine, Dublin 15",
@@ -64390,6 +64480,142 @@
       ]
     },
     "seoFriendlyPath": "/share/old-farm-carpenterstown-road-coolmine-dublin-15/6441695",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6442134,
+    "title": "Weston, 17 Kill Avenue, Dun Laoghaire, Monkstown, Co. Dublin",
+    "seoTitle": "Weston, 17 Kill Avenue, Dun Laoghaire, Monkstown, Co. Dublin",
+    "sections": [
+      "Property",
+      "Sharing",
+      "House"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1764176776452,
+    "price": "€950 per month",
+    "abbreviatedPrice": "€950",
+    "numBedrooms": "Double Room",
+    "propertyType": "House",
+    "daftShortcode": "36442134",
+    "seller": {
+      "sellerId": 6479887,
+      "name": "Feargal",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "A3"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.148521,
+        53.282731
+      ]
+    },
+    "seoFriendlyPath": "/share/weston-17-kill-avenue-dun-laoghaire-monkstown-co-dublin/6442134",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6442146,
+    "title": "En Suite Larkfield Estate, Lucan, Co. Dublin",
+    "seoTitle": "En Suite Larkfield Estate, Lucan, Co. Dublin",
+    "sections": [
+      "Property",
+      "Sharing",
+      "House"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1764176774595,
+    "price": "€935 per month",
+    "abbreviatedPrice": "€940",
+    "numBedrooms": "Double Room",
+    "propertyType": "House",
+    "daftShortcode": "36442146",
+    "seller": {
+      "sellerId": 199175,
+      "name": "Larkfield En Suite",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "C1"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.4211251246189,
+        53.352548721498
+      ]
+    },
+    "seoFriendlyPath": "/share/en-suite-larkfield-estate-lucan-co-dublin/6442146",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6442192,
+    "title": "Freshly Renovated House - Cherry Orchard Crescent, Ballyfermot, Dublin 10",
+    "seoTitle": "Freshly Renovated House - Cherry Orchard Crescent, Ballyfermot, Dublin 10",
+    "sections": [
+      "Property",
+      "Sharing",
+      "House"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1764176774594,
+    "price": "€610 per month",
+    "abbreviatedPrice": "€610",
+    "numBedrooms": "Single Room",
+    "propertyType": "House",
+    "daftShortcode": "36442192",
+    "seller": {
+      "sellerId": 927041,
+      "name": "Andy Rugman",
+      "phone": "353851692693",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "B3"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.3679025314747,
+        53.337840494709
+      ]
+    },
+    "seoFriendlyPath": "/share/freshly-renovated-house-cherry-orchard-crescent-ballyfermot-dublin-10/6442192",
     "category": "Share",
     "state": "PUBLISHED",
     "premierPartner": false
