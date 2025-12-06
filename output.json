@@ -7696,6 +7696,51 @@
     "premierPartner": false
   },
   {
+    "id": 6266223,
+    "title": "Inchicore, Dublin 8, Inchicore, Dublin 8",
+    "seoTitle": "Inchicore, Dublin 8, Inchicore, Dublin 8",
+    "sections": [
+      "Property",
+      "Sharing",
+      "House"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1764767879989,
+    "price": "€750 per month",
+    "abbreviatedPrice": "€750",
+    "numBedrooms": "Double Room",
+    "propertyType": "House",
+    "daftShortcode": "36266223",
+    "seller": {
+      "sellerId": 1969731,
+      "name": "Lucas",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "B1"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.3140281966289,
+        53.337483700522
+      ]
+    },
+    "seoFriendlyPath": "/share/inchicore-dublin-8-inchicore-dublin-8/6266223",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
     "id": 6266580,
     "title": "Killiney, Ballybrack, Co. Dublin",
     "seoTitle": "Killiney, Ballybrack, Co. Dublin",
@@ -13256,6 +13301,51 @@
     "premierPartner": false
   },
   {
+    "id": 6285628,
+    "title": "Heath Square, Mckee Avenue, Dublin 11, Finglas, Dublin 11",
+    "seoTitle": "Heath Square, Mckee Avenue, Dublin 11, Finglas, Dublin 11",
+    "sections": [
+      "Property",
+      "Sharing",
+      "House"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1764838031131,
+    "price": "€800 per month",
+    "abbreviatedPrice": "€800",
+    "numBedrooms": "Double Room",
+    "propertyType": "House",
+    "daftShortcode": "36285628",
+    "seller": {
+      "sellerId": 6504505,
+      "name": "Private User",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "B2"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.300888,
+        53.392938
+      ]
+    },
+    "seoFriendlyPath": "/share/24-heath-square-mckee-avenue-dublin-11-finglas-dublin-11/6285628",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
     "id": 6285811,
     "title": "Lower Kimmage Road, Harold's Cross, Dublin 6W",
     "seoTitle": "Lower Kimmage Road, Harold's Cross, Dublin 6W",
@@ -15289,6 +15379,53 @@
     "premierPartner": false
   },
   {
+    "id": 6290911,
+    "title": "326 Collins Avenue, Dublin 9, Beaumont, Dublin 9",
+    "seoTitle": "326 Collins Avenue, Dublin 9, Beaumont, Dublin 9",
+    "sections": [
+      "Property",
+      "Sharing",
+      "House"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1764885192110,
+    "price": "From €1,100 to €1,500 per month",
+    "abbreviatedPrice": "€1,100+",
+    "numBedrooms": "Single & Double Room",
+    "propertyType": "House",
+    "daftShortcode": "36290911",
+    "seller": {
+      "sellerId": 6176132,
+      "name": "carmel Hughes",
+      "phone": "353874181368",
+      "phoneWhenToCall": "11am-11pm",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "SI_666"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.236719,
+        53.380671
+      ]
+    },
+    "seoFriendlyPath": "/share/326-collins-avenue-dublin-9-beaumont-dublin-9/6290911",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
     "id": 6291043,
     "title": "kilmartin grove dublin 15, Hollystown, Dublin 15",
     "seoTitle": "kilmartin grove dublin 15, Hollystown, Dublin 15",
@@ -16563,6 +16700,51 @@
     "premierPartner": false
   },
   {
+    "id": 6295561,
+    "title": "38 Park Drive Green, Castleknock, Dublin 15, Castleknock, Dublin 15",
+    "seoTitle": "38 Park Drive Green, Castleknock, Dublin 15, Castleknock, Dublin 15",
+    "sections": [
+      "Property",
+      "Sharing",
+      "House"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1764761017072,
+    "price": "€650 per month",
+    "abbreviatedPrice": "€650",
+    "numBedrooms": "Single Room",
+    "propertyType": "House",
+    "daftShortcode": "36295561",
+    "seller": {
+      "sellerId": 1394644,
+      "name": "Patrick Taylor",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "A1"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.368757,
+        53.3741
+      ]
+    },
+    "seoFriendlyPath": "/share/38-park-drive-green-castleknock-dublin-15-castleknock-dublin-15/6295561",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
     "id": 6295598,
     "title": "Apartment 16, Meadow Court, Stepaside Park, Dublin, Stepaside, Dublin 18",
     "seoTitle": "Apartment 16, Meadow Court, Stepaside Park, Dublin, Stepaside, Dublin 18",
@@ -17694,6 +17876,52 @@
       ]
     },
     "seoFriendlyPath": "/share/corbawn-lane-shankill-dublin-18/6298742",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6298816,
+    "title": "4 Saint Declan'S Road, Dublin 3, Marino, Dublin 3",
+    "seoTitle": "4 Saint Declan'S Road, Dublin 3, Marino, Dublin 3",
+    "sections": [
+      "Property",
+      "Sharing",
+      "House"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1764861985181,
+    "price": "€1,500 per month",
+    "abbreviatedPrice": "€1,500",
+    "numBedrooms": "Double Room",
+    "propertyType": "House",
+    "daftShortcode": "36298816",
+    "seller": {
+      "sellerId": 6422786,
+      "name": "Miguel Olaya",
+      "phone": "353857296236",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "C1"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.229758,
+        53.367918
+      ]
+    },
+    "seoFriendlyPath": "/share/4-saint-declans-road-dublin-3-marino-dublin-3/6298816",
     "category": "Share",
     "state": "PUBLISHED",
     "premierPartner": false
@@ -58992,6 +59220,51 @@
     "premierPartner": false
   },
   {
+    "id": 6332547,
+    "title": "Clancy Quay,South Circular Road,Dublin 8, Kilmainham, Dublin 8",
+    "seoTitle": "Clancy Quay,South Circular Road,Dublin 8, Kilmainham, Dublin 8",
+    "sections": [
+      "Property",
+      "Sharing",
+      "Apartment"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1764888791194,
+    "price": "€1,150 per month",
+    "abbreviatedPrice": "€1,150",
+    "numBedrooms": "Double Room",
+    "propertyType": "Apartment",
+    "daftShortcode": "36332547",
+    "seller": {
+      "sellerId": 1760345,
+      "name": "Em Pillar",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "A3"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.305349,
+        53.346741
+      ]
+    },
+    "seoFriendlyPath": "/share/clancy-quay-south-circular-road-dublin-8-kilmainham-dublin-8/6332547",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
     "id": 6332604,
     "title": "9a Clanbrassil Street Lower, Dublin 8, Portobello, Dublin 8",
     "seoTitle": "9a Clanbrassil Street Lower, Dublin 8, Portobello, Dublin 8",
@@ -63169,6 +63442,51 @@
     "premierPartner": false
   },
   {
+    "id": 6348512,
+    "title": "17 The Millrace, Mount Argus Mill, Dublin 6w, Harold's Cross, Dublin 6W",
+    "seoTitle": "17 The Millrace, Mount Argus Mill, Dublin 6w, Harold's Cross, Dublin 6W",
+    "sections": [
+      "Property",
+      "Sharing",
+      "Apartment"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1764846057071,
+    "price": "€1,393 per month",
+    "abbreviatedPrice": "€1,390",
+    "numBedrooms": "Single Room",
+    "propertyType": "Apartment",
+    "daftShortcode": "36348512",
+    "seller": {
+      "sellerId": 5429925,
+      "name": "Tanel Korvel",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "A3"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.285757,
+        53.321513
+      ]
+    },
+    "seoFriendlyPath": "/share/17-the-millrace-mount-argus-mill-dublin-6w-harolds-cross-dublin-6w/6348512",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
     "id": 6348557,
     "title": "Killiney Hill Road, Killiney, Co. Dublin",
     "seoTitle": "Killiney Hill Road, Killiney, Co. Dublin",
@@ -63622,6 +63940,51 @@
     "premierPartner": false
   },
   {
+    "id": 6431950,
+    "title": "Kilmainham Square,Inchicore Road,Dublin 8, Inchicore, Dublin 8",
+    "seoTitle": "Kilmainham Square,Inchicore Road,Dublin 8, Inchicore, Dublin 8",
+    "sections": [
+      "Property",
+      "Sharing",
+      "Apartment"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1764832915073,
+    "price": "€1,250 per month",
+    "abbreviatedPrice": "€1,250",
+    "numBedrooms": "Double Room",
+    "propertyType": "Apartment",
+    "daftShortcode": "36431950",
+    "seller": {
+      "sellerId": 5946832,
+      "name": "Daithi",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "A1"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.310124,
+        53.342396
+      ]
+    },
+    "seoFriendlyPath": "/share/kilmainham-square-inchicore-road-dublin-8-inchicore-dublin-8/6431950",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
     "id": 6437709,
     "title": "209 Boulevard, Mount Eustace, Dublin 15, Tyrrelstown, Dublin 15",
     "seoTitle": "209 Boulevard, Mount Eustace, Dublin 15, Tyrrelstown, Dublin 15",
@@ -63889,6 +64252,51 @@
       ]
     },
     "seoFriendlyPath": "/share/126-tolka-road-dublin-3-ballybough-dublin-3/6438414",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6438518,
+    "title": "Phoenix Park racecourse, Castleknock,Dublin 15, Navan Road (D7), Dublin 7",
+    "seoTitle": "Phoenix Park racecourse, Castleknock,Dublin 15, Navan Road (D7), Dublin 7",
+    "sections": [
+      "Property",
+      "Sharing",
+      "Apartment"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1764395728070,
+    "price": "€1,205 per month",
+    "abbreviatedPrice": "€1,210",
+    "numBedrooms": "Double Room",
+    "propertyType": "Apartment",
+    "daftShortcode": "36438518",
+    "seller": {
+      "sellerId": 5314047,
+      "name": "Private User",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "B2"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.337687,
+        53.371467
+      ]
+    },
+    "seoFriendlyPath": "/share/phoenix-park-racecourse-castleknock-dublin-15-navan-road-d7-dublin-7/6438518",
     "category": "Share",
     "state": "PUBLISHED",
     "premierPartner": false
@@ -64393,6 +64801,52 @@
     "premierPartner": false
   },
   {
+    "id": 6441184,
+    "title": "Holywell Road, Swords, Co. Dublin, Kinsealy, Co. Dublin",
+    "seoTitle": "Holywell Road, Swords, Co. Dublin, Kinsealy, Co. Dublin",
+    "sections": [
+      "Property",
+      "Sharing",
+      "House"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1764892800000,
+    "price": "From €850 to €950 per month",
+    "abbreviatedPrice": "€850+",
+    "numBedrooms": "Double Room",
+    "propertyType": "House",
+    "daftShortcode": "36441184",
+    "seller": {
+      "sellerId": 6576354,
+      "name": "Private User",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "2005",
+    "ber": {
+      "rating": "B2",
+      "code": "110761004"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.21197,
+        53.445258
+      ]
+    },
+    "seoFriendlyPath": "/share/holywell-road-swords-co-dublin-kinsealy-co-dublin/6441184",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
     "id": 6441639,
     "title": "BEWLEY, Lucan, Co. Dublin",
     "seoTitle": "BEWLEY, Lucan, Co. Dublin",
@@ -64616,6 +65070,1503 @@
       ]
     },
     "seoFriendlyPath": "/share/freshly-renovated-house-cherry-orchard-crescent-ballyfermot-dublin-10/6442192",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6443348,
+    "title": "Inchicore, Dublin 8, Inchicore, Dublin 8",
+    "seoTitle": "Inchicore, Dublin 8, Inchicore, Dublin 8",
+    "sections": [
+      "Property",
+      "Sharing",
+      "House"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1764955797660,
+    "price": "€1,065 per month",
+    "abbreviatedPrice": "€1,070",
+    "numBedrooms": "Double Room",
+    "propertyType": "House",
+    "daftShortcode": "36443348",
+    "seller": {
+      "sellerId": 874108,
+      "name": "Lily ",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "SI_666"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.329156,
+        53.334769
+      ]
+    },
+    "seoFriendlyPath": "/share/inchicore-dublin-8-inchicore-dublin-8/6443348",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6444177,
+    "title": "17 Donore Road, Dublin 8, South Circular Road, Dublin 8",
+    "seoTitle": "17 Donore Road, Dublin 8, South Circular Road, Dublin 8",
+    "sections": [
+      "Property",
+      "Sharing",
+      "House"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1764806270019,
+    "price": "€1,050 per month",
+    "abbreviatedPrice": "€1,050",
+    "numBedrooms": "Double Room",
+    "propertyType": "House",
+    "daftShortcode": "36444177",
+    "seller": {
+      "sellerId": 5393262,
+      "name": "Abigail Watkins",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "D1"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.282133,
+        53.334966
+      ]
+    },
+    "seoFriendlyPath": "/share/17-donore-road-dublin-8-south-circular-road-dublin-8/6444177",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6444321,
+    "title": "Adamstown Boulevard,Adamstown Castle,Lucan,Co. Dublin, Adamstown, Co. Dublin",
+    "seoTitle": "Adamstown Boulevard,Adamstown Castle,Lucan,Co. Dublin, Adamstown, Co. Dublin",
+    "sections": [
+      "Property",
+      "Sharing",
+      "House"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1764892800000,
+    "price": "From €700 to €800 per month",
+    "abbreviatedPrice": "€700+",
+    "numBedrooms": "Single & Shared Room",
+    "propertyType": "House",
+    "daftShortcode": "36444321",
+    "seller": {
+      "sellerId": 6573107,
+      "name": "Private User",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "A3"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.469144,
+        53.3391
+      ]
+    },
+    "seoFriendlyPath": "/share/adamstown-boulevard-adamstown-castle-lucan-co-dublin-adamstown-co-dublin/6444321",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6444721,
+    "title": "Swords, Co. Dublin, Swords, Co. Dublin",
+    "seoTitle": "Swords, Co. Dublin, Swords, Co. Dublin",
+    "sections": [
+      "Property",
+      "Sharing",
+      "House"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1764892800000,
+    "price": "€900 per month",
+    "abbreviatedPrice": "€900",
+    "numBedrooms": "Single Room",
+    "propertyType": "House",
+    "daftShortcode": "36444721",
+    "seller": {
+      "sellerId": 6422229,
+      "name": "Jonathan",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "B3"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.254202,
+        53.460449
+      ]
+    },
+    "seoFriendlyPath": "/share/swords-co-dublin-swords-co-dublin/6444721",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6444831,
+    "title": "Redwood, Kilnamanagh, Dublin 24",
+    "seoTitle": "Redwood, Kilnamanagh, Dublin 24",
+    "sections": [
+      "Property",
+      "Sharing",
+      "House"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1764945914570,
+    "price": "€1,000 per month",
+    "abbreviatedPrice": "€1,000",
+    "numBedrooms": "Double Room",
+    "propertyType": "House",
+    "daftShortcode": "36444831",
+    "seller": {
+      "sellerId": 1865470,
+      "name": "Erika Cassidy",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "B3"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.3626679,
+        53.2989587
+      ]
+    },
+    "seoFriendlyPath": "/share/redwood-kilnamanagh-dublin-24/6444831",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6444891,
+    "title": "4 Park Drive,The Park, Cabinteely, Dublin 18, Foxrock, Dublin 18",
+    "seoTitle": "4 Park Drive,The Park, Cabinteely, Dublin 18, Foxrock, Dublin 18",
+    "sections": [
+      "Property",
+      "Sharing",
+      "House"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1764763098023,
+    "price": "€950 per month",
+    "abbreviatedPrice": "€950",
+    "numBedrooms": "Double Room",
+    "propertyType": "House",
+    "daftShortcode": "36444891",
+    "seller": {
+      "sellerId": 6578698,
+      "name": "Private User",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "D1"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.166712,
+        53.264547
+      ]
+    },
+    "seoFriendlyPath": "/share/4-park-drive-the-park-cabinteely-dublin-18-foxrock-dublin-18/6444891",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6445213,
+    "title": "37 All Hallows Green, Griffith Avenue, Dublin 9, Drumcondra, Dublin 9",
+    "seoTitle": "37 All Hallows Green, Griffith Avenue, Dublin 9, Drumcondra, Dublin 9",
+    "sections": [
+      "Property",
+      "Sharing",
+      "Apartment"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1764949247531,
+    "price": "€725 per month",
+    "abbreviatedPrice": "€730",
+    "numBedrooms": "Single Room",
+    "propertyType": "Apartment",
+    "daftShortcode": "36445213",
+    "seller": {
+      "sellerId": 614255,
+      "name": "Adrian DUMITRU",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "C2"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.251143,
+        53.372524
+      ]
+    },
+    "seoFriendlyPath": "/share/37-all-hallows-green-griffith-avenue-dublin-9-drumcondra-dublin-9/6445213",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6445295,
+    "title": "Saint Clare'S Park,Harold'S Cross Road,Dublin 6w, Harold's Cross, Dublin 6W",
+    "seoTitle": "Saint Clare'S Park,Harold'S Cross Road,Dublin 6w, Harold's Cross, Dublin 6W",
+    "sections": [
+      "Property",
+      "Sharing",
+      "Apartment"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1764841057119,
+    "price": "€1,450 per month",
+    "abbreviatedPrice": "€1,450",
+    "numBedrooms": "Double Room",
+    "propertyType": "Apartment",
+    "daftShortcode": "36445295",
+    "seller": {
+      "sellerId": 6398957,
+      "name": "Ashton De Mont",
+      "phone": "353872515313",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "B1"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.276172,
+        53.325475
+      ]
+    },
+    "seoFriendlyPath": "/share/saint-clares-park-harolds-cross-road-dublin-6w-harolds-cross-dublin-6w/6445295",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6445509,
+    "title": "Boulevard, Tyrrelstown, Dublin 15",
+    "seoTitle": "Boulevard, Tyrrelstown, Dublin 15",
+    "sections": [
+      "Property",
+      "Sharing",
+      "House"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1764892800000,
+    "price": "€925 per month",
+    "abbreviatedPrice": "€930",
+    "numBedrooms": "Double Room",
+    "propertyType": "House",
+    "daftShortcode": "36445509",
+    "seller": {
+      "sellerId": 5919473,
+      "name": "Private User",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "C3"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.3869983393659,
+        53.418387020596
+      ]
+    },
+    "seoFriendlyPath": "/share/boulevard-tyrrelstown-dublin-15/6445509",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6445540,
+    "title": "Saint Agnes Terrace, Crumlin Village, Crumlin, Dublin 12",
+    "seoTitle": "Saint Agnes Terrace, Crumlin Village, Crumlin, Dublin 12",
+    "sections": [
+      "Property",
+      "Sharing",
+      "House"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1764933956639,
+    "price": "€750 per month",
+    "abbreviatedPrice": "€750",
+    "numBedrooms": "Double Room",
+    "propertyType": "House",
+    "daftShortcode": "36445540",
+    "seller": {
+      "sellerId": 912756,
+      "name": "Joanne Collins",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "B3"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.3187867983787,
+        53.321854411028
+      ]
+    },
+    "seoFriendlyPath": "/share/saint-agnes-terrace-crumlin-village-crumlin-dublin-12/6445540",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6445590,
+    "title": "Hollywoodrath Meadows, Hollystown, Dublin 15, Hollystown, Dublin 15",
+    "seoTitle": "Hollywoodrath Meadows, Hollystown, Dublin 15, Hollystown, Dublin 15",
+    "sections": [
+      "Property",
+      "Sharing",
+      "House"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1764582730929,
+    "price": "€1,100 per month",
+    "abbreviatedPrice": "€1,100",
+    "numBedrooms": "Double Room",
+    "propertyType": "House",
+    "daftShortcode": "36445590",
+    "seller": {
+      "sellerId": 6351934,
+      "name": "Private User",
+      "phone": "353870017848",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "A1"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.364803,
+        53.424126
+      ]
+    },
+    "seoFriendlyPath": "/share/hollywoodrath-meadows-hollystown-dublin-15-hollystown-dublin-15/6445590",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6445713,
+    "title": "Maspeth,Millview Road,Malahide,Co. Dublin K36 F306, Malahide, Co. Dublin",
+    "seoTitle": "Maspeth,Millview Road,Malahide,Co. Dublin K36 F306, Malahide, Co. Dublin",
+    "sections": [
+      "Property",
+      "Sharing",
+      "House"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1764890746003,
+    "price": "€300 per week",
+    "abbreviatedPrice": "€300",
+    "numBedrooms": "Twin Room",
+    "propertyType": "House",
+    "daftShortcode": "36445713",
+    "seller": {
+      "sellerId": 246045,
+      "name": "Jackie Campbell Twiss",
+      "phone": "353872860448",
+      "phoneWhenToCall": "anytime",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "C3"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.175382,
+        53.450276
+      ]
+    },
+    "seoFriendlyPath": "/share/maspeth-millview-road-malahide-co-dublin-k36-f306-malahide-co-dublin/6445713",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6445781,
+    "title": "Ballyboden Road,Rathfarnham,Dublin 16, Willbrook, Dublin 16",
+    "seoTitle": "Ballyboden Road,Rathfarnham,Dublin 16, Willbrook, Dublin 16",
+    "sections": [
+      "Property",
+      "Sharing",
+      "House"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1764772179054,
+    "price": "€1,200 per month",
+    "abbreviatedPrice": "€1,200",
+    "numBedrooms": "Double Room",
+    "propertyType": "House",
+    "daftShortcode": "36445781",
+    "seller": {
+      "sellerId": 5068020,
+      "name": "Arun Surepally",
+      "phone": "353899629005",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "SI_666"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.293644,
+        53.285438
+      ]
+    },
+    "seoFriendlyPath": "/share/ballyboden-road-rathfarnham-dublin-16-willbrook-dublin-16/6445781",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6446210,
+    "title": "Liffey Valley Park, Lucan, Co. Dublin, Lucan, Co. Dublin",
+    "seoTitle": "Liffey Valley Park, Lucan, Co. Dublin, Lucan, Co. Dublin",
+    "sections": [
+      "Property",
+      "Sharing",
+      "House"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1764663760248,
+    "price": "€800 per month",
+    "abbreviatedPrice": "€800",
+    "numBedrooms": "Double Room",
+    "propertyType": "House",
+    "daftShortcode": "36446210",
+    "seller": {
+      "sellerId": 2047324,
+      "name": "Siobhan",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "C3"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.413485,
+        53.352282
+      ]
+    },
+    "seoFriendlyPath": "/share/liffey-valley-park-lucan-co-dublin-lucan-co-dublin/6446210",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6446771,
+    "title": "26 Red Arches Drive, The Coast, Dublin 13, Baldoyle, Dublin 13",
+    "seoTitle": "26 Red Arches Drive, The Coast, Dublin 13, Baldoyle, Dublin 13",
+    "sections": [
+      "Property",
+      "Sharing",
+      "House"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1764822957144,
+    "price": "€850 per month",
+    "abbreviatedPrice": "€850",
+    "numBedrooms": "Double Room",
+    "propertyType": "House",
+    "daftShortcode": "36446771",
+    "seller": {
+      "sellerId": 1648694,
+      "name": "Paras Goel",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "B2"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.142976,
+        53.402021
+      ]
+    },
+    "seoFriendlyPath": "/share/26-red-arches-drive-the-coast-dublin-13-baldoyle-dublin-13/6446771",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6446839,
+    "title": "St Edmunds park,lucan, Lucan, Co. Dublin",
+    "seoTitle": "St Edmunds park,lucan, Lucan, Co. Dublin",
+    "sections": [
+      "Property",
+      "Sharing",
+      "Apartment"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1764955730765,
+    "price": "€850 per month",
+    "abbreviatedPrice": "€850",
+    "numBedrooms": "Double Room",
+    "propertyType": "Apartment",
+    "daftShortcode": "36446839",
+    "seller": {
+      "sellerId": 6451956,
+      "name": "Obioma Nduka",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "C1"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.4496506128227,
+        53.357423051448
+      ]
+    },
+    "seoFriendlyPath": "/share/st-edmunds-park-lucan-lucan-co-dublin/6446839",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6446870,
+    "title": "Parklands Place, Saggart, Co. Dublin",
+    "seoTitle": "Parklands Place, Saggart, Co. Dublin",
+    "sections": [
+      "Property",
+      "Sharing",
+      "House"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1764838329033,
+    "price": "€900 per month",
+    "abbreviatedPrice": "€900",
+    "numBedrooms": "Double Room",
+    "propertyType": "House",
+    "daftShortcode": "36446870",
+    "seller": {
+      "sellerId": 5273241,
+      "name": "Private User",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "A1"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.434929,
+        53.287264
+      ]
+    },
+    "seoFriendlyPath": "/share/parklands-place-saggart-co-dublin/6446870",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6446963,
+    "title": "326 Collins Avenue, Dublin 9, Beaumont, Dublin 9",
+    "seoTitle": "326 Collins Avenue, Dublin 9, Beaumont, Dublin 9",
+    "sections": [
+      "Property",
+      "Sharing",
+      "House"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1764663763203,
+    "price": "From €1,000 to €1,500 per month",
+    "abbreviatedPrice": "€1,000+",
+    "numBedrooms": "Single & Double Room",
+    "propertyType": "House",
+    "daftShortcode": "36446963",
+    "seller": {
+      "sellerId": 6176132,
+      "name": "carmel Hughes",
+      "phone": "353874181368",
+      "phoneWhenToCall": "11am-6pm",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "SI_666"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.236719,
+        53.380671
+      ]
+    },
+    "seoFriendlyPath": "/share/326-collins-avenue-dublin-9-beaumont-dublin-9/6446963",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6446995,
+    "title": "The Oslo, Park East, Sandyford Central, Sandyford , Stillorgan, Co. Dublin",
+    "seoTitle": "The Oslo, Park East, Sandyford Central, Sandyford , Stillorgan, Co. Dublin",
+    "sections": [
+      "Property",
+      "Sharing",
+      "Apartment"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1764966013627,
+    "price": "€1,446 per month",
+    "abbreviatedPrice": "€1,450",
+    "numBedrooms": "Double Room",
+    "propertyType": "Apartment",
+    "daftShortcode": "36446995",
+    "seller": {
+      "sellerId": 6581056,
+      "name": "Pawel",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "A3"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.212951,
+        53.278557
+      ]
+    },
+    "seoFriendlyPath": "/share/the-oslo-park-east-sandyford-central-sandyford-stillorgan-co-dublin/6446995",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6447522,
+    "title": "Highfield Park, 274 North Circular Road,Dublin 7, North Circular Road, Dublin 7",
+    "seoTitle": "Highfield Park, 274 North Circular Road,Dublin 7, North Circular Road, Dublin 7",
+    "sections": [
+      "Property",
+      "Sharing",
+      "Apartment"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1764958750558,
+    "price": "€320 per week",
+    "abbreviatedPrice": "€320",
+    "numBedrooms": "Single Room",
+    "propertyType": "Apartment",
+    "daftShortcode": "36447522",
+    "seller": {
+      "sellerId": 6569352,
+      "name": "Beatriz Verissimo de Sena",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "A1"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.278319,
+        53.358194
+      ]
+    },
+    "seoFriendlyPath": "/share/highfield-park-274-north-circular-road-dublin-7-north-circular-road-dublin-7/6447522",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6447773,
+    "title": "Charnwood, Clonsilla,Dublin 15, Clonsilla, Dublin 15",
+    "seoTitle": "Charnwood, Clonsilla,Dublin 15, Clonsilla, Dublin 15",
+    "sections": [
+      "Property",
+      "Sharing",
+      "House"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1764743772008,
+    "price": "€725 per month",
+    "abbreviatedPrice": "€730",
+    "numBedrooms": "Single Room",
+    "propertyType": "House",
+    "daftShortcode": "36447773",
+    "seller": {
+      "sellerId": 6038085,
+      "name": "Private User",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "C1"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.412728,
+        53.38564
+      ]
+    },
+    "seoFriendlyPath": "/share/charnwood-clonsilla-dublin-15-clonsilla-dublin-15/6447773",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6447781,
+    "title": "8th lock Ratoath Rd, Cabra West, Dublin, 11, Ashtown, Dublin 15",
+    "seoTitle": "8th lock Ratoath Rd, Cabra West, Dublin, 11, Ashtown, Dublin 15",
+    "sections": [
+      "Property",
+      "Sharing",
+      "Apartment"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1764954449509,
+    "price": "€1,300 per month",
+    "abbreviatedPrice": "€1,300",
+    "numBedrooms": "Double Room",
+    "propertyType": "Apartment",
+    "daftShortcode": "36447781",
+    "seller": {
+      "sellerId": 1007792,
+      "name": "HUGH",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "A1"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.3090152547376,
+        53.374938306797
+      ]
+    },
+    "seoFriendlyPath": "/share/8th-lock-ratoath-rd-cabra-west-dublin-11-ashtown-dublin-15/6447781",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6447785,
+    "title": "Citywest drive, citywest shopping centre D24, Citywest, Co. Dublin",
+    "seoTitle": "Citywest drive, citywest shopping centre D24, Citywest, Co. Dublin",
+    "sections": [
+      "Property",
+      "Sharing",
+      "Apartment"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1764743773047,
+    "price": "€1,300 per month",
+    "abbreviatedPrice": "€1,300",
+    "numBedrooms": "Double Room",
+    "propertyType": "Apartment",
+    "daftShortcode": "36447785",
+    "seller": {
+      "sellerId": 1694098,
+      "name": "SK",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "B3"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.423634,
+        53.281467
+      ]
+    },
+    "seoFriendlyPath": "/share/citywest-drive-citywest-shopping-centre-d24-citywest-co-dublin/6447785",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6447869,
+    "title": "1 Havelock Terrace, Dublin 4, Sandymount, Dublin 4",
+    "seoTitle": "1 Havelock Terrace, Dublin 4, Sandymount, Dublin 4",
+    "sections": [
+      "Property",
+      "Sharing",
+      "House"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1764922990063,
+    "price": "From €1,445 to €1,495 per month",
+    "abbreviatedPrice": "€1,450+",
+    "numBedrooms": "Double Room",
+    "propertyType": "House",
+    "daftShortcode": "36447869",
+    "seller": {
+      "sellerId": 6560143,
+      "name": "James Harper",
+      "phone": "353894831335",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "A3"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.229346,
+        53.336882
+      ]
+    },
+    "seoFriendlyPath": "/share/1-havelock-terrace-dublin-4-sandymount-dublin-4/6447869",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6448129,
+    "title": "Hampton Square, Navan Road, Dublin 7",
+    "seoTitle": "Hampton Square, Navan Road, Dublin 7",
+    "sections": [
+      "Property",
+      "Sharing",
+      "Apartment"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1764767803973,
+    "price": "€975 per month",
+    "abbreviatedPrice": "€980",
+    "numBedrooms": "Double Room",
+    "propertyType": "Apartment",
+    "daftShortcode": "36448129",
+    "seller": {
+      "sellerId": 5966540,
+      "name": "Email Only",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "A3"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.3018302700998,
+        53.361644905229
+      ]
+    },
+    "seoFriendlyPath": "/share/hampton-square-navan-road-dublin-7/6448129",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6448391,
+    "title": " Raheen Park,Dublin 10, Cherry Orchard, Dublin 22",
+    "seoTitle": " Raheen Park,Dublin 10, Cherry Orchard, Dublin 22",
+    "sections": [
+      "Property",
+      "Sharing",
+      "House"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1764850711627,
+    "price": "€1,000 per month",
+    "abbreviatedPrice": "€1,000",
+    "numBedrooms": "Double Room",
+    "propertyType": "House",
+    "daftShortcode": "36448391",
+    "seller": {
+      "sellerId": 914248,
+      "name": "jenny dam",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "B2"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.360677,
+        53.336507
+      ]
+    },
+    "seoFriendlyPath": "/share/-raheen-park-dublin-10-cherry-orchard-dublin-22/6448391",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6448456,
+    "title": "26 Castlecourt, Dublin 3, Clontarf, Dublin 3",
+    "seoTitle": "26 Castlecourt, Dublin 3, Clontarf, Dublin 3",
+    "sections": [
+      "Property",
+      "Sharing",
+      "House"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1764850711852,
+    "price": "€1,250 per month",
+    "abbreviatedPrice": "€1,250",
+    "numBedrooms": "Single Room",
+    "propertyType": "House",
+    "daftShortcode": "36448456",
+    "seller": {
+      "sellerId": 1864000,
+      "name": "yvonne owens",
+      "phone": "353894808425",
+      "phoneWhenToCall": "Anytime",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "C3"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.21577,
+        53.368669
+      ]
+    },
+    "seoFriendlyPath": "/share/26-castlecourt-dublin-3-clontarf-dublin-3/6448456",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6448898,
+    "title": "Dublin Castle, Dublin 2",
+    "seoTitle": "Dublin Castle, Dublin 2",
+    "sections": [
+      "Property",
+      "Sharing",
+      "Apartment",
+      "Flat"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1764926344204,
+    "price": "€1,250 per month",
+    "abbreviatedPrice": "€1,250",
+    "numBedrooms": "Single Room",
+    "propertyType": "Apartment",
+    "daftShortcode": "36448898",
+    "seller": {
+      "sellerId": 6120667,
+      "name": "Private User",
+      "phone": "353896582682",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "SI_666"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.26828,
+        53.34365
+      ]
+    },
+    "seoFriendlyPath": "/share/dublin-castle-dublin-2/6448898",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6448961,
+    "title": "Aungier Street, Dublin 2",
+    "seoTitle": "Aungier Street, Dublin 2",
+    "sections": [
+      "Property",
+      "Sharing",
+      "Apartment"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1764850713180,
+    "price": "€1,200 per month",
+    "abbreviatedPrice": "€1,200",
+    "numBedrooms": "Double Room",
+    "propertyType": "Apartment",
+    "daftShortcode": "36448961",
+    "seller": {
+      "sellerId": 734933,
+      "name": "Douglas",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "A3"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.2657812634033,
+        53.340139649038
+      ]
+    },
+    "seoFriendlyPath": "/share/aungier-street-dublin-2/6448961",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6449116,
+    "title": "69 Mangerton Road, Dublin 12, Drimnagh, Dublin 12",
+    "seoTitle": "69 Mangerton Road, Dublin 12, Drimnagh, Dublin 12",
+    "sections": [
+      "Property",
+      "Sharing",
+      "House"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1764926344702,
+    "price": "€750 per month",
+    "abbreviatedPrice": "€750",
+    "numBedrooms": "Double Room",
+    "propertyType": "House",
+    "daftShortcode": "36449116",
+    "seller": {
+      "sellerId": 291116,
+      "name": "Rita Airlie",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "C1"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.328614,
+        53.327207
+      ]
+    },
+    "seoFriendlyPath": "/share/69-mangerton-road-dublin-12-drimnagh-dublin-12/6449116",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6449211,
+    "title": "27 Kilmore Avenue, Dublin 5, Kilmore, Dublin 5",
+    "seoTitle": "27 Kilmore Avenue, Dublin 5, Kilmore, Dublin 5",
+    "sections": [
+      "Property",
+      "Sharing",
+      "House"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1764926344667,
+    "price": "€170 per week",
+    "abbreviatedPrice": "€170",
+    "numBedrooms": "Shared Room",
+    "propertyType": "House",
+    "daftShortcode": "36449211",
+    "seller": {
+      "sellerId": 1800033,
+      "name": "Hello Ireland Student Accommodation",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "B1"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.213076,
+        53.391976
+      ]
+    },
+    "seoFriendlyPath": "/share/27-kilmore-avenue-dublin-5-kilmore-dublin-5/6449211",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6450463,
+    "title": "Burlington Road, Ballsbridge, Dublin 4",
+    "seoTitle": "Burlington Road, Ballsbridge, Dublin 4",
+    "sections": [
+      "Property",
+      "Sharing",
+      "Apartment"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1764955342673,
+    "price": "€1,800 per month",
+    "abbreviatedPrice": "€1,800",
+    "numBedrooms": "Double Room",
+    "propertyType": "Apartment",
+    "daftShortcode": "36450463",
+    "seller": {
+      "sellerId": 1692944,
+      "name": "John Anthony",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "C1"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.2463797,
+        53.3312739
+      ]
+    },
+    "seoFriendlyPath": "/share/burlington-road-ballsbridge-dublin-4/6450463",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6450614,
+    "title": "Castlegate Park, Adamstown, Adamstown, Co. Dublin",
+    "seoTitle": "Castlegate Park, Adamstown, Adamstown, Co. Dublin",
+    "sections": [
+      "Property",
+      "Sharing",
+      "House"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1764979200000,
+    "price": "From €680 to €930 per month",
+    "abbreviatedPrice": "€680+",
+    "numBedrooms": "Single & Double Room",
+    "propertyType": "House",
+    "daftShortcode": "36450614",
+    "seller": {
+      "sellerId": 100319,
+      "name": "Brendan",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "A3"
+    },
+    "platform": "DAPI-ANDROID",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.4554139226675,
+        53.337615212689
+      ]
+    },
+    "seoFriendlyPath": "/share/castlegate-park-adamstown-adamstown-co-dublin/6450614",
     "category": "Share",
     "state": "PUBLISHED",
     "premierPartner": false
