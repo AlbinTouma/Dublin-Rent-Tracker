@@ -19528,6 +19528,52 @@
     "premierPartner": false
   },
   {
+    "id": 6304054,
+    "title": "The Avenue, Saint Marnock's Bay, Portmarnock, C, Portmarnock, Co. Dublin",
+    "seoTitle": "The Avenue, Saint Marnock's Bay, Portmarnock, C, Portmarnock, Co. Dublin",
+    "sections": [
+      "Property",
+      "Sharing",
+      "House"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1765058133666,
+    "price": "€1,600 per month",
+    "abbreviatedPrice": "€1,600",
+    "numBedrooms": "Double Room",
+    "propertyType": "House",
+    "daftShortcode": "36304054",
+    "seller": {
+      "sellerId": 5008335,
+      "name": "Simi Ogunsola",
+      "phone": "353894333361",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "A2"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.149702,
+        53.41782
+      ]
+    },
+    "seoFriendlyPath": "/share/77-the-avenue-saint-marnocks-bay-portmarnock-c-portmarnock-co-dublin/6304054",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
     "id": 6304104,
     "title": "Esker Meadows Green, Lucan, Co. Dublin",
     "seoTitle": "Esker Meadows Green, Lucan, Co. Dublin",
@@ -66567,6 +66613,97 @@
       ]
     },
     "seoFriendlyPath": "/share/castlegate-park-adamstown-adamstown-co-dublin/6450614",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6450663,
+    "title": "Hampton Wood Green,Hampton Wood,Dublin 11, Poppintree, Dublin 11",
+    "seoTitle": "Hampton Wood Green,Hampton Wood,Dublin 11, Poppintree, Dublin 11",
+    "sections": [
+      "Property",
+      "Sharing",
+      "Apartment"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1765023963701,
+    "price": "€930 per month",
+    "abbreviatedPrice": "€930",
+    "numBedrooms": "Double Room",
+    "propertyType": "Apartment",
+    "daftShortcode": "36450663",
+    "seller": {
+      "sellerId": 6583890,
+      "name": "Agatha Kelly",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "C1"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.289118,
+        53.404695
+      ]
+    },
+    "seoFriendlyPath": "/share/hampton-wood-green-hampton-wood-dublin-11-poppintree-dublin-11/6450663",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6450726,
+    "title": "12 Clare Street, Dublin 2, Dublin 2",
+    "seoTitle": "12 Clare Street, Dublin 2, Dublin 2",
+    "sections": [
+      "Property",
+      "Sharing",
+      "House"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1764979200000,
+    "price": "From €850 to €1,290 per month",
+    "abbreviatedPrice": "€850+",
+    "numBedrooms": "Double & Twin Room",
+    "propertyType": "House",
+    "daftShortcode": "36450726",
+    "seller": {
+      "sellerId": 535306,
+      "name": "Dermot O'Connor",
+      "phone": "353863711578",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "B1"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.25114,
+        53.341433
+      ]
+    },
+    "seoFriendlyPath": "/share/12-clare-street-dublin-2-dublin-2/6450726",
     "category": "Share",
     "state": "PUBLISHED",
     "premierPartner": false
