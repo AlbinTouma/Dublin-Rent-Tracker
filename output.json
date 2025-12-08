@@ -59810,6 +59810,51 @@
     "premierPartner": false
   },
   {
+    "id": 6336457,
+    "title": "Cromwellsfort Road, Walkinstown, Dublin 12, Walkinstown, Dublin 12",
+    "seoTitle": "Cromwellsfort Road, Walkinstown, Dublin 12, Walkinstown, Dublin 12",
+    "sections": [
+      "Property",
+      "Sharing",
+      "House"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1765097100494,
+    "price": "€740 per month",
+    "abbreviatedPrice": "€740",
+    "numBedrooms": "Single Room",
+    "propertyType": "House",
+    "daftShortcode": "36336457",
+    "seller": {
+      "sellerId": 1539645,
+      "name": "Walkinstown House",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "C3"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.3216729213525,
+        53.31663945796
+      ]
+    },
+    "seoFriendlyPath": "/share/cromwellsfort-road-walkinstown-dublin-12-walkinstown-dublin-12/6336457",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
     "id": 6336523,
     "title": "Bridgefield Apartments, Northwood Avenue, Northwood, Dublin 9",
     "seoTitle": "Bridgefield Apartments, Northwood Avenue, Northwood, Dublin 9",
@@ -66704,6 +66749,98 @@
       ]
     },
     "seoFriendlyPath": "/share/12-clare-street-dublin-2-dublin-2/6450726",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6450843,
+    "title": "30 Glasilawn Road, Dublin 11, Finglas, Dublin 11",
+    "seoTitle": "30 Glasilawn Road, Dublin 11, Finglas, Dublin 11",
+    "sections": [
+      "Property",
+      "Sharing",
+      "House"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1765129224547,
+    "price": "From €549 to €799 per month",
+    "abbreviatedPrice": "€550+",
+    "numBedrooms": "Single & Double Room",
+    "propertyType": "House",
+    "daftShortcode": "36450843",
+    "seller": {
+      "sellerId": 5242079,
+      "name": "Sujeer Thayyil",
+      "phone": "353899734131",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "C3"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.278278,
+        53.379993
+      ]
+    },
+    "seoFriendlyPath": "/share/30-glasilawn-road-dublin-11-finglas-dublin-11/6450843",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6450965,
+    "title": "Avalon, River Road, Dublin 15, Castleknock, Dublin 15",
+    "seoTitle": "Avalon, River Road, Dublin 15, Castleknock, Dublin 15",
+    "sections": [
+      "Property",
+      "Sharing",
+      "House"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1765139178536,
+    "price": "€1,095 per month",
+    "abbreviatedPrice": "€1,100",
+    "numBedrooms": "Double Room",
+    "propertyType": "House",
+    "daftShortcode": "36450965",
+    "seller": {
+      "sellerId": 5584247,
+      "name": "James Harper",
+      "phone": "353899724889",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "A2"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.370796,
+        53.385392
+      ]
+    },
+    "seoFriendlyPath": "/share/avalon-river-road-dublin-15-castleknock-dublin-15/6450965",
     "category": "Share",
     "state": "PUBLISHED",
     "premierPartner": false
