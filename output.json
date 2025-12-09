@@ -61259,6 +61259,51 @@
     "premierPartner": false
   },
   {
+    "id": 6341942,
+    "title": "Taylors Hill, Dublin 16, Ballinteer, Dublin 16",
+    "seoTitle": "Taylors Hill, Dublin 16, Ballinteer, Dublin 16",
+    "sections": [
+      "Property",
+      "Sharing",
+      "Apartment"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1765221812134,
+    "price": "€1,150 per month",
+    "abbreviatedPrice": "€1,150",
+    "numBedrooms": "Double Room",
+    "propertyType": "Apartment",
+    "daftShortcode": "36341942",
+    "seller": {
+      "sellerId": 6535875,
+      "name": "Daniel Collins",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "B3"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.262951,
+        53.269114
+      ]
+    },
+    "seoFriendlyPath": "/share/apartment-19-marlay-house-taylors-hill-dublin-1-ballinteer-dublin-16/6341942",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
     "id": 6341988,
     "title": "9 Ardbeg Crescent, Dublin 5, Artane, Dublin 5",
     "seoTitle": "9 Ardbeg Crescent, Dublin 5, Artane, Dublin 5",
@@ -66841,6 +66886,233 @@
       ]
     },
     "seoFriendlyPath": "/share/avalon-river-road-dublin-15-castleknock-dublin-15/6450965",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6451090,
+    "title": " Bayside Sutton,Co. Dublin, Bayside, Dublin 13",
+    "seoTitle": " Bayside Sutton,Co. Dublin, Bayside, Dublin 13",
+    "sections": [
+      "Property",
+      "Sharing",
+      "House"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1765223950032,
+    "price": "€150 per week",
+    "abbreviatedPrice": "€150",
+    "numBedrooms": "Twin Room",
+    "propertyType": "House",
+    "daftShortcode": "36451090",
+    "seller": {
+      "sellerId": 1816334,
+      "name": "Sonya Carroll",
+      "phone": "353863958284",
+      "phoneWhenToCall": "Any day please text me on Whatsapp on 0863958284, thank you",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": false,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "C1"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.140009,
+        53.391388
+      ]
+    },
+    "seoFriendlyPath": "/share/-bayside-sutton-co-dublin-bayside-dublin-13/6451090",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6451306,
+    "title": "Rivendell, 2 Avondale Crescent, Killiney, Dalkey, Co. Dublin",
+    "seoTitle": "Rivendell, 2 Avondale Crescent, Killiney, Dalkey, Co. Dublin",
+    "sections": [
+      "Property",
+      "Sharing",
+      "House"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1765223950548,
+    "price": "€950 per month",
+    "abbreviatedPrice": "€950",
+    "numBedrooms": "Double Room",
+    "propertyType": "House",
+    "daftShortcode": "36451306",
+    "seller": {
+      "sellerId": 5579943,
+      "name": " Wendy Cameron",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "D2"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.122924,
+        53.272636
+      ]
+    },
+    "seoFriendlyPath": "/share/rivendell-2-avondale-crescent-killiney-dalkey-co-dublin/6451306",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6451381,
+    "title": "66a/66b North Strand Road,Dublin 3, Ballybough, Dublin 3",
+    "seoTitle": "66a/66b North Strand Road,Dublin 3, Ballybough, Dublin 3",
+    "sections": [
+      "Property",
+      "Sharing",
+      "Apartment"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1765223950388,
+    "price": "€875 per month",
+    "abbreviatedPrice": "€880",
+    "numBedrooms": "Single Room",
+    "propertyType": "Apartment",
+    "daftShortcode": "36451381",
+    "seller": {
+      "sellerId": 6017049,
+      "name": "Private User",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "A2"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.240965,
+        53.359125
+      ]
+    },
+    "seoFriendlyPath": "/share/66a-66b-north-strand-road-dublin-3-ballybough-dublin-3/6451381",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6451865,
+    "title": "Allen Park Road,Stillorgan,Blackrock,Co. Dublin, Stillorgan, Co. Dublin",
+    "seoTitle": "Allen Park Road,Stillorgan,Blackrock,Co. Dublin, Stillorgan, Co. Dublin",
+    "sections": [
+      "Property",
+      "Sharing",
+      "House"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1765239020284,
+    "price": "€1,050 per month",
+    "abbreviatedPrice": "€1,050",
+    "numBedrooms": "Double Room",
+    "propertyType": "House",
+    "daftShortcode": "36451865",
+    "seller": {
+      "sellerId": 1524859,
+      "name": "SK",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "C2"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.200017,
+        53.284961
+      ]
+    },
+    "seoFriendlyPath": "/share/allen-park-road-stillorgan-blackrock-co-dublin-stillorgan-co-dublin/6451865",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6451874,
+    "title": " Limekiln Green,Dublin 12, Greenhills, Dublin 12",
+    "seoTitle": " Limekiln Green,Dublin 12, Greenhills, Dublin 12",
+    "sections": [
+      "Property",
+      "Sharing",
+      "House"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1765240534342,
+    "price": "From €1,000 to €1,200 per month",
+    "abbreviatedPrice": "€1,000+",
+    "numBedrooms": "Double Room",
+    "propertyType": "House",
+    "daftShortcode": "36451874",
+    "seller": {
+      "sellerId": 914248,
+      "name": "JJD",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "B2"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.336789,
+        53.306188
+      ]
+    },
+    "seoFriendlyPath": "/share/-limekiln-green-dublin-12-greenhills-dublin-12/6451874",
     "category": "Share",
     "state": "PUBLISHED",
     "premierPartner": false
