@@ -65075,6 +65075,51 @@
     "premierPartner": false
   },
   {
+    "id": 6441826,
+    "title": "Kilbarrack Road,Dublin 5, Kilbarrack, Dublin 5",
+    "seoTitle": "Kilbarrack Road,Dublin 5, Kilbarrack, Dublin 5",
+    "sections": [
+      "Property",
+      "Sharing",
+      "House"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1765317421748,
+    "price": "€750 per month",
+    "abbreviatedPrice": "€750",
+    "numBedrooms": "Single Room",
+    "propertyType": "House",
+    "daftShortcode": "36441826",
+    "seller": {
+      "sellerId": 6576876,
+      "name": "Private User",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "C3"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.15646,
+        53.389841
+      ]
+    },
+    "seoFriendlyPath": "/share/kilbarrack-road-dublin-5-kilbarrack-dublin-5/6441826",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
     "id": 6442134,
     "title": "Weston, 17 Kill Avenue, Dun Laoghaire, Monkstown, Co. Dublin",
     "seoTitle": "Weston, 17 Kill Avenue, Dun Laoghaire, Monkstown, Co. Dublin",
@@ -65251,6 +65296,51 @@
       ]
     },
     "seoFriendlyPath": "/share/inchicore-dublin-8-inchicore-dublin-8/6443348",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6444117,
+    "title": "Dublin 12 , Ballyfermot, Dublin 10",
+    "seoTitle": "Dublin 12 , Ballyfermot, Dublin 10",
+    "sections": [
+      "Property",
+      "Sharing",
+      "House"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1765309562726,
+    "price": "€1,150 per month",
+    "abbreviatedPrice": "€1,150",
+    "numBedrooms": "Double Room",
+    "propertyType": "House",
+    "daftShortcode": "36444117",
+    "seller": {
+      "sellerId": 1295927,
+      "name": "barry mchugh",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "A3"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.357041,
+        53.343191
+      ]
+    },
+    "seoFriendlyPath": "/share/dublin-12-ballyfermot-dublin-10/6444117",
     "category": "Share",
     "state": "PUBLISHED",
     "premierPartner": false
@@ -67113,6 +67203,142 @@
       ]
     },
     "seoFriendlyPath": "/share/-limekiln-green-dublin-12-greenhills-dublin-12/6451874",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6451918,
+    "title": "Swords Road, malahide , Malahide, Co. Dublin",
+    "seoTitle": "Swords Road, malahide , Malahide, Co. Dublin",
+    "sections": [
+      "Property",
+      "Sharing",
+      "House"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1765294545453,
+    "price": "€1,200 per month",
+    "abbreviatedPrice": "€1,200",
+    "numBedrooms": "Double Room",
+    "propertyType": "House",
+    "daftShortcode": "36451918",
+    "seller": {
+      "sellerId": 6217874,
+      "name": "Private User",
+      "phone": "353892338317",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "A3"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.18666,
+        53.450152
+      ]
+    },
+    "seoFriendlyPath": "/share/swords-road-malahide-malahide-co-dublin/6451918",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6452261,
+    "title": "Saint Brendan's Park, Dublin 5, Artane, Dublin 5",
+    "seoTitle": "Saint Brendan's Park, Dublin 5, Artane, Dublin 5",
+    "sections": [
+      "Property",
+      "Sharing",
+      "House"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1765294545066,
+    "price": "From €750 to €875 per month",
+    "abbreviatedPrice": "€750+",
+    "numBedrooms": "Single & Double Room",
+    "propertyType": "House",
+    "daftShortcode": "36452261",
+    "seller": {
+      "sellerId": 1950441,
+      "name": "Marina",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "D1"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.198167,
+        53.388179
+      ]
+    },
+    "seoFriendlyPath": "/share/saint-brendans-park-dublin-5-artane-dublin-5/6452261",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6452296,
+    "title": "Beechwood Avenue Lower,Dublin 6, Ranelagh, Dublin 6",
+    "seoTitle": "Beechwood Avenue Lower,Dublin 6, Ranelagh, Dublin 6",
+    "sections": [
+      "Property",
+      "Sharing",
+      "House"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1765324800000,
+    "price": "From €1,200 to €1,250 per month",
+    "abbreviatedPrice": "€1,200+",
+    "numBedrooms": "Double Room",
+    "propertyType": "House",
+    "daftShortcode": "36452296",
+    "seller": {
+      "sellerId": 5407286,
+      "name": "Ronan",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "SI_666"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.254418,
+        53.323535
+      ]
+    },
+    "seoFriendlyPath": "/share/beechwood-avenue-lower-dublin-6-ranelagh-dublin-6/6452296",
     "category": "Share",
     "state": "PUBLISHED",
     "premierPartner": false
