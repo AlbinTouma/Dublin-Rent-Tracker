@@ -66343,6 +66343,51 @@
     "premierPartner": false
   },
   {
+    "id": 6447851,
+    "title": "Dublin Castle, Dublin City Centre",
+    "seoTitle": "Dublin Castle, Dublin City Centre",
+    "sections": [
+      "Property",
+      "Sharing",
+      "Apartment"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1765351708770,
+    "price": "€925 per month",
+    "abbreviatedPrice": "€930",
+    "numBedrooms": "Double Room",
+    "propertyType": "Apartment",
+    "daftShortcode": "36447851",
+    "seller": {
+      "sellerId": 1343297,
+      "name": "Dublintwo",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "SI_666"
+    },
+    "platform": "DAPI-IPHONE",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.26828,
+        53.34365
+      ]
+    },
+    "seoFriendlyPath": "/share/dublin-castle-dublin-city-centre/6447851",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
     "id": 6447869,
     "title": "1 Havelock Terrace, Dublin 4, Sandymount, Dublin 4",
     "seoTitle": "1 Havelock Terrace, Dublin 4, Sandymount, Dublin 4",
@@ -67339,6 +67384,232 @@
       ]
     },
     "seoFriendlyPath": "/share/beechwood-avenue-lower-dublin-6-ranelagh-dublin-6/6452296",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6452814,
+    "title": "**STUDENT ACCOMMODATION** - Kilmore & Cill Dara Houses, Reach Campus, Navan Road, D07 KNV3, Navan Road (D7), Co. Dublin",
+    "seoTitle": "**STUDENT ACCOMMODATION** - Kilmore & Cill Dara Houses, Reach Campus, Navan Road, D07 KNV3, Navan Road (D7), Co. Dublin",
+    "sections": [
+      "Sharing",
+      "Property",
+      "House"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1765362789245,
+    "price": "From €190 to €265 per week",
+    "abbreviatedPrice": "€190+",
+    "numBedrooms": "Single & Twin Room",
+    "propertyType": "Property",
+    "daftShortcode": "36452814",
+    "seller": {
+      "sellerId": 5922015,
+      "name": "Private User",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "SI_666"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.306022,
+        53.364749
+      ]
+    },
+    "seoFriendlyPath": "/share/-student-accommodation-kilmore-cill-dara-houses-reach-campus-navan-road-d07-knv3-navan-road-d7-dublin-7/6452814",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6452825,
+    "title": "57 Blasket Square, Waterville, Dublin 15, Ballycoolin, Dublin 15",
+    "seoTitle": "57 Blasket Square, Waterville, Dublin 15, Ballycoolin, Dublin 15",
+    "sections": [
+      "Property",
+      "Sharing",
+      "House"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1765363715318,
+    "price": "€950 per month",
+    "abbreviatedPrice": "€950",
+    "numBedrooms": "Single Room",
+    "propertyType": "House",
+    "daftShortcode": "36452825",
+    "seller": {
+      "sellerId": 637758,
+      "name": "tony hearty",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "B2"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.374766,
+        53.39406
+      ]
+    },
+    "seoFriendlyPath": "/share/57-blasket-square-waterville-dublin-15-ballycoolin-dublin-15/6452825",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6453021,
+    "title": "Cromwellsfort Road,Dublin 12, Walkinstown, Dublin 12",
+    "seoTitle": "Cromwellsfort Road,Dublin 12, Walkinstown, Dublin 12",
+    "sections": [
+      "Property",
+      "Sharing",
+      "House"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1765373214347,
+    "price": "From €1,100 to €1,200 per month",
+    "abbreviatedPrice": "€1,100+",
+    "numBedrooms": "Double Room",
+    "propertyType": "House",
+    "daftShortcode": "36453021",
+    "seller": {
+      "sellerId": 6155953,
+      "name": "JNS propertymanagement",
+      "phone": "353833562813",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "SI_666"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.32843,
+        53.316855
+      ]
+    },
+    "seoFriendlyPath": "/share/cromwellsfort-road-dublin-12-walkinstown-co-dublin/6453021",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6453171,
+    "title": "Clonard, Dundrum, Dublin 14, Dundrum, Dublin 14",
+    "seoTitle": "Clonard, Dundrum, Dublin 14, Dundrum, Dublin 14",
+    "sections": [
+      "Property",
+      "Sharing",
+      "House"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1765383652209,
+    "price": "€560 per month",
+    "abbreviatedPrice": "€560",
+    "numBedrooms": "Double Room",
+    "propertyType": "House",
+    "daftShortcode": "36453171",
+    "seller": {
+      "sellerId": 1669048,
+      "name": "BS",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "B2"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.2336078879389,
+        53.277008800149
+      ]
+    },
+    "seoFriendlyPath": "/share/clonard-dundrum-dublin-14-dundrum-dublin-14/6453171",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6453456,
+    "title": "63 Mayeston Square, Mayeston Hall, Finglas, Dublin 11",
+    "seoTitle": "63 Mayeston Square, Mayeston Hall, Finglas, Dublin 11",
+    "sections": [
+      "Property",
+      "Sharing",
+      "Apartment"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1765403085131,
+    "price": "€920 per month",
+    "abbreviatedPrice": "€920",
+    "numBedrooms": "Double Room",
+    "propertyType": "Apartment",
+    "daftShortcode": "36453456",
+    "seller": {
+      "sellerId": 769187,
+      "name": "David Kelleher",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "C1"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.2889805,
+        53.4075241
+      ]
+    },
+    "seoFriendlyPath": "/share/63-mayeston-square-mayeston-hall-finglas-dublin-11/6453456",
     "category": "Share",
     "state": "PUBLISHED",
     "premierPartner": false
