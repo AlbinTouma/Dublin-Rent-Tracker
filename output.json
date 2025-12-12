@@ -66663,6 +66663,52 @@
     "premierPartner": false
   },
   {
+    "id": 6448978,
+    "title": "Dursey Row, Blanchardstown, Dublin 15",
+    "seoTitle": "Dursey Row, Blanchardstown, Dublin 15",
+    "sections": [
+      "Property",
+      "Sharing",
+      "House"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1765490733269,
+    "price": "€1,150 per month",
+    "abbreviatedPrice": "€1,150",
+    "numBedrooms": "Double Room",
+    "propertyType": "House",
+    "daftShortcode": "36448978",
+    "seller": {
+      "sellerId": 214704,
+      "name": "Julie",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "B2",
+      "code": "665987956"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.3709489905751,
+        53.394585838548
+      ]
+    },
+    "seoFriendlyPath": "/share/dursey-row-blanchardstown-dublin-15/6448978",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
     "id": 6449116,
     "title": "69 Mangerton Road, Dublin 12, Drimnagh, Dublin 12",
     "seoTitle": "69 Mangerton Road, Dublin 12, Drimnagh, Dublin 12",
@@ -67389,6 +67435,51 @@
     "premierPartner": false
   },
   {
+    "id": 6452598,
+    "title": "Whitehall, Dublin 9, Whitehall, Dublin 9",
+    "seoTitle": "Whitehall, Dublin 9, Whitehall, Dublin 9",
+    "sections": [
+      "Property",
+      "Sharing",
+      "House"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1765464740299,
+    "price": "€900 per month",
+    "abbreviatedPrice": "€900",
+    "numBedrooms": "Double Room",
+    "propertyType": "House",
+    "daftShortcode": "36452598",
+    "seller": {
+      "sellerId": 5952089,
+      "name": "Georgina",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "SI_666"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.25118,
+        53.385661
+      ]
+    },
+    "seoFriendlyPath": "/share/whitehall-dublin-9-whitehall-dublin-9/6452598",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
     "id": 6452814,
     "title": "**STUDENT ACCOMMODATION** - Kilmore & Cill Dara Houses, Reach Campus, Navan Road, D07 KNV3, Navan Road (D7), Co. Dublin",
     "seoTitle": "**STUDENT ACCOMMODATION** - Kilmore & Cill Dara Houses, Reach Campus, Navan Road, D07 KNV3, Navan Road (D7), Co. Dublin",
@@ -67474,6 +67565,52 @@
       ]
     },
     "seoFriendlyPath": "/share/57-blasket-square-waterville-dublin-15-ballycoolin-dublin-15/6452825",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6452944,
+    "title": "7 Cromcastle Road, Dublin 5, Kilmore, Dublin 5",
+    "seoTitle": "7 Cromcastle Road, Dublin 5, Kilmore, Dublin 5",
+    "sections": [
+      "Property",
+      "Sharing",
+      "House"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1765443913330,
+    "price": "€1,000 per month",
+    "abbreviatedPrice": "€1,000",
+    "numBedrooms": "Double Room",
+    "propertyType": "House",
+    "daftShortcode": "36452944",
+    "seller": {
+      "sellerId": 5899052,
+      "name": "Private User",
+      "phone": "353832094087",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "A1"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.216168,
+        53.394631
+      ]
+    },
+    "seoFriendlyPath": "/share/7-cromcastle-road-dublin-5-kilmore-dublin-5/6452944",
     "category": "Share",
     "state": "PUBLISHED",
     "premierPartner": false
@@ -67610,6 +67747,98 @@
       ]
     },
     "seoFriendlyPath": "/share/63-mayeston-square-mayeston-hall-finglas-dublin-11/6453456",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6453624,
+    "title": "The Park, Larch Hill, Dublin 17, Kilmore, Dublin 5",
+    "seoTitle": "The Park, Larch Hill, Dublin 17, Kilmore, Dublin 5",
+    "sections": [
+      "Property",
+      "Sharing",
+      "Apartment"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1765455030253,
+    "price": "€895 per month",
+    "abbreviatedPrice": "€900",
+    "numBedrooms": "Double Room",
+    "propertyType": "Apartment",
+    "daftShortcode": "36453624",
+    "seller": {
+      "sellerId": 5960207,
+      "name": "Paschal",
+      "phone": "353894996928",
+      "phoneWhenToCall": "Anytime",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "C1"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.227925,
+        53.400337
+      ]
+    },
+    "seoFriendlyPath": "/share/the-park-larch-hill-dublin-17-kilmore-dublin-5/6453624",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6453784,
+    "title": "Limelawn Wood, Clonsilla, Dublin 15, Clonsilla, Dublin 15",
+    "seoTitle": "Limelawn Wood, Clonsilla, Dublin 15, Clonsilla, Dublin 15",
+    "sections": [
+      "Property",
+      "Sharing",
+      "House"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1765456825352,
+    "price": "€950 per month",
+    "abbreviatedPrice": "€950",
+    "numBedrooms": "Double Room",
+    "propertyType": "House",
+    "daftShortcode": "36453784",
+    "seller": {
+      "sellerId": 6040594,
+      "name": "Hasif",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "A1"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.40478,
+        53.384907
+      ]
+    },
+    "seoFriendlyPath": "/share/limelawn-wood-clonsilla-dublin-15-clonsilla-dublin-15/6453784",
     "category": "Share",
     "state": "PUBLISHED",
     "premierPartner": false
