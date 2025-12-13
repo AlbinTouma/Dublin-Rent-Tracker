@@ -67435,6 +67435,52 @@
     "premierPartner": false
   },
   {
+    "id": 6452397,
+    "title": "28 Brookwood Avenue, Dublin 5, Killester, Dublin 5",
+    "seoTitle": "28 Brookwood Avenue, Dublin 5, Killester, Dublin 5",
+    "sections": [
+      "Property",
+      "Sharing",
+      "House"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1765560259780,
+    "price": "€954 per month",
+    "abbreviatedPrice": "€950",
+    "numBedrooms": "Single Room",
+    "propertyType": "House",
+    "daftShortcode": "36452397",
+    "seller": {
+      "sellerId": 328557,
+      "name": "SOREN MADSEN",
+      "phone": "353861543067",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "C1"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.201989,
+        53.38088
+      ]
+    },
+    "seoFriendlyPath": "/share/28-brookwood-avenue-dublin-5-killester-dublin-5/6452397",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
     "id": 6452598,
     "title": "Whitehall, Dublin 9, Whitehall, Dublin 9",
     "seoTitle": "Whitehall, Dublin 9, Whitehall, Dublin 9",
@@ -67839,6 +67885,144 @@
       ]
     },
     "seoFriendlyPath": "/share/limelawn-wood-clonsilla-dublin-15-clonsilla-dublin-15/6453784",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6454250,
+    "title": "Parklands Estate, Citywest, Saggart , Citywest, Co. Dublin",
+    "seoTitle": "Parklands Estate, Citywest, Saggart , Citywest, Co. Dublin",
+    "sections": [
+      "Property",
+      "Sharing",
+      "House"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1765560337603,
+    "price": "From €990 to €995 per month",
+    "abbreviatedPrice": "€990+",
+    "numBedrooms": "Double Room",
+    "propertyType": "House",
+    "daftShortcode": "36454250",
+    "seller": {
+      "sellerId": 1673630,
+      "name": "clinton okike",
+      "phone": "353873874505",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "A2"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.439158,
+        53.287956
+      ]
+    },
+    "seoFriendlyPath": "/share/parklands-estate-citywest-saggart-citywest-co-dublin/6454250",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6454619,
+    "title": "Palmerstown,Dublin 20, Palmerstown, Dublin 20",
+    "seoTitle": "Palmerstown,Dublin 20, Palmerstown, Dublin 20",
+    "sections": [
+      "Property",
+      "Sharing",
+      "House"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1765562639228,
+    "price": "€1,000 per month",
+    "abbreviatedPrice": "€1,000",
+    "numBedrooms": "Double Room",
+    "propertyType": "House",
+    "daftShortcode": "36454619",
+    "seller": {
+      "sellerId": 1555659,
+      "name": "Daniel",
+      "phone": "353852099522",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "B3"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.374557,
+        53.35253
+      ]
+    },
+    "seoFriendlyPath": "/share/palmerstown-dublin-20-palmerstown-dublin-20/6454619",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6454635,
+    "title": "U Clonsilla, Windmill Place,Dublin 15, Porterstown, Dublin 15",
+    "seoTitle": "U Clonsilla, Windmill Place,Dublin 15, Porterstown, Dublin 15",
+    "sections": [
+      "Property",
+      "Sharing",
+      "Apartment"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1765567108250,
+    "price": "€1,400 per month",
+    "abbreviatedPrice": "€1,400",
+    "numBedrooms": "Double Room",
+    "propertyType": "Apartment",
+    "daftShortcode": "36454635",
+    "seller": {
+      "sellerId": 6390253,
+      "name": "Rutuja Surve",
+      "phone": "353870312914",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "A1"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.400774,
+        53.379997
+      ]
+    },
+    "seoFriendlyPath": "/share/u-clonsilla-windmill-place-dublin-15-porterstown-dublin-15/6454635",
     "category": "Share",
     "state": "PUBLISHED",
     "premierPartner": false
