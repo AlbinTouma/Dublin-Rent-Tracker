@@ -68026,5 +68026,140 @@
     "category": "Share",
     "state": "PUBLISHED",
     "premierPartner": false
+  },
+  {
+    "id": 6454636,
+    "title": "EN SUITE LARKFIELD, Lucan, Co. Dublin",
+    "seoTitle": "EN SUITE LARKFIELD, Lucan, Co. Dublin",
+    "sections": [
+      "Property",
+      "Sharing",
+      "House"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1765650289774,
+    "price": "€935 per month",
+    "abbreviatedPrice": "€940",
+    "numBedrooms": "Double Room",
+    "propertyType": "House",
+    "daftShortcode": "36454636",
+    "seller": {
+      "sellerId": 199175,
+      "name": "EN SUITE LARKFIELD",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "C1"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.4211119089051,
+        53.352511515758
+      ]
+    },
+    "seoFriendlyPath": "/share/en-suite-larkfield-lucan-co-dublin/6454636",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6454716,
+    "title": "Newcomen Court,Dublin 3, Ballybough, Dublin 3",
+    "seoTitle": "Newcomen Court,Dublin 3, Ballybough, Dublin 3",
+    "sections": [
+      "Property",
+      "Sharing",
+      "Apartment"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1765650200929,
+    "price": "€1,000 per month",
+    "abbreviatedPrice": "€1,000",
+    "numBedrooms": "Double Room",
+    "propertyType": "Apartment",
+    "daftShortcode": "36454716",
+    "seller": {
+      "sellerId": 1790587,
+      "name": "Salman Birajdar",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "B2"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.243685,
+        53.357415
+      ]
+    },
+    "seoFriendlyPath": "/share/newcomen-court-dublin-3-ballybough-dublin-3/6454716",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6454813,
+    "title": "Grand Canal Square Residences, Hibernian Road, Dublin 2, Grand Canal Dock, Dublin 2",
+    "seoTitle": "Grand Canal Square Residences, Hibernian Road, Dublin 2, Grand Canal Dock, Dublin 2",
+    "sections": [
+      "Property",
+      "Sharing",
+      "Apartment"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1765650201187,
+    "price": "€2,300 per month",
+    "abbreviatedPrice": "€2,300",
+    "numBedrooms": "Double Room",
+    "propertyType": "Apartment",
+    "daftShortcode": "36454813",
+    "seller": {
+      "sellerId": 5712970,
+      "name": "Miss S Reddy",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "SI_666"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.239073,
+        53.344748
+      ]
+    },
+    "seoFriendlyPath": "/share/grand-canal-square-residences-hibernian-road-dublin-2-grand-canal-dock-dublin-2/6454813",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
   }
 ]
