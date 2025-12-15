@@ -11482,6 +11482,51 @@
     "premierPartner": false
   },
   {
+    "id": 6279416,
+    "title": "Starbucks, Unit 2, The Green, Strand Street, Malahide, Co. Dublin",
+    "seoTitle": "Starbucks, Unit 2, The Green, Strand Street, Malahide, Co. Dublin",
+    "sections": [
+      "Property",
+      "Sharing",
+      "Apartment"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1765723837290,
+    "price": "€1,000 per month",
+    "abbreviatedPrice": "€1,000",
+    "numBedrooms": "Double Room",
+    "propertyType": "Apartment",
+    "daftShortcode": "36279416",
+    "seller": {
+      "sellerId": 6406295,
+      "name": "Private User",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "SI_666"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.154571,
+        53.452199
+      ]
+    },
+    "seoFriendlyPath": "/share/starbucks-unit-2-the-green-strand-street-malahide-co-dublin/6279416",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
     "id": 6279717,
     "title": "Parc Na Silla, Shankill Dublin 18, Ballycorus, Co. Dublin",
     "seoTitle": "Parc Na Silla, Shankill Dublin 18, Ballycorus, Co. Dublin",
@@ -68158,6 +68203,144 @@
       ]
     },
     "seoFriendlyPath": "/share/grand-canal-square-residences-hibernian-road-dublin-2-grand-canal-dock-dublin-2/6454813",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6454900,
+    "title": "Hazelbury Green, Dublin 15, Clonsilla, Dublin 15",
+    "seoTitle": "Hazelbury Green, Dublin 15, Clonsilla, Dublin 15",
+    "sections": [
+      "Property",
+      "Sharing",
+      "House"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1765741980429,
+    "price": "€950 per month",
+    "abbreviatedPrice": "€950",
+    "numBedrooms": "Double Room",
+    "propertyType": "House",
+    "daftShortcode": "36454900",
+    "seller": {
+      "sellerId": 1495493,
+      "name": "Andy",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "B3"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.433772,
+        53.402349
+      ]
+    },
+    "seoFriendlyPath": "/share/hazelbury-green-dublin-15-clonsilla-dublin-15/6454900",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6454911,
+    "title": "11 Saint James'S Terrace, Dublin 8, South Circular Road, Dublin 8",
+    "seoTitle": "11 Saint James'S Terrace, Dublin 8, South Circular Road, Dublin 8",
+    "sections": [
+      "Property",
+      "Sharing",
+      "House"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1765741980684,
+    "price": "€1,000 per month",
+    "abbreviatedPrice": "€1,000",
+    "numBedrooms": "Double Room",
+    "propertyType": "House",
+    "daftShortcode": "36454911",
+    "seller": {
+      "sellerId": 688041,
+      "name": "Brian McCann",
+      "phone": "353874433331",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "B2"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.291838,
+        53.332472
+      ]
+    },
+    "seoFriendlyPath": "/share/11-saint-jamess-terrace-dublin-8-south-circular-road-dublin-8/6454911",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6454981,
+    "title": "The Mews, Coolawn, 9 Palmerston Park, Dublin 6, Dartry, Dublin 6",
+    "seoTitle": "The Mews, Coolawn, 9 Palmerston Park, Dublin 6, Dartry, Dublin 6",
+    "sections": [
+      "Property",
+      "Sharing",
+      "House"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1765741980668,
+    "price": "€800 per month",
+    "abbreviatedPrice": "€800",
+    "numBedrooms": "Double Room",
+    "propertyType": "House",
+    "daftShortcode": "36454981",
+    "seller": {
+      "sellerId": 81772,
+      "name": "Palmerston Park",
+      "phone": "353872489753",
+      "phoneWhenToCall": "9.30 -8 pm",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "SI_666"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.259461,
+        53.313612
+      ]
+    },
+    "seoFriendlyPath": "/share/the-mews-coolawn-9-palmerston-park-dublin-6-dartry-dublin-6/6454981",
     "category": "Share",
     "state": "PUBLISHED",
     "premierPartner": false
