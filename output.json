@@ -68344,5 +68344,95 @@
     "category": "Share",
     "state": "PUBLISHED",
     "premierPartner": false
+  },
+  {
+    "id": 6455089,
+    "title": "Sandyford, Dublin 18, Sandyford, Dublin 18",
+    "seoTitle": "Sandyford, Dublin 18, Sandyford, Dublin 18",
+    "sections": [
+      "Property",
+      "Sharing",
+      "House"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1765823424031,
+    "price": "€1,000 per month",
+    "abbreviatedPrice": "€1,000",
+    "numBedrooms": "Double Room",
+    "propertyType": "House",
+    "daftShortcode": "36455089",
+    "seller": {
+      "sellerId": 6588966,
+      "name": "CJ",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "SI_666"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.22556,
+        53.26736
+      ]
+    },
+    "seoFriendlyPath": "/share/sandyford-dublin-18-sandyford-dublin-18/6455089",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6455254,
+    "title": "Rathmichael Road, Shankill  Dublin 18, Ballycorus, Co. Dublin",
+    "seoTitle": "Rathmichael Road, Shankill  Dublin 18, Ballycorus, Co. Dublin",
+    "sections": [
+      "Property",
+      "Sharing",
+      "House"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1765823422740,
+    "price": "€1,150 per month",
+    "abbreviatedPrice": "€1,150",
+    "numBedrooms": "Double Room",
+    "propertyType": "House",
+    "daftShortcode": "36455254",
+    "seller": {
+      "sellerId": 6589306,
+      "name": "Private User",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "D1"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.150217,
+        53.237448
+      ]
+    },
+    "seoFriendlyPath": "/share/-rathmichael-road-dublin-18-ballycorus-co-dublin/6455254",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
   }
 ]
