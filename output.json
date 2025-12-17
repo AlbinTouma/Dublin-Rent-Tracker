@@ -68434,5 +68434,51 @@
     "category": "Share",
     "state": "PUBLISHED",
     "premierPartner": false
+  },
+  {
+    "id": 6456621,
+    "title": "Deanstown Avenue, Dublin 11, Finglas, Dublin 11",
+    "seoTitle": "Deanstown Avenue, Dublin 11, Finglas, Dublin 11",
+    "sections": [
+      "Property",
+      "Sharing",
+      "House"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1765904234511,
+    "price": "€850 per month",
+    "abbreviatedPrice": "€850",
+    "numBedrooms": "Double Room",
+    "propertyType": "House",
+    "daftShortcode": "36456621",
+    "seller": {
+      "sellerId": 1286239,
+      "name": "Marian - message on WhatsApp ",
+      "phone": "353879729138",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "C1"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.31667,
+        53.384556
+      ]
+    },
+    "seoFriendlyPath": "/share/deanstown-avenue-dublin-11-finglas-dublin-11/6456621",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
   }
 ]
