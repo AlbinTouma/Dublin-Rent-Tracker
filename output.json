@@ -236,6 +236,54 @@
     "premierPartner": false
   },
   {
+    "id": 5739649,
+    "title": "409 Stillorgan Road, Stillorgan , Stillorgan Road, Stillorgan, Co. Dublin",
+    "seoTitle": "409 Stillorgan Road, Stillorgan , Stillorgan Road, Stillorgan, Co. Dublin",
+    "sections": [
+      "Property",
+      "Private Rental Sector",
+      "Apartments"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "PREMIUM",
+    "featuredLevelFull": "PREMIUM",
+    "publishDate": 1765970373000,
+    "price": "From €258 per week",
+    "abbreviatedPrice": "€260",
+    "numBedrooms": "1 bed",
+    "propertyType": "Apartments",
+    "daftShortcode": "919626102",
+    "seller": {
+      "sellerId": 11905,
+      "name": "Enquiries",
+      "branch": "409 Stillorgan Road",
+      "address": "409 Partnership, 1st Floor, Maple House, Lower Kilmacud Road, Stillorgan, Co. Dublin, A94 E3F2",
+      "backgroundColour": "#eeeeee",
+      "sellerType": "BRANDED_AGENT",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "NA"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.203180126985387,
+        53.29554416906126
+      ]
+    },
+    "seoFriendlyPath": "/for-rent/409-stillorgan-road-stillorgan-stillorgan-road-stillorgan-co-dublin/5739649",
+    "category": "Rent",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
     "id": 5865022,
     "title": "Capel Street, Dublin 1",
     "seoTitle": "Capel Street, Dublin 1",
@@ -62760,6 +62808,51 @@
     "premierPartner": false
   },
   {
+    "id": 6345734,
+    "title": "4A ASHLING HEIGHTS, Blanchardstown, Dublin 15",
+    "seoTitle": "4A ASHLING HEIGHTS, Blanchardstown, Dublin 15",
+    "sections": [
+      "Property",
+      "Sharing",
+      "House"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1765974906414,
+    "price": "€235 per week",
+    "abbreviatedPrice": "€240",
+    "numBedrooms": "Double Room",
+    "propertyType": "House",
+    "daftShortcode": "36345734",
+    "seller": {
+      "sellerId": 1819408,
+      "name": "VARDA/GARY FARRELL",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "A1"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.3823488001371,
+        53.391614044266
+      ]
+    },
+    "seoFriendlyPath": "/share/4a-ashling-heights-blanchardstown-dublin-15/6345734",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
     "id": 6346019,
     "title": " Cruise Park Walk,Dublin 15, Tyrrelstown, Dublin 15",
     "seoTitle": " Cruise Park Walk,Dublin 15, Tyrrelstown, Dublin 15",
@@ -68477,6 +68570,142 @@
       ]
     },
     "seoFriendlyPath": "/share/deanstown-avenue-dublin-11-finglas-dublin-11/6456621",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6456671,
+    "title": "Olivemount Grove, Windy Arbour, Dublin 14",
+    "seoTitle": "Olivemount Grove, Windy Arbour, Dublin 14",
+    "sections": [
+      "Property",
+      "Sharing",
+      "House"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1765929600000,
+    "price": "€1,000 per month",
+    "abbreviatedPrice": "€1,000",
+    "numBedrooms": "Single Room",
+    "propertyType": "House",
+    "daftShortcode": "36456671",
+    "seller": {
+      "sellerId": 5533638,
+      "name": "Mark",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "1955",
+    "ber": {
+      "rating": "C1",
+      "code": "106805567"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.2446862,
+        53.3044601
+      ]
+    },
+    "seoFriendlyPath": "/share/olivemount-grove-windy-arbour-dublin-14/6456671",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6456688,
+    "title": "58 Sefton, Rochestown Avenue, Dun Laoghaire, Co. Dublin",
+    "seoTitle": "58 Sefton, Rochestown Avenue, Dun Laoghaire, Co. Dublin",
+    "sections": [
+      "Property",
+      "Sharing",
+      "House"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1765963658376,
+    "price": "€850 per month",
+    "abbreviatedPrice": "€850",
+    "numBedrooms": "Double Room",
+    "propertyType": "House",
+    "daftShortcode": "36456688",
+    "seller": {
+      "sellerId": 1458834,
+      "name": "Aisling Thompson",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "D1"
+    },
+    "platform": "DAPI-IPHONE",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.1488612918734,
+        53.277086685699
+      ]
+    },
+    "seoFriendlyPath": "/share/58-sefton-rochestown-avenue-dun-laoghaire-co-dublin/6456688",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6457399,
+    "title": "Firhouse Dublin 24, Firhouse, Dublin 24",
+    "seoTitle": "Firhouse Dublin 24, Firhouse, Dublin 24",
+    "sections": [
+      "Property",
+      "Sharing",
+      "House"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1766008530529,
+    "price": "€850 per month",
+    "abbreviatedPrice": "€850",
+    "numBedrooms": "Double Room",
+    "propertyType": "House",
+    "daftShortcode": "36457399",
+    "seller": {
+      "sellerId": 6588739,
+      "name": "Private User",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "A1"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.330531,
+        53.271508
+      ]
+    },
+    "seoFriendlyPath": "/share/firhouse-dublin-24-firhouse-dublin-24/6457399",
     "category": "Share",
     "state": "PUBLISHED",
     "premierPartner": false
