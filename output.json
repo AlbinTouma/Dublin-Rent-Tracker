@@ -68709,5 +68709,142 @@
     "category": "Share",
     "state": "PUBLISHED",
     "premierPartner": false
+  },
+  {
+    "id": 6457625,
+    "title": "24 Wilfield, Dublin 4, Sandymount, Dublin 4",
+    "seoTitle": "24 Wilfield, Dublin 4, Sandymount, Dublin 4",
+    "sections": [
+      "Property",
+      "Sharing",
+      "House"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1766057205468,
+    "price": "€1,295 per month",
+    "abbreviatedPrice": "€1,300",
+    "numBedrooms": "Double Room",
+    "propertyType": "House",
+    "daftShortcode": "36457625",
+    "seller": {
+      "sellerId": 1833036,
+      "name": "Margaret ",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "E1"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.219905,
+        53.326721
+      ]
+    },
+    "seoFriendlyPath": "/share/24-wilfield-dublin-4-sandymount-dublin-4/6457625",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6457906,
+    "title": "The Avenue,Saint Marnock'S Bay,Portmarnock,Co. Dublin, Portmarnock, Co. Dublin",
+    "seoTitle": "The Avenue,Saint Marnock'S Bay,Portmarnock,Co. Dublin, Portmarnock, Co. Dublin",
+    "sections": [
+      "Property",
+      "Sharing",
+      "Apartment"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1766084706310,
+    "price": "€1,500 per month",
+    "abbreviatedPrice": "€1,500",
+    "numBedrooms": "Double Room",
+    "propertyType": "Apartment",
+    "daftShortcode": "36457906",
+    "seller": {
+      "sellerId": 5008335,
+      "name": "Simi Ogunsola",
+      "phone": "353894333361",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "A2"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.149702,
+        53.41782
+      ]
+    },
+    "seoFriendlyPath": "/share/the-avenue-saint-marnocks-bay-portmarnock-co-dublin-portmarnock-co-dublin/6457906",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
+  },
+  {
+    "id": 6457938,
+    "title": "12 Collis Court, Jugback Lane, Swords, Swords, Co. Dublin",
+    "seoTitle": "12 Collis Court, Jugback Lane, Swords, Swords, Co. Dublin",
+    "sections": [
+      "Property",
+      "Sharing",
+      "House"
+    ],
+    "saleType": [
+      "To Let"
+    ],
+    "featuredLevel": "FEATURED",
+    "featuredLevelFull": "FEATURED",
+    "publishDate": 1766094982439,
+    "price": "€1,200 per month",
+    "abbreviatedPrice": "€1,200",
+    "numBedrooms": "Double Room",
+    "propertyType": "House",
+    "daftShortcode": "36457938",
+    "seller": {
+      "sellerId": 523543,
+      "name": "Laura O\\'Donovan",
+      "phone": "353871831416",
+      "sellerType": "PRIVATE_USER",
+      "showContactForm": true,
+      "premierPartnerSeller": false,
+      "sellerAvailable": true
+    },
+    "dateOfConstruction": "NA",
+    "ber": {
+      "rating": "C1"
+    },
+    "platform": "WEB",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -6.226537,
+        53.46589
+      ]
+    },
+    "seoFriendlyPath": "/share/12-collis-court-jugback-lane-swords-swords-co-dublin/6457938",
+    "category": "Share",
+    "state": "PUBLISHED",
+    "premierPartner": false
   }
 ]
