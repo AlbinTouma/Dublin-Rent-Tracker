@@ -10,6 +10,8 @@ echo "Running scraper"
 
 OUTPUT_FILE="output.json"
 TEMP_FILE=(mktemp)
+DATE=$(date -F)
+
 echo "[]" > "$TEMP_FILE" 
 
 # Page starts at 1 else 404
@@ -106,7 +108,7 @@ jq -s 'add | unique_by(.id)' "$OUTPUT_FILE" "$TEMP_FILE" > "$OUTPUT_FILE.tmp"
 mv "$OUTPUT_FILE.tmp" "$OUTPUT_FILE"
 echo "Scraping completed"
 
-sqlite-utils insert daft.db sharing output.json --pk=id --ignore --flatten
+sqlite-utils insert daft.db sharing output.json --pk=id --ignore --flatten --alter
 
 
 git config user.name "github-actions[bot]"
