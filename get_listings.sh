@@ -10,7 +10,6 @@ echo "Running scraper"
 
 OUTPUT_FILE="output.json"
 TEMP_FILE=(mktemp)
-DATE=$(date -F)
 
 echo "[]" > "$TEMP_FILE" 
 
